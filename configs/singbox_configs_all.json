@@ -102,63 +102,60 @@
             "tag": "🌐 Anonymous Multi",
             "outbounds": [
                 "👽 Best Ping 🚀",
-                "🇺🇸 3 - US - VLESS/WS - 8080",
                 "🇺🇸 1 - US - VLESS/WS - 8080",
                 "🇺🇸 4 - US - VLESS/WS - 8080",
                 "🇺🇸 2 - US - VLESS/WS - 8080",
+                "🇺🇸 3 - US - VLESS/WS - 8080",
                 "🇺🇸 5 - US - VLESS/WS - 8080",
-                "🇺🇸 6 - US - VLESS/WS/TLS/UTLS - 443",
+                "🇺🇸 6 - US - VLESS/WS - 8080",
+                "🇺🇸 7 - US - VLESS/WS - 8080",
+                "🇺🇸 8 - US - VLESS/WS - 8080",
                 "🇺🇸 9 - US - VLESS/WS/TLS/UTLS - 443",
-                "🇺🇸 20 - US - VLESS/WS/TLS/UTLS - 2053",
-                "🇺🇸 21 - US - VLESS/WS/TLS/UTLS - 2083",
+                "🇺🇸 18 - US - VLESS/WS/TLS/UTLS - 2053",
+                "🇺🇸 19 - US - VLESS/WS/TLS/UTLS - 2083",
+                "🇺🇸 20 - US - VLESS/WS/TLS/UTLS - 8443",
+                "🇺🇸 21 - US - VLESS/WS/TLS/UTLS - 8443",
                 "🇺🇸 22 - US - VLESS/WS/TLS/UTLS - 8443",
-                "🇺🇸 26 - US - VLESS/WS/TLS/UTLS - 443",
-                "🇺🇸 27 - US - VLESS/WS/TLS/UTLS - 443",
-                "🇺🇸 28 - US - VLESS/WS/TLS/UTLS - 443",
-                "🇺🇸 29 - US - VLESS/WS/TLS/UTLS - 2053",
-                "🇺🇸 30 - US - VLESS/WS/TLS/UTLS - 443",
-                "🇺🇸 31 - US - VLESS/WS/TLS/UTLS - 443",
-                "🇺🇸 37 - US - VLESS/WS/TLS/UTLS - 8443",
-                "🇺🇸 48 - US - VLESS/WS/TLS/UTLS - 8443",
-                "🇺🇸 52 - US - VLESS/WS/TLS/UTLS - 2083",
-                "🇺🇸 53 - US - VLESS/WS/TLS/UTLS - 2083",
-                "🇺🇸 54 - US - VLESS/WS/TLS/UTLS - 2087",
+                "🇺🇸 26 - US - VLESS/WS/TLS/UTLS - 2053",
+                "🇺🇸 27 - US - VLESS/WS/TLS/UTLS - 2053",
+                "🇺🇸 46 - US - VLESS/WS/TLS/UTLS - 2096",
+                "🇺🇸 45 - US - VLESS/WS/TLS/UTLS - 8443",
+                "🇺🇸 53 - US - VLESS/WS/TLS/UTLS - 443",
+                "🇸🇨 54 - SC - VLESS/WS/TLS/UTLS - 8443",
+                "🇺🇸 55 - US - VLESS/XHTTP/TLS/UTLS - 443",
                 "🇺🇸 63 - US - VLESS/WS/TLS/UTLS - 2083",
-                "🇺🇸 70 - US - VLESS/WS/TLS/UTLS - 2083",
-                "🇺🇸 71 - US - VLESS/WS/TLS/UTLS - 2096",
-                "🇺🇸 72 - US - VLESS/WS/TLS/UTLS - 2096",
-                "🇺🇸 73 - US - VLESS/WS/TLS/UTLS - 2083",
-                "🇺🇸 74 - US - VLESS/WS/TLS/UTLS - 443",
-                "🇺🇸 78 - US - VLESS/WS/TLS/UTLS - 443",
-                "🇺🇸 79 - US - VLESS/WS/TLS - 443",
-                "🇺🇸 82 - US - VLESS/WS/TLS/UTLS - 2087",
-                "🇺🇸 81 - US - VLESS/XHTTP/TLS/UTLS - 443",
-                "🇺🇸 83 - US - VLESS/WS/TLS/UTLS - 8443",
-                "🇺🇸 84 - US - VLESS/WS - 2052",
-                "🇺🇸 85 - US - VLESS/WS/TLS/UTLS - 443",
-                "🇺🇸 86 - US - VLESS/WS/TLS/UTLS - 443",
+                "🇺🇸 64 - US - VLESS/WS/TLS/UTLS - 2096",
+                "🇺🇸 65 - US - VLESS/WS/TLS/UTLS - 2083",
+                "🇺🇸 66 - US - VLESS/WS - 2052",
+                "🇺🇸 67 - US - VLESS/WS - 2052",
+                "🇺🇸 68 - US - VLESS/WS/TLS/UTLS - 443",
+                "🇺🇸 73 - US - VLESS/WS/TLS - 443",
+                "🇺🇸 75 - US - VLESS/WS/TLS/UTLS - 2087",
+                "🇺🇸 76 - US - VLESS/WS/TLS/UTLS - 8443",
+                "🇺🇸 74 - US - VLESS/XHTTP/TLS/UTLS - 443",
+                "🇺🇸 80 - US - VLESS/WS/TLS/UTLS - 443",
+                "🇺🇸 81 - US - VLESS/WS/TLS/UTLS - 443",
+                "🇺🇸 82 - US - VLESS/WS/TLS/UTLS - 443",
+                "🇺🇸 83 - US - VLESS/WS/TLS/UTLS - 443",
+                "🇺🇸 84 - US - VLESS/WS/TLS/UTLS - 443",
+                "🇺🇸 85 - US - VLESS/WS/TLS/UTLS - 2096",
+                "🇺🇸 86 - US - VLESS/XHTTP/TLS/UTLS - 443",
                 "🇺🇸 87 - US - VLESS/WS/TLS/UTLS - 443",
-                "🇺🇸 88 - US - VLESS/WS/TLS/UTLS - 443",
-                "🇺🇸 89 - US - VLESS/WS/TLS/UTLS - 443",
-                "🇺🇸 90 - US - VLESS/WS/TLS/UTLS - 443",
-                "🇺🇸 91 - US - VLESS/WS/TLS/UTLS - 443",
-                "🇺🇸 93 - US - VLESS/WS/TLS/UTLS - 2096",
-                "🇺🇸 92 - US - VLESS/WS/TLS/UTLS - 443",
-                "🇺🇸 94 - US - VLESS/WS/TLS/UTLS - 2096",
-                "🇺🇸 95 - US - VLESS/XHTTP/TLS/UTLS - 443",
-                "🇺🇸 96 - US - VLESS/WS/TLS/UTLS - 443",
-                "🇺🇸 98 - US - VLESS/WS - 8080",
-                "🇺🇸 102 - US - VLESS/WS/TLS/UTLS - 2083",
-                "🇺🇸 103 - US - VLESS/WS/TLS/UTLS - 2083",
-                "🇺🇸 104 - US - VLESS/WS/TLS/UTLS - 2083",
+                "🇺🇸 88 - US - VLESS/WS - 8080",
+                "🇺🇸 89 - US - VLESS/WS - 8080",
+                "🇺🇸 90 - US - VLESS/WS - 8080",
+                "🇺🇸 99 - US - VLESS/WS/TLS/UTLS - 443",
+                "🇺🇸 106 - US - VLESS/WS/TLS/UTLS - 443",
+                "🇺🇸 107 - US - VLESS/WS/TLS/UTLS - 443",
                 "🇺🇸 108 - US - VLESS/WS/TLS/UTLS - 443",
                 "🇺🇸 109 - US - VLESS/WS/TLS/UTLS - 443",
-                "🇺🇸 116 - US - VLESS/WS/TLS/UTLS - 443",
-                "🇺🇸 117 - US - VLESS/WS/TLS/UTLS - 443",
-                "🇺🇸 118 - US - VLESS/WS/TLS/UTLS - 443",
+                "🇺🇸 110 - US - VLESS/WS/TLS/UTLS - 443",
+                "🇺🇸 111 - US - VLESS/WS/TLS/UTLS - 443",
                 "🇺🇸 1 - US - Trojan/WS/TLS/UTLS - 443",
-                "🇺🇸 101 - US - Trojan/WS/TLS/UTLS - 443",
-                "🇺🇸 105 - US - Trojan/WS/TLS/UTLS - 443",
+                "🇺🇸 72 - US - Trojan/WS/TLS/UTLS - 443",
+                "🇺🇸 73 - US - Trojan/WS/TLS/UTLS - 443",
+                "🇺🇸 74 - US - Trojan/WS/TLS/UTLS - 443",
+                "🇺🇸 75 - US - Trojan/WS/TLS/UTLS - 443",
                 "direct"
             ]
         },
@@ -170,63 +167,60 @@
             "type": "urltest",
             "tag": "👽 Best Ping 🚀",
             "outbounds": [
-                "🇺🇸 3 - US - VLESS/WS - 8080",
                 "🇺🇸 1 - US - VLESS/WS - 8080",
                 "🇺🇸 4 - US - VLESS/WS - 8080",
                 "🇺🇸 2 - US - VLESS/WS - 8080",
+                "🇺🇸 3 - US - VLESS/WS - 8080",
                 "🇺🇸 5 - US - VLESS/WS - 8080",
-                "🇺🇸 6 - US - VLESS/WS/TLS/UTLS - 443",
+                "🇺🇸 6 - US - VLESS/WS - 8080",
+                "🇺🇸 7 - US - VLESS/WS - 8080",
+                "🇺🇸 8 - US - VLESS/WS - 8080",
                 "🇺🇸 9 - US - VLESS/WS/TLS/UTLS - 443",
-                "🇺🇸 20 - US - VLESS/WS/TLS/UTLS - 2053",
-                "🇺🇸 21 - US - VLESS/WS/TLS/UTLS - 2083",
+                "🇺🇸 18 - US - VLESS/WS/TLS/UTLS - 2053",
+                "🇺🇸 19 - US - VLESS/WS/TLS/UTLS - 2083",
+                "🇺🇸 20 - US - VLESS/WS/TLS/UTLS - 8443",
+                "🇺🇸 21 - US - VLESS/WS/TLS/UTLS - 8443",
                 "🇺🇸 22 - US - VLESS/WS/TLS/UTLS - 8443",
-                "🇺🇸 26 - US - VLESS/WS/TLS/UTLS - 443",
-                "🇺🇸 27 - US - VLESS/WS/TLS/UTLS - 443",
-                "🇺🇸 28 - US - VLESS/WS/TLS/UTLS - 443",
-                "🇺🇸 29 - US - VLESS/WS/TLS/UTLS - 2053",
-                "🇺🇸 30 - US - VLESS/WS/TLS/UTLS - 443",
-                "🇺🇸 31 - US - VLESS/WS/TLS/UTLS - 443",
-                "🇺🇸 37 - US - VLESS/WS/TLS/UTLS - 8443",
-                "🇺🇸 48 - US - VLESS/WS/TLS/UTLS - 8443",
-                "🇺🇸 52 - US - VLESS/WS/TLS/UTLS - 2083",
-                "🇺🇸 53 - US - VLESS/WS/TLS/UTLS - 2083",
-                "🇺🇸 54 - US - VLESS/WS/TLS/UTLS - 2087",
+                "🇺🇸 26 - US - VLESS/WS/TLS/UTLS - 2053",
+                "🇺🇸 27 - US - VLESS/WS/TLS/UTLS - 2053",
+                "🇺🇸 46 - US - VLESS/WS/TLS/UTLS - 2096",
+                "🇺🇸 45 - US - VLESS/WS/TLS/UTLS - 8443",
+                "🇺🇸 53 - US - VLESS/WS/TLS/UTLS - 443",
+                "🇸🇨 54 - SC - VLESS/WS/TLS/UTLS - 8443",
+                "🇺🇸 55 - US - VLESS/XHTTP/TLS/UTLS - 443",
                 "🇺🇸 63 - US - VLESS/WS/TLS/UTLS - 2083",
-                "🇺🇸 70 - US - VLESS/WS/TLS/UTLS - 2083",
-                "🇺🇸 71 - US - VLESS/WS/TLS/UTLS - 2096",
-                "🇺🇸 72 - US - VLESS/WS/TLS/UTLS - 2096",
-                "🇺🇸 73 - US - VLESS/WS/TLS/UTLS - 2083",
-                "🇺🇸 74 - US - VLESS/WS/TLS/UTLS - 443",
-                "🇺🇸 78 - US - VLESS/WS/TLS/UTLS - 443",
-                "🇺🇸 79 - US - VLESS/WS/TLS - 443",
-                "🇺🇸 82 - US - VLESS/WS/TLS/UTLS - 2087",
-                "🇺🇸 81 - US - VLESS/XHTTP/TLS/UTLS - 443",
-                "🇺🇸 83 - US - VLESS/WS/TLS/UTLS - 8443",
-                "🇺🇸 84 - US - VLESS/WS - 2052",
-                "🇺🇸 85 - US - VLESS/WS/TLS/UTLS - 443",
-                "🇺🇸 86 - US - VLESS/WS/TLS/UTLS - 443",
+                "🇺🇸 64 - US - VLESS/WS/TLS/UTLS - 2096",
+                "🇺🇸 65 - US - VLESS/WS/TLS/UTLS - 2083",
+                "🇺🇸 66 - US - VLESS/WS - 2052",
+                "🇺🇸 67 - US - VLESS/WS - 2052",
+                "🇺🇸 68 - US - VLESS/WS/TLS/UTLS - 443",
+                "🇺🇸 73 - US - VLESS/WS/TLS - 443",
+                "🇺🇸 75 - US - VLESS/WS/TLS/UTLS - 2087",
+                "🇺🇸 76 - US - VLESS/WS/TLS/UTLS - 8443",
+                "🇺🇸 74 - US - VLESS/XHTTP/TLS/UTLS - 443",
+                "🇺🇸 80 - US - VLESS/WS/TLS/UTLS - 443",
+                "🇺🇸 81 - US - VLESS/WS/TLS/UTLS - 443",
+                "🇺🇸 82 - US - VLESS/WS/TLS/UTLS - 443",
+                "🇺🇸 83 - US - VLESS/WS/TLS/UTLS - 443",
+                "🇺🇸 84 - US - VLESS/WS/TLS/UTLS - 443",
+                "🇺🇸 85 - US - VLESS/WS/TLS/UTLS - 2096",
+                "🇺🇸 86 - US - VLESS/XHTTP/TLS/UTLS - 443",
                 "🇺🇸 87 - US - VLESS/WS/TLS/UTLS - 443",
-                "🇺🇸 88 - US - VLESS/WS/TLS/UTLS - 443",
-                "🇺🇸 89 - US - VLESS/WS/TLS/UTLS - 443",
-                "🇺🇸 90 - US - VLESS/WS/TLS/UTLS - 443",
-                "🇺🇸 91 - US - VLESS/WS/TLS/UTLS - 443",
-                "🇺🇸 93 - US - VLESS/WS/TLS/UTLS - 2096",
-                "🇺🇸 92 - US - VLESS/WS/TLS/UTLS - 443",
-                "🇺🇸 94 - US - VLESS/WS/TLS/UTLS - 2096",
-                "🇺🇸 95 - US - VLESS/XHTTP/TLS/UTLS - 443",
-                "🇺🇸 96 - US - VLESS/WS/TLS/UTLS - 443",
-                "🇺🇸 98 - US - VLESS/WS - 8080",
-                "🇺🇸 102 - US - VLESS/WS/TLS/UTLS - 2083",
-                "🇺🇸 103 - US - VLESS/WS/TLS/UTLS - 2083",
-                "🇺🇸 104 - US - VLESS/WS/TLS/UTLS - 2083",
+                "🇺🇸 88 - US - VLESS/WS - 8080",
+                "🇺🇸 89 - US - VLESS/WS - 8080",
+                "🇺🇸 90 - US - VLESS/WS - 8080",
+                "🇺🇸 99 - US - VLESS/WS/TLS/UTLS - 443",
+                "🇺🇸 106 - US - VLESS/WS/TLS/UTLS - 443",
+                "🇺🇸 107 - US - VLESS/WS/TLS/UTLS - 443",
                 "🇺🇸 108 - US - VLESS/WS/TLS/UTLS - 443",
                 "🇺🇸 109 - US - VLESS/WS/TLS/UTLS - 443",
-                "🇺🇸 116 - US - VLESS/WS/TLS/UTLS - 443",
-                "🇺🇸 117 - US - VLESS/WS/TLS/UTLS - 443",
-                "🇺🇸 118 - US - VLESS/WS/TLS/UTLS - 443",
+                "🇺🇸 110 - US - VLESS/WS/TLS/UTLS - 443",
+                "🇺🇸 111 - US - VLESS/WS/TLS/UTLS - 443",
                 "🇺🇸 1 - US - Trojan/WS/TLS/UTLS - 443",
-                "🇺🇸 101 - US - Trojan/WS/TLS/UTLS - 443",
-                "🇺🇸 105 - US - Trojan/WS/TLS/UTLS - 443"
+                "🇺🇸 72 - US - Trojan/WS/TLS/UTLS - 443",
+                "🇺🇸 73 - US - Trojan/WS/TLS/UTLS - 443",
+                "🇺🇸 74 - US - Trojan/WS/TLS/UTLS - 443",
+                "🇺🇸 75 - US - Trojan/WS/TLS/UTLS - 443"
             ],
             "url": "https://www.gstatic.com/generate_204",
             "interrupt_exist_connections": false,
@@ -234,26 +228,8 @@
         },
         {
             "type": "vless",
-            "tag": "🇺🇸 3 - US - VLESS/WS - 8080",
-            "server": "172.67.69.236",
-            "server_port": 8080,
-            "uuid": "0058c215-ab1e-400c-a403-b5b2fda7e846",
-            "flow": "",
-            "tls": {
-                "enabled": false
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/",
-                "headers": {
-                    "Host": "tr-cd.sublink-vip2.com"
-                }
-            }
-        },
-        {
-            "type": "vless",
             "tag": "🇺🇸 1 - US - VLESS/WS - 8080",
-            "server": "104.21.65.173",
+            "server": "104.16.0.0",
             "server_port": 8080,
             "uuid": "0058c215-ab1e-400c-a403-b5b2fda7e846",
             "flow": "",
@@ -271,7 +247,7 @@
         {
             "type": "vless",
             "tag": "🇺🇸 4 - US - VLESS/WS - 8080",
-            "server": "www.parsvds.com",
+            "server": "104.26.15.137",
             "server_port": 8080,
             "uuid": "0058c215-ab1e-400c-a403-b5b2fda7e846",
             "flow": "",
@@ -289,7 +265,25 @@
         {
             "type": "vless",
             "tag": "🇺🇸 2 - US - VLESS/WS - 8080",
-            "server": "172.67.164.242",
+            "server": "104.21.65.173",
+            "server_port": 8080,
+            "uuid": "0058c215-ab1e-400c-a403-b5b2fda7e846",
+            "flow": "",
+            "tls": {
+                "enabled": false
+            },
+            "transport": {
+                "type": "ws",
+                "path": "/",
+                "headers": {
+                    "Host": "tr-cd.sublink-vip2.com"
+                }
+            }
+        },
+        {
+            "type": "vless",
+            "tag": "🇺🇸 3 - US - VLESS/WS - 8080",
+            "server": "104.26.14.16",
             "server_port": 8080,
             "uuid": "0058c215-ab1e-400c-a403-b5b2fda7e846",
             "flow": "",
@@ -307,6 +301,60 @@
         {
             "type": "vless",
             "tag": "🇺🇸 5 - US - VLESS/WS - 8080",
+            "server": "172.67.164.242",
+            "server_port": 8080,
+            "uuid": "0058c215-ab1e-400c-a403-b5b2fda7e846",
+            "flow": "",
+            "tls": {
+                "enabled": false
+            },
+            "transport": {
+                "type": "ws",
+                "path": "/",
+                "headers": {
+                    "Host": "tr-cd.sublink-vip2.com"
+                }
+            }
+        },
+        {
+            "type": "vless",
+            "tag": "🇺🇸 6 - US - VLESS/WS - 8080",
+            "server": "www.parsvds.com",
+            "server_port": 8080,
+            "uuid": "0058c215-ab1e-400c-a403-b5b2fda7e846",
+            "flow": "",
+            "tls": {
+                "enabled": false
+            },
+            "transport": {
+                "type": "ws",
+                "path": "/",
+                "headers": {
+                    "Host": "tr-cd.sublink-vip2.com"
+                }
+            }
+        },
+        {
+            "type": "vless",
+            "tag": "🇺🇸 7 - US - VLESS/WS - 8080",
+            "server": "www.parsvds.com",
+            "server_port": 8080,
+            "uuid": "0058c215-ab1e-400c-a403-b5b2fda7e846",
+            "flow": "",
+            "tls": {
+                "enabled": false
+            },
+            "transport": {
+                "type": "ws",
+                "path": "/",
+                "headers": {
+                    "Host": "tr-cd.sublink-vip2.com"
+                }
+            }
+        },
+        {
+            "type": "vless",
+            "tag": "🇺🇸 8 - US - VLESS/WS - 8080",
             "server": "www.speedtest.org",
             "server_port": 8080,
             "uuid": "0058c215-ab1e-400c-a403-b5b2fda7e846",
@@ -324,7 +372,7 @@
         },
         {
             "type": "vless",
-            "tag": "🇺🇸 6 - US - VLESS/WS/TLS/UTLS - 443",
+            "tag": "🇺🇸 9 - US - VLESS/WS/TLS/UTLS - 443",
             "server": "172.64.48.201",
             "server_port": 443,
             "uuid": "0440e93c-a9d3-4998-aeaa-d0e2363131e4",
@@ -352,34 +400,7 @@
         },
         {
             "type": "vless",
-            "tag": "🇺🇸 9 - US - VLESS/WS/TLS/UTLS - 443",
-            "server": "free.server10peekconfig.workers.dev",
-            "server_port": 443,
-            "uuid": "08ab9c6f-fdf3-4bc6-8d85-439d29484682",
-            "flow": "",
-            "tls": {
-                "enabled": true,
-                "server_name": "FREe.serVER10pEeKCoNfig.WOrKERs.DEv",
-                "insecure": false,
-                "alpn": [
-                    "http/1.1"
-                ],
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/eyJqdW5rIjoidjNTWU5QRnVlIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIiwiWzI2MDI6ZmM1OToxMTo2NDo6XSIsIlsyNjAyOmZjNTk6YjA6NjQ6Ol0iXX0=?ed=2560",
-                "headers": {
-                    "Host": "free.server10peekconfig.workers.dev"
-                }
-            }
-        },
-        {
-            "type": "vless",
-            "tag": "🇺🇸 20 - US - VLESS/WS/TLS/UTLS - 2053",
+            "tag": "🇺🇸 18 - US - VLESS/WS/TLS/UTLS - 2053",
             "server": "fans.liverpool.qzz.io",
             "server_port": 2053,
             "uuid": "2b8738de-1af5-4267-b101-c05707769ed4",
@@ -406,7 +427,7 @@
         },
         {
             "type": "vless",
-            "tag": "🇺🇸 21 - US - VLESS/WS/TLS/UTLS - 2083",
+            "tag": "🇺🇸 19 - US - VLESS/WS/TLS/UTLS - 2083",
             "server": "fans.liverpool.qzz.io",
             "server_port": 2083,
             "uuid": "2b8738de-1af5-4267-b101-c05707769ed4",
@@ -433,7 +454,7 @@
         },
         {
             "type": "vless",
-            "tag": "🇺🇸 22 - US - VLESS/WS/TLS/UTLS - 8443",
+            "tag": "🇺🇸 20 - US - VLESS/WS/TLS/UTLS - 8443",
             "server": "coats.shapourzadegan.qzz.io",
             "server_port": 8443,
             "uuid": "32fd312d-7454-4ee1-8355-ecf72559e0b9",
@@ -461,41 +482,14 @@
         },
         {
             "type": "vless",
-            "tag": "🇺🇸 26 - US - VLESS/WS/TLS/UTLS - 443",
-            "server": "server20.peekconfig5.workers.dev",
-            "server_port": 443,
-            "uuid": "36d9003c-7240-40bc-af62-07c39f7a0b94",
+            "tag": "🇺🇸 21 - US - VLESS/WS/TLS/UTLS - 8443",
+            "server": "coats.shapourzadegan.qzz.io",
+            "server_port": 8443,
+            "uuid": "32fd312d-7454-4ee1-8355-ecf72559e0b9",
             "flow": "",
             "tls": {
                 "enabled": true,
-                "server_name": "SerVEr20.PEEkCOnfig5.WORkerS.deV",
-                "insecure": false,
-                "alpn": [
-                    "http/1.1"
-                ],
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/eyJqdW5rIjoiYmNCdUhCVkFEIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIiwiWzI2MDI6ZmM1OTpiMDo2NDo6XSIsIlsyNjAyOmZjNTk6MTE6NjQ6Ol0iXX0=?ed=2560",
-                "headers": {
-                    "Host": "server20.peekconfig5.workers.dev"
-                }
-            }
-        },
-        {
-            "type": "vless",
-            "tag": "🇺🇸 27 - US - VLESS/WS/TLS/UTLS - 443",
-            "server": "restless-base-fe24.alirezahabibi20009.workers.dev",
-            "server_port": 443,
-            "uuid": "4908acbe-485f-4e1c-bb11-5dd04b9f7e88",
-            "flow": "",
-            "tls": {
-                "enabled": true,
-                "server_name": "restless-base-fe24.alirezahabibi20009.workers.dev",
+                "server_name": "coats.shapourzadegan.qzz.io",
                 "insecure": false,
                 "alpn": [
                     "h2",
@@ -508,22 +502,22 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "/eyJqdW5rIjoiRjhycEV5WUpJTGZpQSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
+                "path": "/eyJqdW5rIjoiZkdaQ1NuQW45akRFIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
                 "headers": {
-                    "Host": "restless-base-fe24.alirezahabibi20009.workers.dev"
+                    "Host": "coats.shapourzadegan.qzz.io"
                 }
             }
         },
         {
             "type": "vless",
-            "tag": "🇺🇸 28 - US - VLESS/WS/TLS/UTLS - 443",
-            "server": "restless-base-fe24.alirezahabibi20009.workers.dev",
-            "server_port": 443,
-            "uuid": "4908acbe-485f-4e1c-bb11-5dd04b9f7e88",
+            "tag": "🇺🇸 22 - US - VLESS/WS/TLS/UTLS - 8443",
+            "server": "coats.shapourzadegan.qzz.io",
+            "server_port": 8443,
+            "uuid": "32fd312d-7454-4ee1-8355-ecf72559e0b9",
             "flow": "",
             "tls": {
                 "enabled": true,
-                "server_name": "rESTless-basE-fe24.aLiReZaHabibi20009.woRKErS.DEv",
+                "server_name": "CoAts.SHaPOuRzaDeGan.QZZ.io",
                 "insecure": false,
                 "alpn": [
                     "http/1.1"
@@ -535,15 +529,15 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "/eyJqdW5rIjoiRjhycEV5WUpJTGZpQSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=?ed=2560",
+                "path": "/eyJqdW5rIjoiZkdaQ1NuQW45akRFIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==?ed=2560",
                 "headers": {
-                    "Host": "restless-base-fe24.alirezahabibi20009.workers.dev"
+                    "Host": "coats.shapourzadegan.qzz.io"
                 }
             }
         },
         {
             "type": "vless",
-            "tag": "🇺🇸 29 - US - VLESS/WS/TLS/UTLS - 2053",
+            "tag": "🇺🇸 26 - US - VLESS/WS/TLS/UTLS - 2053",
             "server": "172.67.213.26",
             "server_port": 2053,
             "uuid": "52450a53-ac49-42ff-be36-0899178d34b9",
@@ -571,14 +565,41 @@
         },
         {
             "type": "vless",
-            "tag": "🇺🇸 30 - US - VLESS/WS/TLS/UTLS - 443",
-            "server": "172.67.215.39",
-            "server_port": 443,
-            "uuid": "532a9115-aee7-4d39-9638-1e5146de075b",
+            "tag": "🇺🇸 27 - US - VLESS/WS/TLS/UTLS - 2053",
+            "server": "172.67.213.26",
+            "server_port": 2053,
+            "uuid": "52450a53-ac49-42ff-be36-0899178d34b9",
             "flow": "",
             "tls": {
                 "enabled": true,
-                "server_name": "muddy-math-c1fc.tmpnriqueau89.workers.dev",
+                "server_name": "LiTtLE-vIoLet-8ADE.VpnSToREGod.WORkerS.deV",
+                "insecure": false,
+                "alpn": [
+                    "http/1.1"
+                ],
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "/eyJqdW5rIjoiOHBjT0w3NmxvazAiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyYTAyOjg5ODoxNDY6NjQ6Ol0iXX0=?ed=2560",
+                "headers": {
+                    "Host": "little-violet-8ade.vpnstoregod.workers.dev"
+                }
+            }
+        },
+        {
+            "type": "vless",
+            "tag": "🇺🇸 46 - US - VLESS/WS/TLS/UTLS - 2096",
+            "server": "172.66.40.229",
+            "server_port": 2096,
+            "uuid": "70252937-5c61-4fb0-8656-d1a16261b795",
+            "flow": "",
+            "tls": {
+                "enabled": true,
+                "server_name": "group.shalana.xyz",
                 "insecure": false,
                 "alpn": [
                     "h2",
@@ -591,71 +612,15 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "/js/cHlpcC55Z2tray5kcGRucy5vcmc=/",
+                "path": "/shalana",
                 "headers": {
-                    "Host": "muddy-math-c1fc.tmpnriqueau89.workers.dev"
+                    "Host": "group.shalana.xyz"
                 }
             }
         },
         {
             "type": "vless",
-            "tag": "🇺🇸 31 - US - VLESS/WS/TLS/UTLS - 443",
-            "server": "muddy-math-c1fc.tmpnriqueau89.workers.dev",
-            "server_port": 443,
-            "uuid": "532a9115-aee7-4d39-9638-1e5146de075b",
-            "flow": "",
-            "tls": {
-                "enabled": true,
-                "server_name": "muddy-math-c1fc.tmpnriqueau89.workers.dev",
-                "insecure": false,
-                "alpn": [
-                    "h2",
-                    "http/1.1"
-                ],
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/js/cHlpcC55Z2tray5kcGRucy5vcmc=/?ed=2048",
-                "headers": {
-                    "Host": "muddy-math-c1fc.tmpnriqueau89.workers.dev"
-                }
-            }
-        },
-        {
-            "type": "vless",
-            "tag": "🇺🇸 37 - US - VLESS/WS/TLS/UTLS - 8443",
-            "server": "141.101.123.252",
-            "server_port": 8443,
-            "uuid": "59f93bfa-99f7-473b-a10b-a74950c005ab",
-            "flow": "",
-            "tls": {
-                "enabled": true,
-                "server_name": "dry-surf6-0c82.jqxkqk.workers.dev",
-                "insecure": false,
-                "alpn": [
-                    "h2",
-                    "http/1.1"
-                ],
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/?ed=2560",
-                "headers": {
-                    "Host": "dry-surf6-0c82.jqxkqk.workers.dev"
-                }
-            }
-        },
-        {
-            "type": "vless",
-            "tag": "🇺🇸 48 - US - VLESS/WS/TLS/UTLS - 8443",
+            "tag": "🇺🇸 45 - US - VLESS/WS/TLS/UTLS - 8443",
             "server": "188.114.97.6",
             "server_port": 8443,
             "uuid": "6a8ee5f2-0fd5-4837-a377-87dafa6e162c",
@@ -682,14 +647,14 @@
         },
         {
             "type": "vless",
-            "tag": "🇺🇸 52 - US - VLESS/WS/TLS/UTLS - 2083",
-            "server": "go.barnamenevis.qzz.io",
-            "server_port": 2083,
-            "uuid": "79063e8c-8acc-49f3-bbec-a03bdd04ceca",
+            "tag": "🇺🇸 53 - US - VLESS/WS/TLS/UTLS - 443",
+            "server": "188.114.96.0",
+            "server_port": 443,
+            "uuid": "83003840-bb0e-4265-85c5-1fb46518acfd",
             "flow": "",
             "tls": {
                 "enabled": true,
-                "server_name": "GO.BarnameneVIs.qzz.io",
+                "server_name": "NaMEleSs-SHaPE-293a.thAiCHAi.WoRkers.deV",
                 "insecure": false,
                 "alpn": [
                     "http/1.1"
@@ -701,22 +666,22 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "/eyJqdW5rIjoia243SGI3UG41IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==?ed=2560",
+                "path": "/eyJqdW5rIjoibElGejcwaTZnOCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=?ed=2560",
                 "headers": {
-                    "Host": "go.barnamenevis.qzz.io"
+                    "Host": "nameless-shape-293a.thaichai.workers.dev"
                 }
             }
         },
         {
             "type": "vless",
-            "tag": "🇺🇸 53 - US - VLESS/WS/TLS/UTLS - 2083",
-            "server": "go.barnamenevis.qzz.io",
-            "server_port": 2083,
-            "uuid": "79063e8c-8acc-49f3-bbec-a03bdd04ceca",
+            "tag": "🇸🇨 54 - SC - VLESS/WS/TLS/UTLS - 8443",
+            "server": "shop.hyby.ir",
+            "server_port": 8443,
+            "uuid": "835dca30-9ea8-459b-addb-3f5464a23c14",
             "flow": "",
             "tls": {
                 "enabled": true,
-                "server_name": "go.barnamenevis.qzz.io",
+                "server_name": "www.hyby.ir",
                 "insecure": false,
                 "alpn": [
                     "h2",
@@ -729,24 +694,25 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "/eyJqdW5rIjoia243SGI3UG41IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ",
+                "path": "/",
                 "headers": {
-                    "Host": "go.barnamenevis.qzz.io"
+                    "Host": "www.hyby.ir"
                 }
             }
         },
         {
             "type": "vless",
-            "tag": "🇺🇸 54 - US - VLESS/WS/TLS/UTLS - 2087",
-            "server": "go.barnamenevis.qzz.io",
-            "server_port": 2087,
-            "uuid": "79063e8c-8acc-49f3-bbec-a03bdd04ceca",
+            "tag": "🇺🇸 55 - US - VLESS/XHTTP/TLS/UTLS - 443",
+            "server": "104.18.153.88",
+            "server_port": 443,
+            "uuid": "88c5b660-e683-4a5b-b708-acbca1b99c43",
             "flow": "",
             "tls": {
                 "enabled": true,
-                "server_name": "GO.BaRnAMENevIs.qZz.Io",
+                "server_name": "usa.homairasisi.ir",
                 "insecure": false,
                 "alpn": [
+                    "h2",
                     "http/1.1"
                 ],
                 "utls": {
@@ -755,44 +721,16 @@
                 }
             },
             "transport": {
-                "type": "ws",
-                "path": "/eyJqdW5rIjoibmNmWWh3R01kSUwiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed=2560",
-                "headers": {
-                    "Host": "go.barnamenevis.qzz.io"
-                }
+                "type": "http",
+                "host": [
+                    "usa.homairasisi.ir"
+                ],
+                "path": "/"
             }
         },
         {
             "type": "vless",
             "tag": "🇺🇸 63 - US - VLESS/WS/TLS/UTLS - 2083",
-            "server": "104.18.110.121",
-            "server_port": 2083,
-            "uuid": "91171c46-80f7-4125-a9e1-264e57177299",
-            "flow": "",
-            "tls": {
-                "enabled": true,
-                "server_name": "2cf031be.joker-c1s.pages.dev",
-                "insecure": false,
-                "alpn": [
-                    "h2",
-                    "http/1.1"
-                ],
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "randomized"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/rv4dkzsztcmkhyki?ed=2560",
-                "headers": {
-                    "Host": "2cf031be.joker-c1s.pages.dev"
-                }
-            }
-        },
-        {
-            "type": "vless",
-            "tag": "🇺🇸 70 - US - VLESS/WS/TLS/UTLS - 2083",
             "server": "188.114.96.0",
             "server_port": 2083,
             "uuid": "9bba0208-f5b7-4d07-b00c-1399c7d65788",
@@ -819,34 +757,7 @@
         },
         {
             "type": "vless",
-            "tag": "🇺🇸 71 - US - VLESS/WS/TLS/UTLS - 2096",
-            "server": "188.114.97.0",
-            "server_port": 2096,
-            "uuid": "9bba0208-f5b7-4d07-b00c-1399c7d65788",
-            "flow": "",
-            "tls": {
-                "enabled": true,
-                "server_name": "PUrpLE-MaTH-adD6.Hamedpop9.WoRkErs.deV",
-                "insecure": false,
-                "alpn": [
-                    "http/1.1"
-                ],
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/eyJqdW5rIjoiTlNOa2dpWEdhbmgiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyYTAyOjg5ODoxNDY6NjQ6Ol0iXX0=?ed=2560",
-                "headers": {
-                    "Host": "purple-math-add6.hamedpop9.workers.dev"
-                }
-            }
-        },
-        {
-            "type": "vless",
-            "tag": "🇺🇸 72 - US - VLESS/WS/TLS/UTLS - 2096",
+            "tag": "🇺🇸 64 - US - VLESS/WS/TLS/UTLS - 2096",
             "server": "purple-math-add6.hamedpop9.workers.dev",
             "server_port": 2096,
             "uuid": "9bba0208-f5b7-4d07-b00c-1399c7d65788",
@@ -874,7 +785,7 @@
         },
         {
             "type": "vless",
-            "tag": "🇺🇸 73 - US - VLESS/WS/TLS/UTLS - 2083",
+            "tag": "🇺🇸 65 - US - VLESS/WS/TLS/UTLS - 2083",
             "server": "www.speedtest.net",
             "server_port": 2083,
             "uuid": "9bba0208-f5b7-4d07-b00c-1399c7d65788",
@@ -901,7 +812,43 @@
         },
         {
             "type": "vless",
-            "tag": "🇺🇸 74 - US - VLESS/WS/TLS/UTLS - 443",
+            "tag": "🇺🇸 66 - US - VLESS/WS - 2052",
+            "server": "cctvhikvision.center",
+            "server_port": 2052,
+            "uuid": "9c754a72-456e-4bbe-ba33-60b6f18ce39f",
+            "flow": "",
+            "tls": {
+                "enabled": false
+            },
+            "transport": {
+                "type": "ws",
+                "path": "/api-v1",
+                "headers": {
+                    "Host": "uwu.blueknightnet.qzz.io"
+                }
+            }
+        },
+        {
+            "type": "vless",
+            "tag": "🇺🇸 67 - US - VLESS/WS - 2052",
+            "server": "hikvision-plus.com",
+            "server_port": 2052,
+            "uuid": "9c754a72-456e-4bbe-ba33-60b6f18ce39f",
+            "flow": "",
+            "tls": {
+                "enabled": false
+            },
+            "transport": {
+                "type": "ws",
+                "path": "/api-v1",
+                "headers": {
+                    "Host": "uwu.blueknightnet.qzz.io"
+                }
+            }
+        },
+        {
+            "type": "vless",
+            "tag": "🇺🇸 68 - US - VLESS/WS/TLS/UTLS - 443",
             "server": "104.25.255.72",
             "server_port": 443,
             "uuid": "a429aa52-ad66-46cd-bb51-d9ad34179d2b",
@@ -929,34 +876,7 @@
         },
         {
             "type": "vless",
-            "tag": "🇺🇸 78 - US - VLESS/WS/TLS/UTLS - 443",
-            "server": "104.16.7.70",
-            "server_port": 443,
-            "uuid": "af501b09-1af5-4399-b36a-52624e4304a7",
-            "flow": "",
-            "tls": {
-                "enabled": true,
-                "server_name": "09OSerT5Ts9U9wgB4X-u45B-h5u8w275.yzDaN2879.WOrKERS.DEV",
-                "insecure": false,
-                "alpn": [
-                    "http/1.1"
-                ],
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/eyJqdW5rIjoibEdCdlM3dElEZWkxIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
-                "headers": {
-                    "Host": "09osert5ts9u9wgb4x-u45b-h5u8w275.yzdan2879.workers.dev"
-                }
-            }
-        },
-        {
-            "type": "vless",
-            "tag": "🇺🇸 79 - US - VLESS/WS/TLS - 443",
+            "tag": "🇺🇸 73 - US - VLESS/WS/TLS - 443",
             "server": "ld.242311.xyz",
             "server_port": 443,
             "uuid": "af563223-7402-4ecd-bbf9-10f7410753fa",
@@ -984,7 +904,7 @@
         },
         {
             "type": "vless",
-            "tag": "🇺🇸 82 - US - VLESS/WS/TLS/UTLS - 2087",
+            "tag": "🇺🇸 75 - US - VLESS/WS/TLS/UTLS - 2087",
             "server": "172.67.158.92",
             "server_port": 2087,
             "uuid": "b694980d-b889-4bac-a7f9-8a023a43dacc",
@@ -1012,35 +932,7 @@
         },
         {
             "type": "vless",
-            "tag": "🇺🇸 81 - US - VLESS/XHTTP/TLS/UTLS - 443",
-            "server": "162.159.140.245",
-            "server_port": 443,
-            "uuid": "b1f93fc1-b69f-44cd-a952-ed80de1a05c2",
-            "flow": "",
-            "tls": {
-                "enabled": true,
-                "server_name": "fzserver.art",
-                "insecure": false,
-                "alpn": [
-                    "h2",
-                    "http/1.1"
-                ],
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "http",
-                "host": [
-                    "fzserver.art"
-                ],
-                "path": "/uuid/get"
-            }
-        },
-        {
-            "type": "vless",
-            "tag": "🇺🇸 83 - US - VLESS/WS/TLS/UTLS - 8443",
+            "tag": "🇺🇸 76 - US - VLESS/WS/TLS/UTLS - 8443",
             "server": "leaning.maktabkhooneh.qzz.io",
             "server_port": 8443,
             "uuid": "b694980d-b889-4bac-a7f9-8a023a43dacc",
@@ -1068,32 +960,14 @@
         },
         {
             "type": "vless",
-            "tag": "🇺🇸 84 - US - VLESS/WS - 2052",
-            "server": "www.speedtest.net",
-            "server_port": 2052,
-            "uuid": "b8a47567-be06-4ef5-a707-8879be68caec",
-            "flow": "",
-            "tls": {
-                "enabled": false
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/",
-                "headers": {
-                    "Host": "dl.summercart.net"
-                }
-            }
-        },
-        {
-            "type": "vless",
-            "tag": "🇺🇸 85 - US - VLESS/WS/TLS/UTLS - 443",
-            "server": "104.16.80.73",
+            "tag": "🇺🇸 74 - US - VLESS/XHTTP/TLS/UTLS - 443",
+            "server": "162.159.140.245",
             "server_port": 443,
-            "uuid": "c0615301-155b-4a20-b4c9-20c6f2f1c378",
+            "uuid": "b1f93fc1-b69f-44cd-a952-ed80de1a05c2",
             "flow": "",
             "tls": {
                 "enabled": true,
-                "server_name": "bLUe-FRosT-Dd9D.tvUdWRY.woRKerS.dEv",
+                "server_name": "fzserver.art",
                 "insecure": false,
                 "alpn": [
                     "h2",
@@ -1105,16 +979,16 @@
                 }
             },
             "transport": {
-                "type": "ws",
-                "path": "/eyJqdW5rIjoianU1aHQxd2J5ViIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=?ed=2560",
-                "headers": {
-                    "Host": "blue-frost-dd9d.tvudwry.workers.dev"
-                }
+                "type": "http",
+                "host": [
+                    "fzserver.art"
+                ],
+                "path": "/uuid/get"
             }
         },
         {
             "type": "vless",
-            "tag": "🇺🇸 86 - US - VLESS/WS/TLS/UTLS - 443",
+            "tag": "🇺🇸 80 - US - VLESS/WS/TLS/UTLS - 443",
             "server": "108.162.193.162",
             "server_port": 443,
             "uuid": "c35050ce-01ab-45a9-91b8-54cec637d0a8",
@@ -1142,7 +1016,7 @@
         },
         {
             "type": "vless",
-            "tag": "🇺🇸 87 - US - VLESS/WS/TLS/UTLS - 443",
+            "tag": "🇺🇸 81 - US - VLESS/WS/TLS/UTLS - 443",
             "server": "172.64.147.236",
             "server_port": 443,
             "uuid": "c35050ce-01ab-45a9-91b8-54cec637d0a8",
@@ -1170,7 +1044,35 @@
         },
         {
             "type": "vless",
-            "tag": "🇺🇸 88 - US - VLESS/WS/TLS/UTLS - 443",
+            "tag": "🇺🇸 82 - US - VLESS/WS/TLS/UTLS - 443",
+            "server": "172.64.33.162",
+            "server_port": 443,
+            "uuid": "c35050ce-01ab-45a9-91b8-54cec637d0a8",
+            "flow": "",
+            "tls": {
+                "enabled": true,
+                "server_name": "octopusss5.info",
+                "insecure": false,
+                "alpn": [
+                    "h2",
+                    "http/1.1"
+                ],
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "/udfyfws",
+                "headers": {
+                    "Host": "octopusss5.info"
+                }
+            }
+        },
+        {
+            "type": "vless",
+            "tag": "🇺🇸 83 - US - VLESS/WS/TLS/UTLS - 443",
             "server": "173.245.59.162",
             "server_port": 443,
             "uuid": "c35050ce-01ab-45a9-91b8-54cec637d0a8",
@@ -1197,118 +1099,7 @@
         },
         {
             "type": "vless",
-            "tag": "🇺🇸 89 - US - VLESS/WS/TLS/UTLS - 443",
-            "server": "173.245.59.162",
-            "server_port": 443,
-            "uuid": "c35050ce-01ab-45a9-91b8-54cec637d0a8",
-            "flow": "",
-            "tls": {
-                "enabled": true,
-                "server_name": "octopusss5.info",
-                "insecure": false,
-                "alpn": [
-                    "h2",
-                    "http/1.1"
-                ],
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/udfyfws",
-                "headers": {
-                    "Host": "octopusss5.info"
-                }
-            }
-        },
-        {
-            "type": "vless",
-            "tag": "🇺🇸 90 - US - VLESS/WS/TLS/UTLS - 443",
-            "server": "188.114.97.6",
-            "server_port": 443,
-            "uuid": "c35050ce-01ab-45a9-91b8-54cec637d0a8",
-            "flow": "",
-            "tls": {
-                "enabled": true,
-                "server_name": "octopusss5.info",
-                "insecure": false,
-                "alpn": [
-                    "h2",
-                    "http/1.1"
-                ],
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/udfyfws",
-                "headers": {
-                    "Host": "octopusss5.info"
-                }
-            }
-        },
-        {
-            "type": "vless",
-            "tag": "🇺🇸 91 - US - VLESS/WS/TLS/UTLS - 443",
-            "server": "elliot.ns.cloudflare.com",
-            "server_port": 443,
-            "uuid": "c35050ce-01ab-45a9-91b8-54cec637d0a8",
-            "flow": "",
-            "tls": {
-                "enabled": true,
-                "server_name": "octopusss5.info",
-                "insecure": false,
-                "alpn": [
-                    "h2",
-                    "http/1.1"
-                ],
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/udfyfws",
-                "headers": {
-                    "Host": "octopusss5.info"
-                }
-            }
-        },
-        {
-            "type": "vless",
-            "tag": "🇺🇸 93 - US - VLESS/WS/TLS/UTLS - 2096",
-            "server": "customer.arabtimesonline.qzz.io",
-            "server_port": 2096,
-            "uuid": "c6e4df34-df79-4262-bcb2-e2f43fecea1d",
-            "flow": "",
-            "tls": {
-                "enabled": true,
-                "server_name": "customER.ArABtImESonlINE.qZZ.iO",
-                "insecure": false,
-                "alpn": [
-                    "http/1.1"
-                ],
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/eyJqdW5rIjoiVG9CMkc4c0hXRFk5RFJtOSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=?ed=2560",
-                "headers": {
-                    "Host": "customer.arabtimesonline.qzz.io"
-                }
-            }
-        },
-        {
-            "type": "vless",
-            "tag": "🇺🇸 92 - US - VLESS/WS/TLS/UTLS - 443",
+            "tag": "🇺🇸 84 - US - VLESS/WS/TLS/UTLS - 443",
             "server": "octopusss5.info",
             "server_port": 443,
             "uuid": "c35050ce-01ab-45a9-91b8-54cec637d0a8",
@@ -1336,7 +1127,7 @@
         },
         {
             "type": "vless",
-            "tag": "🇺🇸 94 - US - VLESS/WS/TLS/UTLS - 2096",
+            "tag": "🇺🇸 85 - US - VLESS/WS/TLS/UTLS - 2096",
             "server": "customer.arabtimesonline.qzz.io",
             "server_port": 2096,
             "uuid": "c6e4df34-df79-4262-bcb2-e2f43fecea1d",
@@ -1364,7 +1155,7 @@
         },
         {
             "type": "vless",
-            "tag": "🇺🇸 95 - US - VLESS/XHTTP/TLS/UTLS - 443",
+            "tag": "🇺🇸 86 - US - VLESS/XHTTP/TLS/UTLS - 443",
             "server": "104.17.121.71",
             "server_port": 443,
             "uuid": "c7ccd788-1172-46f2-a749-c1a743da2ef2",
@@ -1392,16 +1183,17 @@
         },
         {
             "type": "vless",
-            "tag": "🇺🇸 96 - US - VLESS/WS/TLS/UTLS - 443",
-            "server": "o.server2peekconfig.workers.dev",
+            "tag": "🇺🇸 87 - US - VLESS/WS/TLS/UTLS - 443",
+            "server": "104.16.0.0",
             "server_port": 443,
-            "uuid": "ca185ddd-de24-4bc0-b907-232fe947b538",
+            "uuid": "cabbfe13-038b-4dbb-9c45-5079c829abfa",
             "flow": "",
             "tls": {
                 "enabled": true,
-                "server_name": "O.sErvER2pEekCOnfIg.wORKeRs.dEV",
+                "server_name": "tr-cd.sublink-vip2.com",
                 "insecure": false,
                 "alpn": [
+                    "h2",
                     "http/1.1"
                 ],
                 "utls": {
@@ -1411,16 +1203,16 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "/eyJqdW5rIjoieWhJcW05SUZlaktsc2oiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyYTAyOjg5ODoxNDY6NjQ6Ol0iXX0=?ed=2560",
+                "path": "/",
                 "headers": {
-                    "Host": "o.server2peekconfig.workers.dev"
+                    "Host": "tr-cd.sublink-vip2.com"
                 }
             }
         },
         {
             "type": "vless",
-            "tag": "🇺🇸 98 - US - VLESS/WS - 8080",
-            "server": "172.67.69.236",
+            "tag": "🇺🇸 88 - US - VLESS/WS - 8080",
+            "server": "172.67.74.2",
             "server_port": 8080,
             "uuid": "cabbfe13-038b-4dbb-9c45-5079c829abfa",
             "flow": "",
@@ -1437,90 +1229,43 @@
         },
         {
             "type": "vless",
-            "tag": "🇺🇸 102 - US - VLESS/WS/TLS/UTLS - 2083",
-            "server": "162.159.36.20",
-            "server_port": 2083,
-            "uuid": "d342d11e-d424-4583-b36e-524ab1f0afa4",
+            "tag": "🇺🇸 89 - US - VLESS/WS - 8080",
+            "server": "www.parsvds.com",
+            "server_port": 8080,
+            "uuid": "cabbfe13-038b-4dbb-9c45-5079c829abfa",
             "flow": "",
             "tls": {
-                "enabled": true,
-                "server_name": "newwk1.f1w.de5.net",
-                "insecure": false,
-                "alpn": [
-                    "networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-"
-                ],
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
+                "enabled": false
             },
             "transport": {
                 "type": "ws",
                 "path": "/",
                 "headers": {
-                    "Host": "newwk1.f1w.de5.net"
+                    "Host": "tr-cd.sublink-vip2.com"
                 }
             }
         },
         {
             "type": "vless",
-            "tag": "🇺🇸 103 - US - VLESS/WS/TLS/UTLS - 2083",
-            "server": "188.114.97.3",
-            "server_port": 2083,
-            "uuid": "d342d11e-d424-4583-b36e-524ab1f0afa4",
+            "tag": "🇺🇸 90 - US - VLESS/WS - 8080",
+            "server": "www.speedtest.org",
+            "server_port": 8080,
+            "uuid": "cabbfe13-038b-4dbb-9c45-5079c829abfa",
             "flow": "",
             "tls": {
-                "enabled": true,
-                "server_name": "newwk1.f1w.de5.net",
-                "insecure": false,
-                "alpn": [
-                    "h2",
-                    "http/1.1"
-                ],
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/?ed=2560",
-                "headers": {
-                    "Host": "newwk1.f1w.de5.net"
-                }
-            }
-        },
-        {
-            "type": "vless",
-            "tag": "🇺🇸 104 - US - VLESS/WS/TLS/UTLS - 2083",
-            "server": "vip3.kaixincloud.top",
-            "server_port": 2083,
-            "uuid": "d342d11e-d424-4583-b36e-524ab1f0afa4",
-            "flow": "",
-            "tls": {
-                "enabled": true,
-                "server_name": "newwk1.f1w.de5.net",
-                "insecure": false,
-                "alpn": [
-                    "h2",
-                    "http/1.1"
-                ],
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
+                "enabled": false
             },
             "transport": {
                 "type": "ws",
                 "path": "/",
                 "headers": {
-                    "Host": "newwk1.f1w.de5.net"
+                    "Host": "tr-cd.sublink-vip2.com"
                 }
             }
         },
         {
             "type": "vless",
-            "tag": "🇺🇸 108 - US - VLESS/WS/TLS/UTLS - 443",
+            "tag": "🇺🇸 99 - US - VLESS/WS/TLS/UTLS - 443",
             "server": "old-dust-2bd3.shaghayeghghasemii82.workers.dev",
             "server_port": 443,
             "uuid": "d9668a4c-4b22-454e-90fa-c6a49c29474e",
@@ -1548,62 +1293,7 @@
         },
         {
             "type": "vless",
-            "tag": "🇺🇸 109 - US - VLESS/WS/TLS/UTLS - 443",
-            "server": "old-dust-2bd3.shaghayeghghasemii82.workers.dev",
-            "server_port": 443,
-            "uuid": "d9668a4c-4b22-454e-90fa-c6a49c29474e",
-            "flow": "",
-            "tls": {
-                "enabled": true,
-                "server_name": "old-duSt-2BD3.shAGHAYEghghaSeMII82.WoRkeRs.dev",
-                "insecure": false,
-                "alpn": [
-                    "http/1.1"
-                ],
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/eyJqdW5rIjoiZG9YbmxRWGNEIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTkzLjEyNC45Mi41OCJdfQ==?ed=2560",
-                "headers": {
-                    "Host": "old-dust-2bd3.shaghayeghghasemii82.workers.dev"
-                }
-            }
-        },
-        {
-            "type": "vless",
-            "tag": "🇺🇸 116 - US - VLESS/WS/TLS/UTLS - 443",
-            "server": "104.19.204.14",
-            "server_port": 443,
-            "uuid": "ea424de4-cd3b-4de7-932d-9372a84aba67",
-            "flow": "",
-            "tls": {
-                "enabled": true,
-                "server_name": "proud-shape-2811.birimam752.workers.dev",
-                "insecure": false,
-                "alpn": [
-                    "h2",
-                    "http/1.1"
-                ],
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/eyJqdW5rIjoiOVpaelhGN1dPRG5GWWZyIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
-                "headers": {
-                    "Host": "proud-shape-2811.birimam752.workers.dev"
-                }
-            }
-        },
-        {
-            "type": "vless",
-            "tag": "🇺🇸 117 - US - VLESS/WS/TLS/UTLS - 443",
+            "tag": "🇺🇸 106 - US - VLESS/WS/TLS/UTLS - 443",
             "server": "162.159.6.232",
             "server_port": 443,
             "uuid": "f0750b15-37dd-44e4-803a-c62d3237f2fa",
@@ -1631,7 +1321,7 @@
         },
         {
             "type": "vless",
-            "tag": "🇺🇸 118 - US - VLESS/WS/TLS/UTLS - 443",
+            "tag": "🇺🇸 107 - US - VLESS/WS/TLS/UTLS - 443",
             "server": "162.159.6.232",
             "server_port": 443,
             "uuid": "f0750b15-37dd-44e4-803a-c62d3237f2fa",
@@ -1653,6 +1343,118 @@
                 "path": "/eyJqdW5rIjoiUHFXRURhd1hFZyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=?ed=2560",
                 "headers": {
                     "Host": "1017.bagsell-1017.workers.dev"
+                }
+            }
+        },
+        {
+            "type": "vless",
+            "tag": "🇺🇸 108 - US - VLESS/WS/TLS/UTLS - 443",
+            "server": "172.66.47.45",
+            "server_port": 443,
+            "uuid": "fc965ad9-bdd7-4815-ad71-b39ec5972dc1",
+            "flow": "",
+            "tls": {
+                "enabled": true,
+                "server_name": "octopusss4.com",
+                "insecure": false,
+                "alpn": [
+                    "h2",
+                    "http/1.1"
+                ],
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "/tsghdws",
+                "headers": {
+                    "Host": "octopusss4.com"
+                }
+            }
+        },
+        {
+            "type": "vless",
+            "tag": "🇺🇸 109 - US - VLESS/WS/TLS/UTLS - 443",
+            "server": "173.245.58.75",
+            "server_port": 443,
+            "uuid": "fc965ad9-bdd7-4815-ad71-b39ec5972dc1",
+            "flow": "",
+            "tls": {
+                "enabled": true,
+                "server_name": "octopusss4.com",
+                "insecure": false,
+                "alpn": [
+                    "h2",
+                    "http/1.1"
+                ],
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "/tsghdws",
+                "headers": {
+                    "Host": "octopusss4.com"
+                }
+            }
+        },
+        {
+            "type": "vless",
+            "tag": "🇺🇸 110 - US - VLESS/WS/TLS/UTLS - 443",
+            "server": "188.114.97.3",
+            "server_port": 443,
+            "uuid": "fc965ad9-bdd7-4815-ad71-b39ec5972dc1",
+            "flow": "",
+            "tls": {
+                "enabled": true,
+                "server_name": "octopusss4.com",
+                "insecure": false,
+                "alpn": [
+                    "h2",
+                    "http/1.1"
+                ],
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "/tsghdws",
+                "headers": {
+                    "Host": "octopusss4.com"
+                }
+            }
+        },
+        {
+            "type": "vless",
+            "tag": "🇺🇸 111 - US - VLESS/WS/TLS/UTLS - 443",
+            "server": "betty.ns.cloudflare.com",
+            "server_port": 443,
+            "uuid": "fc965ad9-bdd7-4815-ad71-b39ec5972dc1",
+            "flow": "",
+            "tls": {
+                "enabled": true,
+                "server_name": "octopusss4.com",
+                "insecure": false,
+                "alpn": [
+                    "h2",
+                    "http/1.1"
+                ],
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "/tsghdws",
+                "headers": {
+                    "Host": "octopusss4.com"
                 }
             }
         },
@@ -1684,7 +1486,61 @@
         },
         {
             "type": "trojan",
-            "tag": "🇺🇸 101 - US - Trojan/WS/TLS/UTLS - 443",
+            "tag": "🇺🇸 72 - US - Trojan/WS/TLS/UTLS - 443",
+            "server": "www.calmlunch.com",
+            "server_port": 443,
+            "password": "humanity",
+            "tls": {
+                "enabled": true,
+                "server_name": "www.calmlunch.com",
+                "insecure": false,
+                "alpn": [
+                    "h2",
+                    "http/1.1"
+                ],
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "/assignment",
+                "headers": {
+                    "Host": "www.calmlunch.com"
+                }
+            }
+        },
+        {
+            "type": "trojan",
+            "tag": "🇺🇸 73 - US - Trojan/WS/TLS/UTLS - 443",
+            "server": "www.calmlunch.com",
+            "server_port": 443,
+            "password": "humanity",
+            "tls": {
+                "enabled": true,
+                "server_name": "www.calmlunch.com",
+                "insecure": false,
+                "alpn": [
+                    "h2",
+                    "http/1.1"
+                ],
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "/assignment",
+                "headers": {
+                    "Host": "www.calmlunch.com"
+                }
+            }
+        },
+        {
+            "type": "trojan",
+            "tag": "🇺🇸 74 - US - Trojan/WS/TLS/UTLS - 443",
             "server": "www.multiplydose.com",
             "server_port": 443,
             "password": "humanity",
@@ -1711,15 +1567,16 @@
         },
         {
             "type": "trojan",
-            "tag": "🇺🇸 105 - US - Trojan/WS/TLS/UTLS - 443",
-            "server": "restless-base-fe24.alirezahabibi20009.workers.dev",
+            "tag": "🇺🇸 75 - US - Trojan/WS/TLS/UTLS - 443",
+            "server": "www.multiplydose.com",
             "server_port": 443,
-            "password": "uR0TSWA@N^%u,Bni",
+            "password": "humanity",
             "tls": {
                 "enabled": true,
-                "server_name": "rESTless-basE-fe24.aLiReZaHabibi20009.woRKErS.DEv",
+                "server_name": "www.multiplydose.com",
                 "insecure": false,
                 "alpn": [
+                    "h2",
                     "http/1.1"
                 ],
                 "utls": {
@@ -1729,9 +1586,9 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "/eyJqdW5rIjoiM2VVWXFtczhRUVN5SHpGMyIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=?ed=2560",
+                "path": "/assignment",
                 "headers": {
-                    "Host": "restless-base-fe24.alirezahabibi20009.workers.dev"
+                    "Host": "www.multiplydose.com"
                 }
             }
         }

@@ -98,44 +98,6 @@
       "settings": {
         "vnext": [
           {
-            "address": "104.16.7.70",
-            "port": 443,
-            "users": [
-              {
-                "id": "af501b09-1af5-4399-b36a-52624e4304a7",
-                "flow": "",
-                "encryption": "none",
-                "level": 8
-              }
-            ]
-          }
-        ]
-      },
-      "streamSettings": {
-        "network": "ws",
-        "security": "tls",
-        "wsSettings": {
-          "path": "/eyJqdW5rIjoibEdCdlM3dElEZWkxIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
-          "headers": {
-            "Host": "09osert5ts9u9wgb4x-u45b-h5u8w275.yzdan2879.workers.dev"
-          }
-        },
-        "tlsSettings": {
-          "serverName": "09OSerT5Ts9U9wgB4X-u45B-h5u8w275.yzDaN2879.WOrKERS.DEV",
-          "allowInsecure": false,
-          "alpn": [
-            "http/1.1"
-          ],
-          "fingerprint": "chrome"
-        }
-      }
-    },
-    {
-      "tag": "proxy-3",
-      "protocol": "vless",
-      "settings": {
-        "vnext": [
-          {
             "address": "173.245.59.162",
             "port": 443,
             "users": [
@@ -160,44 +122,6 @@
         },
         "tlsSettings": {
           "serverName": "octopusss5.info",
-          "allowInsecure": false,
-          "alpn": [
-            "networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-"
-          ],
-          "fingerprint": "chrome"
-        }
-      }
-    },
-    {
-      "tag": "proxy-4",
-      "protocol": "vless",
-      "settings": {
-        "vnext": [
-          {
-            "address": "162.159.36.20",
-            "port": 2083,
-            "users": [
-              {
-                "id": "d342d11e-d424-4583-b36e-524ab1f0afa4",
-                "flow": "",
-                "encryption": "none",
-                "level": 8
-              }
-            ]
-          }
-        ]
-      },
-      "streamSettings": {
-        "network": "ws",
-        "security": "tls",
-        "wsSettings": {
-          "path": "/",
-          "headers": {
-            "Host": "newwk1.f1w.de5.net"
-          }
-        },
-        "tlsSettings": {
-          "serverName": "newwk1.f1w.de5.net",
           "allowInsecure": false,
           "alpn": [
             "networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-"
