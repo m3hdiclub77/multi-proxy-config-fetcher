@@ -60,6 +60,44 @@
       "settings": {
         "vnext": [
           {
+            "address": "104.16.117.43",
+            "port": 443,
+            "users": [
+              {
+                "id": "0791d656-5507-494e-933e-b4bcf589fa6f",
+                "flow": "",
+                "encryption": "none",
+                "level": 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "wsSettings": {
+          "path": "/",
+          "headers": {
+            "Host": "semimag.ir"
+          }
+        },
+        "tlsSettings": {
+          "serverName": "semimag.ir",
+          "allowInsecure": false,
+          "alpn": [
+            "http/1.1"
+          ],
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "tag": "proxy-2",
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
             "address": "188.114.97.6",
             "port": 8443,
             "users": [
@@ -93,7 +131,7 @@
       }
     },
     {
-      "tag": "proxy-2",
+      "tag": "proxy-3",
       "protocol": "vless",
       "settings": {
         "vnext": [

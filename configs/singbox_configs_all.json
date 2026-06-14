@@ -102,28 +102,29 @@
             "tag": "🌐 Anonymous Multi",
             "outbounds": [
                 "👽 Best Ping 🚀",
-                "🇺🇸 18 - US - VLESS/WS/TLS/UTLS - 2053",
-                "🇺🇸 19 - US - VLESS/WS/TLS/UTLS - 2083",
-                "🇺🇸 45 - US - VLESS/WS/TLS/UTLS - 8443",
-                "🇺🇸 46 - US - VLESS/WS/TLS/UTLS - 2096",
-                "🇺🇸 68 - US - VLESS/WS/TLS/UTLS - 443",
-                "🇺🇸 74 - US - VLESS/XHTTP/TLS/UTLS - 443",
-                "🇺🇸 80 - US - VLESS/WS/TLS/UTLS - 443",
-                "🇺🇸 81 - US - VLESS/WS/TLS/UTLS - 443",
-                "🇺🇸 82 - US - VLESS/WS/TLS/UTLS - 443",
-                "🇺🇸 83 - US - VLESS/WS/TLS/UTLS - 443",
-                "🇺🇸 84 - US - VLESS/WS/TLS/UTLS - 443",
-                "🇺🇸 86 - US - VLESS/XHTTP/TLS/UTLS - 443",
-                "🇺🇸 106 - US - VLESS/WS/TLS/UTLS - 443",
-                "🇺🇸 107 - US - VLESS/WS/TLS/UTLS - 443",
-                "🇺🇸 108 - US - VLESS/WS/TLS/UTLS - 443",
-                "🇺🇸 109 - US - VLESS/WS/TLS/UTLS - 443",
-                "🇺🇸 110 - US - VLESS/WS/TLS/UTLS - 443",
-                "🇺🇸 111 - US - VLESS/WS/TLS/UTLS - 443",
-                "🇺🇸 73 - US - Trojan/WS/TLS/UTLS - 443",
-                "🇺🇸 72 - US - Trojan/WS/TLS/UTLS - 443",
-                "🇺🇸 74 - US - Trojan/WS/TLS/UTLS - 443",
-                "🇺🇸 75 - US - Trojan/WS/TLS/UTLS - 443",
+                "🇺🇸 4 - US - VLESS/WS - 8080",
+                "🇺🇸 1 - US - VLESS/WS - 8080",
+                "🇺🇸 5 - US - VLESS/WS/TLS/UTLS - 443",
+                "🇺🇸 2 - US - VLESS/WS - 8080",
+                "🇺🇸 32 - US - VLESS/WS/TLS/UTLS - 8443",
+                "🇺🇸 51 - US - VLESS/XHTTP/TLS/UTLS - 443",
+                "🇺🇸 53 - US - VLESS/WS/TLS/UTLS - 443",
+                "🇺🇸 52 - US - VLESS/WS/TLS/UTLS - 443",
+                "🇺🇸 57 - US - VLESS/XHTTP/TLS/UTLS - 443",
+                "🇺🇸 55 - US - VLESS/WS/TLS/UTLS - 443",
+                "🇺🇸 56 - US - VLESS/WS/TLS/UTLS - 443",
+                "🇺🇸 54 - US - VLESS/WS/TLS/UTLS - 443",
+                "🇺🇸 58 - US - VLESS/WS/TLS/UTLS - 443",
+                "🇺🇸 60 - US - VLESS/WS - 8080",
+                "🇺🇸 59 - US - VLESS/WS - 8080",
+                "🇺🇸 71 - US - VLESS/WS/TLS/UTLS - 443",
+                "🇺🇸 72 - US - VLESS/WS/TLS/UTLS - 443",
+                "🇺🇸 73 - US - VLESS/WS/TLS/UTLS - 443",
+                "🇺🇸 74 - US - VLESS/WS/TLS/UTLS - 443",
+                "🇺🇸 75 - US - VLESS/WS/TLS/UTLS - 443",
+                "🇺🇸 76 - US - VLESS/WS/TLS/UTLS - 443",
+                "🇺🇸 77 - US - VLESS/WS/TLS/UTLS - 443",
+                "🇺🇸 48 - US - Trojan/WS/TLS/UTLS - 443",
                 "direct"
             ]
         },
@@ -135,28 +136,29 @@
             "type": "urltest",
             "tag": "👽 Best Ping 🚀",
             "outbounds": [
-                "🇺🇸 18 - US - VLESS/WS/TLS/UTLS - 2053",
-                "🇺🇸 19 - US - VLESS/WS/TLS/UTLS - 2083",
-                "🇺🇸 45 - US - VLESS/WS/TLS/UTLS - 8443",
-                "🇺🇸 46 - US - VLESS/WS/TLS/UTLS - 2096",
-                "🇺🇸 68 - US - VLESS/WS/TLS/UTLS - 443",
-                "🇺🇸 74 - US - VLESS/XHTTP/TLS/UTLS - 443",
-                "🇺🇸 80 - US - VLESS/WS/TLS/UTLS - 443",
-                "🇺🇸 81 - US - VLESS/WS/TLS/UTLS - 443",
-                "🇺🇸 82 - US - VLESS/WS/TLS/UTLS - 443",
-                "🇺🇸 83 - US - VLESS/WS/TLS/UTLS - 443",
-                "🇺🇸 84 - US - VLESS/WS/TLS/UTLS - 443",
-                "🇺🇸 86 - US - VLESS/XHTTP/TLS/UTLS - 443",
-                "🇺🇸 106 - US - VLESS/WS/TLS/UTLS - 443",
-                "🇺🇸 107 - US - VLESS/WS/TLS/UTLS - 443",
-                "🇺🇸 108 - US - VLESS/WS/TLS/UTLS - 443",
-                "🇺🇸 109 - US - VLESS/WS/TLS/UTLS - 443",
-                "🇺🇸 110 - US - VLESS/WS/TLS/UTLS - 443",
-                "🇺🇸 111 - US - VLESS/WS/TLS/UTLS - 443",
-                "🇺🇸 73 - US - Trojan/WS/TLS/UTLS - 443",
-                "🇺🇸 72 - US - Trojan/WS/TLS/UTLS - 443",
-                "🇺🇸 74 - US - Trojan/WS/TLS/UTLS - 443",
-                "🇺🇸 75 - US - Trojan/WS/TLS/UTLS - 443"
+                "🇺🇸 4 - US - VLESS/WS - 8080",
+                "🇺🇸 1 - US - VLESS/WS - 8080",
+                "🇺🇸 5 - US - VLESS/WS/TLS/UTLS - 443",
+                "🇺🇸 2 - US - VLESS/WS - 8080",
+                "🇺🇸 32 - US - VLESS/WS/TLS/UTLS - 8443",
+                "🇺🇸 51 - US - VLESS/XHTTP/TLS/UTLS - 443",
+                "🇺🇸 53 - US - VLESS/WS/TLS/UTLS - 443",
+                "🇺🇸 52 - US - VLESS/WS/TLS/UTLS - 443",
+                "🇺🇸 57 - US - VLESS/XHTTP/TLS/UTLS - 443",
+                "🇺🇸 55 - US - VLESS/WS/TLS/UTLS - 443",
+                "🇺🇸 56 - US - VLESS/WS/TLS/UTLS - 443",
+                "🇺🇸 54 - US - VLESS/WS/TLS/UTLS - 443",
+                "🇺🇸 58 - US - VLESS/WS/TLS/UTLS - 443",
+                "🇺🇸 60 - US - VLESS/WS - 8080",
+                "🇺🇸 59 - US - VLESS/WS - 8080",
+                "🇺🇸 71 - US - VLESS/WS/TLS/UTLS - 443",
+                "🇺🇸 72 - US - VLESS/WS/TLS/UTLS - 443",
+                "🇺🇸 73 - US - VLESS/WS/TLS/UTLS - 443",
+                "🇺🇸 74 - US - VLESS/WS/TLS/UTLS - 443",
+                "🇺🇸 75 - US - VLESS/WS/TLS/UTLS - 443",
+                "🇺🇸 76 - US - VLESS/WS/TLS/UTLS - 443",
+                "🇺🇸 77 - US - VLESS/WS/TLS/UTLS - 443",
+                "🇺🇸 48 - US - Trojan/WS/TLS/UTLS - 443"
             ],
             "url": "https://www.gstatic.com/generate_204",
             "interrupt_exist_connections": false,
@@ -164,14 +166,50 @@
         },
         {
             "type": "vless",
-            "tag": "🇺🇸 18 - US - VLESS/WS/TLS/UTLS - 2053",
-            "server": "fans.liverpool.qzz.io",
-            "server_port": 2053,
-            "uuid": "2b8738de-1af5-4267-b101-c05707769ed4",
+            "tag": "🇺🇸 4 - US - VLESS/WS - 8080",
+            "server": "172.67.74.2",
+            "server_port": 8080,
+            "uuid": "0058c215-ab1e-400c-a403-b5b2fda7e846",
+            "flow": "",
+            "tls": {
+                "enabled": false
+            },
+            "transport": {
+                "type": "ws",
+                "path": "/",
+                "headers": {
+                    "Host": "tr-cd.sublink-vip2.com"
+                }
+            }
+        },
+        {
+            "type": "vless",
+            "tag": "🇺🇸 1 - US - VLESS/WS - 8080",
+            "server": "104.16.0.0",
+            "server_port": 8080,
+            "uuid": "0058c215-ab1e-400c-a403-b5b2fda7e846",
+            "flow": "",
+            "tls": {
+                "enabled": false
+            },
+            "transport": {
+                "type": "ws",
+                "path": "/",
+                "headers": {
+                    "Host": "tr-cd.sublink-vip2.com"
+                }
+            }
+        },
+        {
+            "type": "vless",
+            "tag": "🇺🇸 5 - US - VLESS/WS/TLS/UTLS - 443",
+            "server": "104.16.117.43",
+            "server_port": 443,
+            "uuid": "0791d656-5507-494e-933e-b4bcf589fa6f",
             "flow": "",
             "tls": {
                 "enabled": true,
-                "server_name": "FaNs.livErpoOl.qZZ.io",
+                "server_name": "semimag.ir",
                 "insecure": false,
                 "alpn": [
                     "http/1.1"
@@ -183,42 +221,33 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "/eyJqdW5rIjoiZXlpMnFWRURmWkp5ZCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=?ed=2560",
+                "path": "/",
                 "headers": {
-                    "Host": "fans.liverpool.qzz.io"
+                    "Host": "semimag.ir"
                 }
             }
         },
         {
             "type": "vless",
-            "tag": "🇺🇸 19 - US - VLESS/WS/TLS/UTLS - 2083",
-            "server": "fans.liverpool.qzz.io",
-            "server_port": 2083,
-            "uuid": "2b8738de-1af5-4267-b101-c05707769ed4",
+            "tag": "🇺🇸 2 - US - VLESS/WS - 8080",
+            "server": "104.26.15.137",
+            "server_port": 8080,
+            "uuid": "0058c215-ab1e-400c-a403-b5b2fda7e846",
             "flow": "",
             "tls": {
-                "enabled": true,
-                "server_name": "FANs.LIVeRPOol.QZz.IO",
-                "insecure": false,
-                "alpn": [
-                    "http/1.1"
-                ],
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
+                "enabled": false
             },
             "transport": {
                 "type": "ws",
-                "path": "/eyJqdW5rIjoiY0Y0cENQUmxsNyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=?ed=2560",
+                "path": "/",
                 "headers": {
-                    "Host": "fans.liverpool.qzz.io"
+                    "Host": "tr-cd.sublink-vip2.com"
                 }
             }
         },
         {
             "type": "vless",
-            "tag": "🇺🇸 45 - US - VLESS/WS/TLS/UTLS - 8443",
+            "tag": "🇺🇸 32 - US - VLESS/WS/TLS/UTLS - 8443",
             "server": "188.114.97.6",
             "server_port": 8443,
             "uuid": "6a8ee5f2-0fd5-4837-a377-87dafa6e162c",
@@ -245,63 +274,7 @@
         },
         {
             "type": "vless",
-            "tag": "🇺🇸 46 - US - VLESS/WS/TLS/UTLS - 2096",
-            "server": "172.66.40.229",
-            "server_port": 2096,
-            "uuid": "70252937-5c61-4fb0-8656-d1a16261b795",
-            "flow": "",
-            "tls": {
-                "enabled": true,
-                "server_name": "group.shalana.xyz",
-                "insecure": false,
-                "alpn": [
-                    "h2",
-                    "http/1.1"
-                ],
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/shalana",
-                "headers": {
-                    "Host": "group.shalana.xyz"
-                }
-            }
-        },
-        {
-            "type": "vless",
-            "tag": "🇺🇸 68 - US - VLESS/WS/TLS/UTLS - 443",
-            "server": "104.25.255.72",
-            "server_port": 443,
-            "uuid": "a429aa52-ad66-46cd-bb51-d9ad34179d2b",
-            "flow": "",
-            "tls": {
-                "enabled": true,
-                "server_name": "sparkling-morning-0296.aaahmadrezaes.workers.dev",
-                "insecure": false,
-                "alpn": [
-                    "h2",
-                    "http/1.1"
-                ],
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/sync",
-                "headers": {
-                    "Host": "sparkling-morning-0296.aaahmadrezaes.workers.dev"
-                }
-            }
-        },
-        {
-            "type": "vless",
-            "tag": "🇺🇸 74 - US - VLESS/XHTTP/TLS/UTLS - 443",
+            "tag": "🇺🇸 51 - US - VLESS/XHTTP/TLS/UTLS - 443",
             "server": "162.159.140.245",
             "server_port": 443,
             "uuid": "b1f93fc1-b69f-44cd-a952-ed80de1a05c2",
@@ -329,8 +302,8 @@
         },
         {
             "type": "vless",
-            "tag": "🇺🇸 80 - US - VLESS/WS/TLS/UTLS - 443",
-            "server": "108.162.193.162",
+            "tag": "🇺🇸 53 - US - VLESS/WS/TLS/UTLS - 443",
+            "server": "173.245.59.162",
             "server_port": 443,
             "uuid": "c35050ce-01ab-45a9-91b8-54cec637d0a8",
             "flow": "",
@@ -339,8 +312,7 @@
                 "server_name": "octopusss5.info",
                 "insecure": false,
                 "alpn": [
-                    "h2",
-                    "http/1.1"
+                    "networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-"
                 ],
                 "utls": {
                     "enabled": true,
@@ -357,7 +329,7 @@
         },
         {
             "type": "vless",
-            "tag": "🇺🇸 81 - US - VLESS/WS/TLS/UTLS - 443",
+            "tag": "🇺🇸 52 - US - VLESS/WS/TLS/UTLS - 443",
             "server": "172.64.147.236",
             "server_port": 443,
             "uuid": "c35050ce-01ab-45a9-91b8-54cec637d0a8",
@@ -385,90 +357,7 @@
         },
         {
             "type": "vless",
-            "tag": "🇺🇸 82 - US - VLESS/WS/TLS/UTLS - 443",
-            "server": "172.64.33.162",
-            "server_port": 443,
-            "uuid": "c35050ce-01ab-45a9-91b8-54cec637d0a8",
-            "flow": "",
-            "tls": {
-                "enabled": true,
-                "server_name": "octopusss5.info",
-                "insecure": false,
-                "alpn": [
-                    "h2",
-                    "http/1.1"
-                ],
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/udfyfws",
-                "headers": {
-                    "Host": "octopusss5.info"
-                }
-            }
-        },
-        {
-            "type": "vless",
-            "tag": "🇺🇸 83 - US - VLESS/WS/TLS/UTLS - 443",
-            "server": "173.245.59.162",
-            "server_port": 443,
-            "uuid": "c35050ce-01ab-45a9-91b8-54cec637d0a8",
-            "flow": "",
-            "tls": {
-                "enabled": true,
-                "server_name": "octopusss5.info",
-                "insecure": false,
-                "alpn": [
-                    "networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-"
-                ],
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/udfyfws",
-                "headers": {
-                    "Host": "octopusss5.info"
-                }
-            }
-        },
-        {
-            "type": "vless",
-            "tag": "🇺🇸 84 - US - VLESS/WS/TLS/UTLS - 443",
-            "server": "octopusss5.info",
-            "server_port": 443,
-            "uuid": "c35050ce-01ab-45a9-91b8-54cec637d0a8",
-            "flow": "",
-            "tls": {
-                "enabled": true,
-                "server_name": "octopusss5.info",
-                "insecure": false,
-                "alpn": [
-                    "h2",
-                    "http/1.1"
-                ],
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/udfyfws",
-                "headers": {
-                    "Host": "octopusss5.info"
-                }
-            }
-        },
-        {
-            "type": "vless",
-            "tag": "🇺🇸 86 - US - VLESS/XHTTP/TLS/UTLS - 443",
+            "tag": "🇺🇸 57 - US - VLESS/XHTTP/TLS/UTLS - 443",
             "server": "104.17.121.71",
             "server_port": 443,
             "uuid": "c7ccd788-1172-46f2-a749-c1a743da2ef2",
@@ -496,7 +385,154 @@
         },
         {
             "type": "vless",
-            "tag": "🇺🇸 106 - US - VLESS/WS/TLS/UTLS - 443",
+            "tag": "🇺🇸 55 - US - VLESS/WS/TLS/UTLS - 443",
+            "server": "188.114.97.6",
+            "server_port": 443,
+            "uuid": "c35050ce-01ab-45a9-91b8-54cec637d0a8",
+            "flow": "",
+            "tls": {
+                "enabled": true,
+                "server_name": "octopusss5.info",
+                "insecure": false,
+                "alpn": [
+                    "h2",
+                    "http/1.1"
+                ],
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "/udfyfws",
+                "headers": {
+                    "Host": "octopusss5.info"
+                }
+            }
+        },
+        {
+            "type": "vless",
+            "tag": "🇺🇸 56 - US - VLESS/WS/TLS/UTLS - 443",
+            "server": "octopusss5.info",
+            "server_port": 443,
+            "uuid": "c35050ce-01ab-45a9-91b8-54cec637d0a8",
+            "flow": "",
+            "tls": {
+                "enabled": true,
+                "server_name": "octopusss5.info",
+                "insecure": false,
+                "alpn": [
+                    "h2",
+                    "http/1.1"
+                ],
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "/udfyfws",
+                "headers": {
+                    "Host": "octopusss5.info"
+                }
+            }
+        },
+        {
+            "type": "vless",
+            "tag": "🇺🇸 54 - US - VLESS/WS/TLS/UTLS - 443",
+            "server": "173.245.59.162",
+            "server_port": 443,
+            "uuid": "c35050ce-01ab-45a9-91b8-54cec637d0a8",
+            "flow": "",
+            "tls": {
+                "enabled": true,
+                "server_name": "octopusss5.info",
+                "insecure": false,
+                "alpn": [
+                    "h2",
+                    "http/1.1"
+                ],
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "/udfyfws",
+                "headers": {
+                    "Host": "octopusss5.info"
+                }
+            }
+        },
+        {
+            "type": "vless",
+            "tag": "🇺🇸 58 - US - VLESS/WS/TLS/UTLS - 443",
+            "server": "o.server2peekconfig.workers.dev",
+            "server_port": 443,
+            "uuid": "ca185ddd-de24-4bc0-b907-232fe947b538",
+            "flow": "",
+            "tls": {
+                "enabled": true,
+                "server_name": "O.sErvER2pEekCOnfIg.wORKeRs.dEV",
+                "insecure": false,
+                "alpn": [
+                    "http/1.1"
+                ],
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "/eyJqdW5rIjoieWhJcW05SUZlaktsc2oiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyYTAyOjg5ODoxNDY6NjQ6Ol0iXX0=?ed=2560",
+                "headers": {
+                    "Host": "o.server2peekconfig.workers.dev"
+                }
+            }
+        },
+        {
+            "type": "vless",
+            "tag": "🇺🇸 60 - US - VLESS/WS - 8080",
+            "server": "104.26.15.16",
+            "server_port": 8080,
+            "uuid": "cabbfe13-038b-4dbb-9c45-5079c829abfa",
+            "flow": "",
+            "tls": {
+                "enabled": false
+            },
+            "transport": {
+                "type": "ws",
+                "path": "/",
+                "headers": {
+                    "Host": "tr-cd.sublink-vip2.com"
+                }
+            }
+        },
+        {
+            "type": "vless",
+            "tag": "🇺🇸 59 - US - VLESS/WS - 8080",
+            "server": "104.21.65.173",
+            "server_port": 8080,
+            "uuid": "cabbfe13-038b-4dbb-9c45-5079c829abfa",
+            "flow": "",
+            "tls": {
+                "enabled": false
+            },
+            "transport": {
+                "type": "ws",
+                "path": "/",
+                "headers": {
+                    "Host": "tr-cd.sublink-vip2.com"
+                }
+            }
+        },
+        {
+            "type": "vless",
+            "tag": "🇺🇸 71 - US - VLESS/WS/TLS/UTLS - 443",
             "server": "162.159.6.232",
             "server_port": 443,
             "uuid": "f0750b15-37dd-44e4-803a-c62d3237f2fa",
@@ -524,7 +560,7 @@
         },
         {
             "type": "vless",
-            "tag": "🇺🇸 107 - US - VLESS/WS/TLS/UTLS - 443",
+            "tag": "🇺🇸 72 - US - VLESS/WS/TLS/UTLS - 443",
             "server": "162.159.6.232",
             "server_port": 443,
             "uuid": "f0750b15-37dd-44e4-803a-c62d3237f2fa",
@@ -551,7 +587,91 @@
         },
         {
             "type": "vless",
-            "tag": "🇺🇸 108 - US - VLESS/WS/TLS/UTLS - 443",
+            "tag": "🇺🇸 73 - US - VLESS/WS/TLS/UTLS - 443",
+            "server": "104.17.121.71",
+            "server_port": 443,
+            "uuid": "fc965ad9-bdd7-4815-ad71-b39ec5972dc1",
+            "flow": "",
+            "tls": {
+                "enabled": true,
+                "server_name": "octopusss4.com",
+                "insecure": false,
+                "alpn": [
+                    "h2",
+                    "http/1.1"
+                ],
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "/tsghdws",
+                "headers": {
+                    "Host": "octopusss4.com"
+                }
+            }
+        },
+        {
+            "type": "vless",
+            "tag": "🇺🇸 74 - US - VLESS/WS/TLS/UTLS - 443",
+            "server": "162.159.36.20",
+            "server_port": 443,
+            "uuid": "fc965ad9-bdd7-4815-ad71-b39ec5972dc1",
+            "flow": "",
+            "tls": {
+                "enabled": true,
+                "server_name": "octopusss4.com",
+                "insecure": false,
+                "alpn": [
+                    "h2",
+                    "http/1.1"
+                ],
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "/tsghdws",
+                "headers": {
+                    "Host": "octopusss4.com"
+                }
+            }
+        },
+        {
+            "type": "vless",
+            "tag": "🇺🇸 75 - US - VLESS/WS/TLS/UTLS - 443",
+            "server": "172.64.147.137",
+            "server_port": 443,
+            "uuid": "fc965ad9-bdd7-4815-ad71-b39ec5972dc1",
+            "flow": "",
+            "tls": {
+                "enabled": true,
+                "server_name": "octopusss4.com",
+                "insecure": false,
+                "alpn": [
+                    "h2",
+                    "http/1.1"
+                ],
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "/tsghdws",
+                "headers": {
+                    "Host": "octopusss4.com"
+                }
+            }
+        },
+        {
+            "type": "vless",
+            "tag": "🇺🇸 76 - US - VLESS/WS/TLS/UTLS - 443",
             "server": "172.66.47.45",
             "server_port": 443,
             "uuid": "fc965ad9-bdd7-4815-ad71-b39ec5972dc1",
@@ -579,14 +699,14 @@
         },
         {
             "type": "vless",
-            "tag": "🇺🇸 109 - US - VLESS/WS/TLS/UTLS - 443",
-            "server": "173.245.58.75",
+            "tag": "🇺🇸 77 - US - VLESS/WS/TLS/UTLS - 443",
+            "server": "www.speedtest.net",
             "server_port": 443,
-            "uuid": "fc965ad9-bdd7-4815-ad71-b39ec5972dc1",
+            "uuid": "lombo_channel",
             "flow": "",
             "tls": {
                 "enabled": true,
-                "server_name": "octopusss4.com",
+                "server_name": "tell-zimoon909.mongral.ir",
                 "insecure": false,
                 "alpn": [
                     "h2",
@@ -599,152 +719,15 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "/tsghdws",
+                "path": "/",
                 "headers": {
-                    "Host": "octopusss4.com"
-                }
-            }
-        },
-        {
-            "type": "vless",
-            "tag": "🇺🇸 110 - US - VLESS/WS/TLS/UTLS - 443",
-            "server": "188.114.97.3",
-            "server_port": 443,
-            "uuid": "fc965ad9-bdd7-4815-ad71-b39ec5972dc1",
-            "flow": "",
-            "tls": {
-                "enabled": true,
-                "server_name": "octopusss4.com",
-                "insecure": false,
-                "alpn": [
-                    "h2",
-                    "http/1.1"
-                ],
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/tsghdws",
-                "headers": {
-                    "Host": "octopusss4.com"
-                }
-            }
-        },
-        {
-            "type": "vless",
-            "tag": "🇺🇸 111 - US - VLESS/WS/TLS/UTLS - 443",
-            "server": "betty.ns.cloudflare.com",
-            "server_port": 443,
-            "uuid": "fc965ad9-bdd7-4815-ad71-b39ec5972dc1",
-            "flow": "",
-            "tls": {
-                "enabled": true,
-                "server_name": "octopusss4.com",
-                "insecure": false,
-                "alpn": [
-                    "h2",
-                    "http/1.1"
-                ],
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/tsghdws",
-                "headers": {
-                    "Host": "octopusss4.com"
+                    "Host": "tell-zimoon909.mongral.ir"
                 }
             }
         },
         {
             "type": "trojan",
-            "tag": "🇺🇸 73 - US - Trojan/WS/TLS/UTLS - 443",
-            "server": "www.calmlunch.com",
-            "server_port": 443,
-            "password": "humanity",
-            "tls": {
-                "enabled": true,
-                "server_name": "www.calmlunch.com",
-                "insecure": false,
-                "alpn": [
-                    "h2",
-                    "http/1.1"
-                ],
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/assignment",
-                "headers": {
-                    "Host": "www.calmlunch.com"
-                }
-            }
-        },
-        {
-            "type": "trojan",
-            "tag": "🇺🇸 72 - US - Trojan/WS/TLS/UTLS - 443",
-            "server": "www.calmlunch.com",
-            "server_port": 443,
-            "password": "humanity",
-            "tls": {
-                "enabled": true,
-                "server_name": "www.calmlunch.com",
-                "insecure": false,
-                "alpn": [
-                    "h2",
-                    "http/1.1"
-                ],
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/assignment",
-                "headers": {
-                    "Host": "www.calmlunch.com"
-                }
-            }
-        },
-        {
-            "type": "trojan",
-            "tag": "🇺🇸 74 - US - Trojan/WS/TLS/UTLS - 443",
-            "server": "www.multiplydose.com",
-            "server_port": 443,
-            "password": "humanity",
-            "tls": {
-                "enabled": true,
-                "server_name": "www.multiplydose.com",
-                "insecure": false,
-                "alpn": [
-                    "h2",
-                    "http/1.1"
-                ],
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/assignment",
-                "headers": {
-                    "Host": "www.multiplydose.com"
-                }
-            }
-        },
-        {
-            "type": "trojan",
-            "tag": "🇺🇸 75 - US - Trojan/WS/TLS/UTLS - 443",
+            "tag": "🇺🇸 48 - US - Trojan/WS/TLS/UTLS - 443",
             "server": "www.multiplydose.com",
             "server_port": 443,
             "password": "humanity",
