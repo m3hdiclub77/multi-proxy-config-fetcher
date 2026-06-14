@@ -3,25 +3,22 @@
 # List of source URLs to fetch proxy configurations from.
 # Add or remove URLs as needed. All URLs in this list are automatically enabled.
 SOURCE_URLS = [
-    "https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mci/sub_1.txt",
-    #"https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mci/sub_2.txt",
-    #"https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mci/sub_3.txt",
-    #"https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mci/sub_4.txt",
-    "https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mtn/sub_1.txt",
-    #"https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mtn/sub_2.txt",
-    #"https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mtn/sub_3.txt",
-    #"https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mtn/sub_4.txt",
-    "https://raw.githubusercontent.com/MahsaNetConfigTopic/config/refs/heads/main/xray_final.txt",
-    "https://raw.githubusercontent.com/Mahdi0024/ProxyCollector/master/sub/proxies.txt",
-    "https://raw.githubusercontent.com/zieng2/wl/refs/heads/main/vless_universal.txt",
-    #"https://raw.githubusercontent.com/iampedii/whitedns-sub/refs/heads/main/base64.txt",
-    "https://raw.githubusercontent.com/Ashkan-m/v2ray/main/Sub.txt",
+    "https://t.me/SOSkeyNET",
+    "https://t.me/AR14N24B",
+    "https://t.me/hamedvpns",
+    "https://raw.githubusercontent.com/ThomasJasperthecat/sub/main/sublist1.txt",
     "https://raw.githubusercontent.com/masir-sefid/Sub/main/@Masir_Sefid.txt",
-    "https://raw.githubusercontent.com/arshiacomplus/v2rayExtractor/refs/heads/main/mix/sub.html",
-    "https://raw.githubusercontent.com/therealaleph/Iran-configs/refs/heads/main/ir_configs.txt",
-    "https://t.me/s/PrivateVPNs",
-    "https://t.me/s/DirectVPN",
-    "https://t.me/s/persianvpnhub",
+    "https://sub.iampedi5.live/sub/base64.txt",
+    "https://raw.githubusercontent.com/masir-sefid/Sub/main/Telegram-Channel-@Masir_Sefid.txt",
+    "https://raw.githubusercontent.com/AmyraxVPN-Main/AmyraxVPN/refs/heads/main/AmyraxVPN.txt",
+    "https://t.me/mehrosaboran",
+    "https://t.me/proxy_kafee",
+    "https://t.me/v2rayngvpn",
+    "https://t.me/prrofile_purple",
+    "https://t.me/FreakConfig",
+    "https://t.me/Capoit",
+    "https://t.me/Alfred_Config",
+    "https://t.me/v2rayntech",
 ]
 
 # Set to True to fetch the maximum possible number of configurations.
@@ -41,7 +38,7 @@ ENABLED_PROTOCOLS = {
     "vmess://": False,
     "ss://": False,
     "trojan://": True,
-    "tuic://": False,
+    "tuic://": True,
 }
 
 # Maximum age of configurations in days.
