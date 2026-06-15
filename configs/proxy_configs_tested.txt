@@ -6,49 +6,65 @@
 
 
 
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@172.67.74.2:8080?security=none&type=ws&path=/&host=tr-cd.sublink-vip2.com&encryption=none#🇺🇸 4 - US - VLESS/WS - 8080
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@172.67.74.2:8080?security=none&type=ws&path=/&host=tr-cd.sublink-vip2.com&encryption=none#🇺🇸 2 - US - VLESS/WS - 8080
 
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@104.16.0.0:8080?security=none&type=ws&path=/&host=tr-cd.sublink-vip2.com&encryption=none#🇺🇸 1 - US - VLESS/WS - 8080
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@www.speedtest.org:8080?security=none&type=ws&path=/&host=tr-cd.sublink-vip2.com&encryption=none#🇺🇸 3 - US - VLESS/WS - 8080
 
-vless://0791d656-5507-494e-933e-b4bcf589fa6f@104.16.117.43:443?security=tls&type=ws&path=/&host=semimag.ir&alpn=http/1.1&sni=semimag.ir&fp=chrome&encryption=none#🇺🇸 5 - US - VLESS/WS/TLS/UTLS - 443
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@104.16.0.0:443?security=tls&type=ws&path=/&host=tr-cd.sublink-vip2.com&sni=tr-cd.sublink-vip2.com&fp=chrome&encryption=none#🇺🇸 1 - US - VLESS/WS/TLS/UTLS - 443
 
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@104.26.15.137:8080?security=none&type=ws&path=/&host=tr-cd.sublink-vip2.com&encryption=none#🇺🇸 2 - US - VLESS/WS - 8080
+vless://14fcbcd4-2c96-4c30-b3ca-2e87ea8918d7@104.19.50.244:80?security=none&type=ws&path=/ws-vlees&host=app.app-all-ccoo.com&encryption=none#🇺🇸 9 - US - VLESS/WS - 80
 
-vless://6a8ee5f2-0fd5-4837-a377-87dafa6e162c@188.114.97.6:8443?security=tls&type=ws&path=/&host=argoovpn.imanaghapour.ir&alpn=http/1.1&sni=argoovpn.imanaghapour.ir&fp=chrome&encryption=none#🇺🇸 32 - US - VLESS/WS/TLS/UTLS - 8443
+vless://14fcbcd4-2c96-4c30-b3ca-2e87ea8918d7@188.114.97.6:80?security=none&type=ws&path=/ws-vlees&host=app3.app-all-ccoo.com&encryption=none#🇺🇸 10 - US - VLESS/WS - 80
 
-vless://b1f93fc1-b69f-44cd-a952-ed80de1a05c2@162.159.140.245:443?security=tls&type=xhttp&path=/uuid/get&host=fzserver.art&alpn=h2,http/1.1&sni=fzserver.art&fp=chrome&mode=packet-up&encryption=none#🇺🇸 51 - US - VLESS/XHTTP/TLS/UTLS - 443
+vless://4d284e14-f8d4-45e3-bcaf-8263c4fc10e7@104.16.75.218:443?security=tls&type=ws&path=/&host=server-1.ariyuz.org&alpn=http/1.1&sni=server-1.ariyuz.org&fp=chrome#🇺🇸 11 - US - VLESS/WS/TLS/UTLS - 443
 
-vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@173.245.59.162:443?security=tls&type=ws&path=/udfyfws&host=octopusss5.info&alpn=networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-&sni=octopusss5.info&fp=chrome&encryption=none#🇺🇸 53 - US - VLESS/WS/TLS/UTLS - 443
+vless://b1f93fc1-b69f-44cd-a952-ed80de1a05c2@162.159.140.245:443?security=tls&type=xhttp&path=/uuid/get&host=fzserver.art&alpn=h2,http/1.1&sni=fzserver.art&fp=chrome&mode=packet-up&encryption=none#🇺🇸 48 - US - VLESS/XHTTP/TLS/UTLS - 443
 
-vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@172.64.147.236:443?security=tls&type=ws&path=/udfyfws&host=octopusss5.info&sni=octopusss5.info&fp=chrome&encryption=none#🇺🇸 52 - US - VLESS/WS/TLS/UTLS - 443
+vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@108.162.193.162:443?security=tls&type=ws&path=/udfyfws&host=octopusss5.info&sni=octopusss5.info&fp=chrome&encryption=none#🇺🇸 49 - US - VLESS/WS/TLS/UTLS - 443
 
-vless://c7ccd788-1172-46f2-a749-c1a743da2ef2@104.17.121.71:443?security=tls&type=xhttp&path=/Telegram-Zedmodeon&host=faboo.tll-far.ir&alpn=h2,http/1.1&sni=faboo.tll-far.ir&fp=chrome&mode=auto&encryption=none#🇺🇸 57 - US - VLESS/XHTTP/TLS/UTLS - 443
+vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@172.64.147.236:443?security=tls&type=ws&path=/udfyfws&host=octopusss5.info&sni=octopusss5.info&fp=chrome&encryption=none#🇺🇸 50 - US - VLESS/WS/TLS/UTLS - 443
 
-vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@188.114.97.6:443?security=tls&type=ws&path=/udfyfws&host=octopusss5.info&sni=octopusss5.info&fp=chrome#🇺🇸 55 - US - VLESS/WS/TLS/UTLS - 443
+vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@172.64.33.162:443?security=tls&type=ws&path=/udfyfws&host=octopusss5.info&sni=octopusss5.info&fp=chrome&encryption=none#🇺🇸 51 - US - VLESS/WS/TLS/UTLS - 443
 
-vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@octopusss5.info:443?security=tls&type=ws&path=/udfyfws&host=octopusss5.info&sni=octopusss5.info&fp=chrome#🇺🇸 56 - US - VLESS/WS/TLS/UTLS - 443
+vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@173.245.59.162:443?security=tls&type=ws&path=/udfyfws&host=octopusss5.info&alpn=networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-&sni=octopusss5.info&fp=chrome&encryption=none#🇺🇸 52 - US - VLESS/WS/TLS/UTLS - 443
 
-vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@173.245.59.162:443?security=tls&type=ws&path=/udfyfws&host=octopusss5.info&sni=octopusss5.info&fp=chrome#🇺🇸 54 - US - VLESS/WS/TLS/UTLS - 443
+vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@188.114.97.6:443?security=tls&type=ws&path=/udfyfws&host=octopusss5.info&sni=octopusss5.info&fp=chrome#🇺🇸 53 - US - VLESS/WS/TLS/UTLS - 443
 
-vless://ca185ddd-de24-4bc0-b907-232fe947b538@o.server2peekconfig.workers.dev:443?security=tls&type=ws&path=/eyJqdW5rIjoieWhJcW05SUZlaktsc2oiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyYTAyOjg5ODoxNDY6NjQ6Ol0iXX0=?ed=2560&host=o.server2peekconfig.workers.dev&alpn=http/1.1&sni=O.sErvER2pEekCOnfIg.wORKeRs.dEV&fp=chrome&encryption=none#🇺🇸 58 - US - VLESS/WS/TLS/UTLS - 443
+vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@elliot.ns.cloudflare.com:443?security=tls&type=ws&path=/udfyfws&host=octopusss5.info&sni=octopusss5.info&fp=chrome&encryption=none#🇺🇸 54 - US - VLESS/WS/TLS/UTLS - 443
+
+vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@octopusss5.info:443?security=tls&type=ws&path=/udfyfws&host=octopusss5.info&sni=octopusss5.info&fp=chrome#🇺🇸 55 - US - VLESS/WS/TLS/UTLS - 443
+
+vless://c7ccd788-1172-46f2-a749-c1a743da2ef2@104.17.121.71:443?security=tls&type=xhttp&path=/Telegram-Zedmodeon&host=faboo.tll-far.ir&alpn=h2,http/1.1&sni=faboo.tll-far.ir&fp=chrome&mode=auto&encryption=none#🇺🇸 56 - US - VLESS/XHTTP/TLS/UTLS - 443
+
+vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@104.16.0.0:443?security=tls&type=ws&path=/&host=tr-cd.sublink-vip2.com&sni=tr-cd.sublink-vip2.com&fp=chrome&encryption=none#🇺🇸 57 - US - VLESS/WS/TLS/UTLS - 443
+
+vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@104.16.0.0:8080?security=none&type=ws&path=/&host=tr-cd.sublink-vip2.com&encryption=none#🇺🇸 58 - US - VLESS/WS - 8080
+
+vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@104.26.14.16:8080?security=none&type=ws&path=/&host=tr-cd.sublink-vip2.com#🇺🇸 59 - US - VLESS/WS - 8080
 
 vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@104.26.15.16:8080?security=none&type=ws&path=/&host=tr-cd.sublink-vip2.com#🇺🇸 60 - US - VLESS/WS - 8080
 
-vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@104.21.65.173:8080?security=none&type=ws&path=/&host=tr-cd.sublink-vip2.com#🇺🇸 59 - US - VLESS/WS - 8080
+vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@www.speedtest.org:8080?security=none&type=ws&path=/&host=tr-cd.sublink-vip2.com&encryption=none#🇺🇸 61 - US - VLESS/WS - 8080
 
-vless://f0750b15-37dd-44e4-803a-c62d3237f2fa@162.159.6.232:443?security=tls&type=ws&path=/eyJqdW5rIjoiUHFXRURhd1hFZyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=1017.bagsell-1017.workers.dev&sni=1017.bagsell-1017.workers.dev&fp=chrome#🇺🇸 71 - US - VLESS/WS/TLS/UTLS - 443
+vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@104.17.108.189:443?security=tls&type=ws&path=/tsghdws&host=octopusss4.com&sni=octopusss4.com&fp=chrome&encryption=none#🇺🇸 71 - US - VLESS/WS/TLS/UTLS - 443
 
-vless://f0750b15-37dd-44e4-803a-c62d3237f2fa@162.159.6.232:443?security=tls&type=ws&path=/eyJqdW5rIjoiUHFXRURhd1hFZyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=?ed=2560&host=1017.bagsell-1017.workers.dev&alpn=http/1.1&sni=1017.BAGseLl-1017.WOrkERs.dev&fp=chrome&encryption=none#🇺🇸 72 - US - VLESS/WS/TLS/UTLS - 443
+vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@104.19.229.21:443?security=tls&type=ws&path=/tsghdws&host=octopusss4.com&sni=octopusss4.com&fp=chrome&encryption=none#🇺🇸 72 - US - VLESS/WS/TLS/UTLS - 443
 
-vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@104.17.121.71:443?security=tls&type=ws&path=/tsghdws&host=octopusss4.com&sni=octopusss4.com&fp=chrome&encryption=none#🇺🇸 73 - US - VLESS/WS/TLS/UTLS - 443
+vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@162.159.193.138:443?security=tls&type=ws&path=/tsghdws&host=octopusss4.com&sni=octopusss4.com&fp=chrome&encryption=none#🇺🇸 73 - US - VLESS/WS/TLS/UTLS - 443
 
 vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@162.159.36.20:443?security=tls&type=ws&path=/tsghdws&host=octopusss4.com&sni=octopusss4.com&fp=chrome&encryption=none#🇺🇸 74 - US - VLESS/WS/TLS/UTLS - 443
 
-vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@172.64.147.137:443?security=tls&type=ws&path=/tsghdws&host=octopusss4.com&sni=octopusss4.com&fp=chrome&encryption=none#🇺🇸 75 - US - VLESS/WS/TLS/UTLS - 443
+vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@162.159.36.5:443?security=tls&type=ws&path=/tsghdws&host=octopusss4.com&sni=octopusss4.com&fp=chrome&encryption=none#🇺🇸 75 - US - VLESS/WS/TLS/UTLS - 443
 
-vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@172.66.47.45:443?security=tls&type=ws&path=/tsghdws&host=octopusss4.com&sni=octopusss4.com&fp=chrome&encryption=none#🇺🇸 76 - US - VLESS/WS/TLS/UTLS - 443
+vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@172.64.146.68:443?security=tls&type=ws&path=/tsghdws&host=octopusss4.com&sni=octopusss4.com&fp=chrome&encryption=none#🇺🇸 76 - US - VLESS/WS/TLS/UTLS - 443
 
-vless://lombo_channel@www.speedtest.net:443?security=tls&type=ws&path=/&host=tell-zimoon909.mongral.ir&alpn=h2,http/1.1&sni=tell-zimoon909.mongral.ir&fp=chrome&encryption=none#🇺🇸 77 - US - VLESS/WS/TLS/UTLS - 443
+vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@172.64.32.75:443?security=tls&type=ws&path=/tsghdws&host=octopusss4.com&sni=octopusss4.com&fp=chrome&encryption=none#🇺🇸 77 - US - VLESS/WS/TLS/UTLS - 443
 
-trojan://humanity@www.multiplydose.com:443?sni=www.multiplydose.com&type=ws&path=/assignment&fp=chrome#🇺🇸 48 - US - Trojan/WS/TLS/UTLS - 443
+vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@172.66.47.45:443?security=tls&type=ws&path=/tsghdws&host=octopusss4.com&sni=octopusss4.com&fp=chrome&encryption=none#🇺🇸 78 - US - VLESS/WS/TLS/UTLS - 443
+
+vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@188.114.97.6:443?security=tls&type=ws&path=/tsghdws&host=octopusss4.com&alpn=h3,h2,http/1.1&sni=octopusss4.com&fp=chrome&encryption=none#🇺🇸 79 - US - VLESS/WS/TLS/UTLS - 443
+
+trojan://humanity@www.calmlunch.com:443?sni=www.calmlunch.com&type=ws&path=/assignment&fp=chrome#🇺🇸 46 - US - Trojan/WS/TLS/UTLS - 443
+
+trojan://humanity@www.calmlunch.com:443?sni=www.calmlunch.com&type=ws&path=/assignment&fp=chrome#🇺🇸 47 - US - Trojan/WS/TLS/UTLS - 443
 

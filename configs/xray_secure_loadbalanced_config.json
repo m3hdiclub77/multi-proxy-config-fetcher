@@ -60,11 +60,11 @@
       "settings": {
         "vnext": [
           {
-            "address": "104.16.117.43",
+            "address": "104.16.75.218",
             "port": 443,
             "users": [
               {
-                "id": "0791d656-5507-494e-933e-b4bcf589fa6f",
+                "id": "4d284e14-f8d4-45e3-bcaf-8263c4fc10e7",
                 "flow": "",
                 "encryption": "none",
                 "level": 8
@@ -79,11 +79,11 @@
         "wsSettings": {
           "path": "/",
           "headers": {
-            "Host": "semimag.ir"
+            "Host": "server-1.ariyuz.org"
           }
         },
         "tlsSettings": {
-          "serverName": "semimag.ir",
+          "serverName": "server-1.ariyuz.org",
           "allowInsecure": false,
           "alpn": [
             "http/1.1"
@@ -94,44 +94,6 @@
     },
     {
       "tag": "proxy-2",
-      "protocol": "vless",
-      "settings": {
-        "vnext": [
-          {
-            "address": "188.114.97.6",
-            "port": 8443,
-            "users": [
-              {
-                "id": "6a8ee5f2-0fd5-4837-a377-87dafa6e162c",
-                "flow": "",
-                "encryption": "none",
-                "level": 8
-              }
-            ]
-          }
-        ]
-      },
-      "streamSettings": {
-        "network": "ws",
-        "security": "tls",
-        "wsSettings": {
-          "path": "/",
-          "headers": {
-            "Host": "argoovpn.imanaghapour.ir"
-          }
-        },
-        "tlsSettings": {
-          "serverName": "argoovpn.imanaghapour.ir",
-          "allowInsecure": false,
-          "alpn": [
-            "http/1.1"
-          ],
-          "fingerprint": "chrome"
-        }
-      }
-    },
-    {
-      "tag": "proxy-3",
       "protocol": "vless",
       "settings": {
         "vnext": [

@@ -102,9 +102,8 @@
             "tag": "🌐 Anonymous Multi",
             "outbounds": [
                 "👽 Best Ping 🚀",
-                "🇺🇸 5 - US - VLESS/WS/TLS/UTLS - 443",
-                "🇺🇸 32 - US - VLESS/WS/TLS/UTLS - 8443",
-                "🇺🇸 53 - US - VLESS/WS/TLS/UTLS - 443",
+                "🇺🇸 11 - US - VLESS/WS/TLS/UTLS - 443",
+                "🇺🇸 52 - US - VLESS/WS/TLS/UTLS - 443",
                 "direct"
             ]
         },
@@ -116,9 +115,8 @@
             "type": "urltest",
             "tag": "👽 Best Ping 🚀",
             "outbounds": [
-                "🇺🇸 5 - US - VLESS/WS/TLS/UTLS - 443",
-                "🇺🇸 32 - US - VLESS/WS/TLS/UTLS - 8443",
-                "🇺🇸 53 - US - VLESS/WS/TLS/UTLS - 443"
+                "🇺🇸 11 - US - VLESS/WS/TLS/UTLS - 443",
+                "🇺🇸 52 - US - VLESS/WS/TLS/UTLS - 443"
             ],
             "url": "https://www.gstatic.com/generate_204",
             "interrupt_exist_connections": false,
@@ -126,14 +124,14 @@
         },
         {
             "type": "vless",
-            "tag": "🇺🇸 5 - US - VLESS/WS/TLS/UTLS - 443",
-            "server": "104.16.117.43",
+            "tag": "🇺🇸 11 - US - VLESS/WS/TLS/UTLS - 443",
+            "server": "104.16.75.218",
             "server_port": 443,
-            "uuid": "0791d656-5507-494e-933e-b4bcf589fa6f",
+            "uuid": "4d284e14-f8d4-45e3-bcaf-8263c4fc10e7",
             "flow": "",
             "tls": {
                 "enabled": true,
-                "server_name": "semimag.ir",
+                "server_name": "server-1.ariyuz.org",
                 "insecure": false,
                 "alpn": [
                     "http/1.1"
@@ -147,40 +145,13 @@
                 "type": "ws",
                 "path": "/",
                 "headers": {
-                    "Host": "semimag.ir"
+                    "Host": "server-1.ariyuz.org"
                 }
             }
         },
         {
             "type": "vless",
-            "tag": "🇺🇸 32 - US - VLESS/WS/TLS/UTLS - 8443",
-            "server": "188.114.97.6",
-            "server_port": 8443,
-            "uuid": "6a8ee5f2-0fd5-4837-a377-87dafa6e162c",
-            "flow": "",
-            "tls": {
-                "enabled": true,
-                "server_name": "argoovpn.imanaghapour.ir",
-                "insecure": false,
-                "alpn": [
-                    "http/1.1"
-                ],
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/",
-                "headers": {
-                    "Host": "argoovpn.imanaghapour.ir"
-                }
-            }
-        },
-        {
-            "type": "vless",
-            "tag": "🇺🇸 53 - US - VLESS/WS/TLS/UTLS - 443",
+            "tag": "🇺🇸 52 - US - VLESS/WS/TLS/UTLS - 443",
             "server": "173.245.59.162",
             "server_port": 443,
             "uuid": "c35050ce-01ab-45a9-91b8-54cec637d0a8",
