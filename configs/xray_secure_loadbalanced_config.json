@@ -60,44 +60,6 @@
       "settings": {
         "vnext": [
           {
-            "address": "104.16.75.218",
-            "port": 443,
-            "users": [
-              {
-                "id": "4d284e14-f8d4-45e3-bcaf-8263c4fc10e7",
-                "flow": "",
-                "encryption": "none",
-                "level": 8
-              }
-            ]
-          }
-        ]
-      },
-      "streamSettings": {
-        "network": "ws",
-        "security": "tls",
-        "wsSettings": {
-          "path": "/",
-          "headers": {
-            "Host": "server-1.ariyuz.org"
-          }
-        },
-        "tlsSettings": {
-          "serverName": "server-1.ariyuz.org",
-          "allowInsecure": false,
-          "alpn": [
-            "http/1.1"
-          ],
-          "fingerprint": "chrome"
-        }
-      }
-    },
-    {
-      "tag": "proxy-2",
-      "protocol": "vless",
-      "settings": {
-        "vnext": [
-          {
             "address": "173.245.59.162",
             "port": 443,
             "users": [
