@@ -103,8 +103,8 @@
             "outbounds": [
                 "👽 Best Ping 🚀",
                 "🇺🇸 8 - US - VLESS/WS - 80",
-                "🇺🇸 9 - US - VLESS/WS - 2052",
-                "🇺🇸 58 - US - VLESS/WS/TLS/UTLS - 443",
+                "🇺🇸 38 - US - VLESS/WS/TLS/UTLS - 443",
+                "🇺🇸 53 - US - VLESS/WS/TLS/UTLS - 443",
                 "direct"
             ]
         },
@@ -117,8 +117,8 @@
             "tag": "👽 Best Ping 🚀",
             "outbounds": [
                 "🇺🇸 8 - US - VLESS/WS - 80",
-                "🇺🇸 9 - US - VLESS/WS - 2052",
-                "🇺🇸 58 - US - VLESS/WS/TLS/UTLS - 443"
+                "🇺🇸 38 - US - VLESS/WS/TLS/UTLS - 443",
+                "🇺🇸 53 - US - VLESS/WS/TLS/UTLS - 443"
             ],
             "url": "https://www.gstatic.com/generate_204",
             "interrupt_exist_connections": false,
@@ -144,25 +144,34 @@
         },
         {
             "type": "vless",
-            "tag": "🇺🇸 9 - US - VLESS/WS - 2052",
-            "server": "cctvhikvision.center",
-            "server_port": 2052,
-            "uuid": "19cc3bc7-3a6b-4ddb-9f6e-8f425f953789",
+            "tag": "🇺🇸 38 - US - VLESS/WS/TLS/UTLS - 443",
+            "server": "www.speedtest.net",
+            "server_port": 443,
+            "uuid": "a491b1c4-1141-4f59-9731-e0621f6e452f",
             "flow": "",
             "tls": {
-                "enabled": false
+                "enabled": true,
+                "server_name": "website.yaroo383mardak.online",
+                "insecure": false,
+                "alpn": [
+                    "http/1.1"
+                ],
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                }
             },
             "transport": {
                 "type": "ws",
-                "path": "/api-v1",
+                "path": "/@mahdi_383ir",
                 "headers": {
-                    "Host": "uwu.blueknightnet.qzz.io"
+                    "Host": "website.yaroo383mardak.online"
                 }
             }
         },
         {
             "type": "vless",
-            "tag": "🇺🇸 58 - US - VLESS/WS/TLS/UTLS - 443",
+            "tag": "🇺🇸 53 - US - VLESS/WS/TLS/UTLS - 443",
             "server": "173.245.59.162",
             "server_port": 443,
             "uuid": "c35050ce-01ab-45a9-91b8-54cec637d0a8",
