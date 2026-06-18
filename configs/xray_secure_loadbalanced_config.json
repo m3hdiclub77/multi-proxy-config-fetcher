@@ -56,20 +56,14 @@
   "outbounds": [
     {
       "tag": "proxy-1",
-      "protocol": "vless",
+      "protocol": "trojan",
       "settings": {
-        "vnext": [
+        "servers": [
           {
-            "address": "www.speedtest.net",
+            "address": "wwww.95r.ir",
             "port": 443,
-            "users": [
-              {
-                "id": "a491b1c4-1141-4f59-9731-e0621f6e452f",
-                "flow": "",
-                "encryption": "none",
-                "level": 8
-              }
-            ]
+            "password": "MiTiVPN",
+            "level": 8
           }
         ]
       },
@@ -77,37 +71,30 @@
         "network": "ws",
         "security": "tls",
         "wsSettings": {
-          "path": "/@mahdi_383ir",
+          "path": "/ed=mitivpn",
           "headers": {
-            "Host": "website.yaroo383mardak.online"
+            "Host": "wwww.95r.ir"
           }
         },
         "tlsSettings": {
-          "serverName": "website.yaroo383mardak.online",
+          "serverName": "wwww.95r.ir",
           "allowInsecure": false,
           "alpn": [
             "http/1.1"
-          ],
-          "fingerprint": "firefox"
+          ]
         }
       }
     },
     {
       "tag": "proxy-2",
-      "protocol": "vless",
+      "protocol": "trojan",
       "settings": {
-        "vnext": [
+        "servers": [
           {
-            "address": "173.245.59.162",
+            "address": "www.calmloud.com",
             "port": 443,
-            "users": [
-              {
-                "id": "c35050ce-01ab-45a9-91b8-54cec637d0a8",
-                "flow": "",
-                "encryption": "none",
-                "level": 8
-              }
-            ]
+            "password": "humanity",
+            "level": 8
           }
         ]
       },
@@ -115,18 +102,17 @@
         "network": "ws",
         "security": "tls",
         "wsSettings": {
-          "path": "/udfyfws",
+          "path": "/assignment",
           "headers": {
-            "Host": "octopusss5.info"
+            "Host": "www.calmloud.com"
           }
         },
         "tlsSettings": {
-          "serverName": "octopusss5.info",
+          "serverName": "www.calmloud.com",
           "allowInsecure": false,
           "alpn": [
-            "networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-"
-          ],
-          "fingerprint": "chrome"
+            "http/1.1"
+          ]
         }
       }
     },
