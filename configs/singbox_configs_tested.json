@@ -102,9 +102,8 @@
             "tag": "🌐 Anonymous Multi",
             "outbounds": [
                 "👽 Best Ping 🚀",
-                "🇺🇸 9 - US - VLESS/WS - 80",
-                "🇺🇸 11 - US - Trojan/WS/TLS/UTLS - 443",
-                "🇺🇸 59 - US - Trojan/WS/TLS/UTLS - 443",
+                "🇺🇸 11 - US - VLESS/WS - 80",
+                "🇺🇸 66 - US - Trojan/WS/TLS/UTLS - 443",
                 "direct"
             ]
         },
@@ -116,9 +115,8 @@
             "type": "urltest",
             "tag": "👽 Best Ping 🚀",
             "outbounds": [
-                "🇺🇸 9 - US - VLESS/WS - 80",
-                "🇺🇸 11 - US - Trojan/WS/TLS/UTLS - 443",
-                "🇺🇸 59 - US - Trojan/WS/TLS/UTLS - 443"
+                "🇺🇸 11 - US - VLESS/WS - 80",
+                "🇺🇸 66 - US - Trojan/WS/TLS/UTLS - 443"
             ],
             "url": "https://www.gstatic.com/generate_204",
             "interrupt_exist_connections": false,
@@ -126,7 +124,7 @@
         },
         {
             "type": "vless",
-            "tag": "🇺🇸 9 - US - VLESS/WS - 80",
+            "tag": "🇺🇸 11 - US - VLESS/WS - 80",
             "server": "188.114.97.6",
             "server_port": 80,
             "uuid": "14fcbcd4-2c96-4c30-b3ca-2e87ea8918d7",
@@ -144,33 +142,7 @@
         },
         {
             "type": "trojan",
-            "tag": "🇺🇸 11 - US - Trojan/WS/TLS/UTLS - 443",
-            "server": "wwww.95r.ir",
-            "server_port": 443,
-            "password": "MiTiVPN",
-            "tls": {
-                "enabled": true,
-                "server_name": "wwww.95r.ir",
-                "insecure": false,
-                "alpn": [
-                    "http/1.1"
-                ],
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/ed=mitivpn",
-                "headers": {
-                    "Host": "wwww.95r.ir"
-                }
-            }
-        },
-        {
-            "type": "trojan",
-            "tag": "🇺🇸 59 - US - Trojan/WS/TLS/UTLS - 443",
+            "tag": "🇺🇸 66 - US - Trojan/WS/TLS/UTLS - 443",
             "server": "www.calmloud.com",
             "server_port": 443,
             "password": "humanity",

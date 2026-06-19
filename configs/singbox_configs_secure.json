@@ -102,8 +102,7 @@
             "tag": "🌐 Anonymous Multi",
             "outbounds": [
                 "👽 Best Ping 🚀",
-                "🇺🇸 11 - US - Trojan/WS/TLS/UTLS - 443",
-                "🇺🇸 59 - US - Trojan/WS/TLS/UTLS - 443",
+                "🇺🇸 66 - US - Trojan/WS/TLS/UTLS - 443",
                 "direct"
             ]
         },
@@ -115,8 +114,7 @@
             "type": "urltest",
             "tag": "👽 Best Ping 🚀",
             "outbounds": [
-                "🇺🇸 11 - US - Trojan/WS/TLS/UTLS - 443",
-                "🇺🇸 59 - US - Trojan/WS/TLS/UTLS - 443"
+                "🇺🇸 66 - US - Trojan/WS/TLS/UTLS - 443"
             ],
             "url": "https://www.gstatic.com/generate_204",
             "interrupt_exist_connections": false,
@@ -124,33 +122,7 @@
         },
         {
             "type": "trojan",
-            "tag": "🇺🇸 11 - US - Trojan/WS/TLS/UTLS - 443",
-            "server": "wwww.95r.ir",
-            "server_port": 443,
-            "password": "MiTiVPN",
-            "tls": {
-                "enabled": true,
-                "server_name": "wwww.95r.ir",
-                "insecure": false,
-                "alpn": [
-                    "http/1.1"
-                ],
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/ed=mitivpn",
-                "headers": {
-                    "Host": "wwww.95r.ir"
-                }
-            }
-        },
-        {
-            "type": "trojan",
-            "tag": "🇺🇸 59 - US - Trojan/WS/TLS/UTLS - 443",
+            "tag": "🇺🇸 66 - US - Trojan/WS/TLS/UTLS - 443",
             "server": "www.calmloud.com",
             "server_port": 443,
             "password": "humanity",

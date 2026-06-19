@@ -60,37 +60,6 @@
       "settings": {
         "servers": [
           {
-            "address": "wwww.95r.ir",
-            "port": 443,
-            "password": "MiTiVPN",
-            "level": 8
-          }
-        ]
-      },
-      "streamSettings": {
-        "network": "ws",
-        "security": "tls",
-        "wsSettings": {
-          "path": "/ed=mitivpn",
-          "headers": {
-            "Host": "wwww.95r.ir"
-          }
-        },
-        "tlsSettings": {
-          "serverName": "wwww.95r.ir",
-          "allowInsecure": false,
-          "alpn": [
-            "http/1.1"
-          ]
-        }
-      }
-    },
-    {
-      "tag": "proxy-2",
-      "protocol": "trojan",
-      "settings": {
-        "servers": [
-          {
             "address": "www.calmloud.com",
             "port": 443,
             "password": "humanity",
