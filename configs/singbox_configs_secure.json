@@ -102,49 +102,12 @@
             "tag": "🌐 Anonymous Multi",
             "outbounds": [
                 "👽 Best Ping 🚀",
-                "🇺🇸 66 - US - Trojan/WS/TLS/UTLS - 443",
                 "direct"
             ]
         },
         {
             "type": "direct",
             "tag": "direct"
-        },
-        {
-            "type": "urltest",
-            "tag": "👽 Best Ping 🚀",
-            "outbounds": [
-                "🇺🇸 66 - US - Trojan/WS/TLS/UTLS - 443"
-            ],
-            "url": "https://www.gstatic.com/generate_204",
-            "interrupt_exist_connections": false,
-            "interval": "30s"
-        },
-        {
-            "type": "trojan",
-            "tag": "🇺🇸 66 - US - Trojan/WS/TLS/UTLS - 443",
-            "server": "www.calmloud.com",
-            "server_port": 443,
-            "password": "humanity",
-            "tls": {
-                "enabled": true,
-                "server_name": "www.calmloud.com",
-                "insecure": false,
-                "alpn": [
-                    "http/1.1"
-                ],
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/assignment",
-                "headers": {
-                    "Host": "www.calmloud.com"
-                }
-            }
         }
     ],
     "route": {
