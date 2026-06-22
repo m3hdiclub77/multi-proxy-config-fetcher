@@ -5,217 +5,297 @@
 //profile-web-page-url: https://github.com/4n0nymou3
 
 
-vless://04e28e6c-7a6c-4ec7-bed2-3da8f7c9edce@www.speedtest.net:443?security=tls&type=ws&path=/eyJqdW5rIjoiVUllM0x5bkQiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed=2560&host=bpb-expo--10rayly4zy.expo.app&alpn=http/1.1&sni=BPb-exPo--10RAyly4zy.expo.aPP&fp=chrome&encryption=none#🇺🇸 1 - US - VLESS/WS/TLS/UTLS - 443
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@104.16.0.0:8080?security=none&type=ws&path=/&host=tr-cd.sublink-vip2.com&encryption=none#🇺🇸 1 - US - VLESS/WS - 8080
 
-vless://052d3626-5cb2-45b9-8984-55d33e328104@104.19.229.21:443?security=tls&type=ws&path=/&host=ek.cpfreeprize.com&alpn=h2,http/1.1&sni=ek.cpfreeprize.com&fp=chrome&encryption=none#🇺🇸 2 - US - VLESS/WS/TLS/UTLS - 443
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@104.21.65.173:8080?security=none&type=ws&path=/&host=tr-cd.sublink-vip2.com&encryption=none#🇺🇸 2 - US - VLESS/WS - 8080
 
-vless://073d1d50-8478-47bf-a828-7a1b381931d5@108.162.192.75:443?security=tls&type=ws&path=/odiyfws&host=octopusss.net&sni=octopusss.net&fp=chrome&encryption=none#🇺🇸 3 - US - VLESS/WS/TLS/UTLS - 443
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@104.26.14.137:8080?security=none&type=ws&path=/&host=tr-cd.sublink-vip2.com&encryption=none#🇺🇸 3 - US - VLESS/WS - 8080
 
-vless://073d1d50-8478-47bf-a828-7a1b381931d5@173.245.58.75:443?security=tls&type=ws&path=/odiyfws&host=octopusss.net&sni=octopusss.net&fp=chrome&encryption=none#🇺🇸 4 - US - VLESS/WS/TLS/UTLS - 443
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@104.26.14.16:8080?security=none&type=ws&path=/&host=tr-cd.sublink-vip2.com&encryption=none#🇺🇸 4 - US - VLESS/WS - 8080
 
-vless://073d1d50-8478-47bf-a828-7a1b381931d5@betty.ns.cloudflare.com:443?security=tls&type=ws&path=/odiyfws&host=octopusss.net&sni=octopusss.net&fp=chrome&encryption=none#🇺🇸 5 - US - VLESS/WS/TLS/UTLS - 443
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@104.26.15.16:8080?security=none&type=ws&path=/&host=tr-cd.sublink-vip2.com&encryption=none#🇺🇸 5 - US - VLESS/WS - 8080
 
-vless://073d1d50-8478-47bf-a828-7a1b381931d5@www.speedtest.net:443?security=tls&type=ws&path=/odiyfws&host=octopusss.net&sni=octopusss.net&fp=chrome&encryption=none#🇺🇸 6 - US - VLESS/WS/TLS/UTLS - 443
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@172.67.164.242:8080?security=none&type=ws&path=/&host=tr-cd.sublink-vip2.com&encryption=none#🇺🇸 6 - US - VLESS/WS - 8080
 
-vless://0dbad6ba-be87-46e1-ab90-30c53ef1878d@188.114.98.0:443?security=tls&type=xhttp&path=/sreztjsterw4j&alpn=h2&sni=drive.speegy.club&fp=chrome&mode=auto&encryption=none#🇺🇸 7 - US - VLESS/XHTTP/TLS/UTLS - 443
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@172.67.69.236:8080?security=none&type=ws&path=/&host=tr-cd.sublink-vip2.com&encryption=none#🇺🇸 7 - US - VLESS/WS - 8080
 
-vless://10a6b923-e349-4594-92bb-d81a6245aaec@104.26.0.7:443?type=ws&encryption=none&path=/download.php&host=sertraline.adaspoloandco.com&security=tls&fp=chrome&alpn=http/1.1,h2&sni=sertraline.adaspoloandco.com#🇺🇸 8 - US - VLESS/WS/TLS/UTLS - 443
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@172.67.74.2:8080?security=none&type=ws&path=/&host=tr-cd.sublink-vip2.com&encryption=none#🇺🇸 8 - US - VLESS/WS - 8080
 
-vless://10a6b923-e349-4594-92bb-d81a6245aaec@104.27.66.214:443?type=ws&encryption=none&path=/download.php&host=sertraline.adaspoloandco.com&security=tls&fp=chrome&alpn=http/1.1,h2&sni=sertraline.adaspoloandco.com#🇺🇸 9 - US - VLESS/WS/TLS/UTLS - 443
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@www.speedtest.org:8080?security=none&type=ws&path=/&host=tr-cd.sublink-vip2.com&encryption=none#🇺🇸 9 - US - VLESS/WS - 8080
 
-vless://10a6b923-e349-4594-92bb-d81a6245aaec@198.202.211.1:443?type=ws&encryption=none&path=/download.php&host=sertraline.adaspoloandco.com&security=tls&fp=chrome&alpn=http/1.1,h2&sni=sertraline.adaspoloandco.com#🇺🇸 10 - US - VLESS/WS/TLS/UTLS - 443
+vless://04e28e6c-7a6c-4ec7-bed2-3da8f7c9edce@www.speedtest.net:2053?security=tls&type=ws&path=/eyJqdW5rIjoiTG1BbkpIVHV2S21jNjRNIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ2LjEwMy4xMTMuMTU4Il19?ed=2560&host=bpb-expo--10rayly4zy.expo.app&alpn=http/1.1&sni=BpB-expO--10RaYly4zY.EXPO.App&fp=chrome&encryption=none#🇺🇸 10 - US - VLESS/WS/TLS/UTLS - 2053
 
-vless://10a6b923-e349-4594-92bb-d81a6245aaec@198.41.208.99:443?type=ws&encryption=none&path=/download.php&host=sertraline.adaspoloandco.com&security=tls&fp=chrome&alpn=http/1.1,h2&sni=sertraline.adaspoloandco.com#🇺🇸 11 - US - VLESS/WS/TLS/UTLS - 443
+vless://073d1d50-8478-47bf-a828-7a1b381931d5@173.245.58.75:443?security=tls&type=ws&path=/odiyfws&host=octopusss.net&sni=octopusss.net&fp=chrome&encryption=none#🇺🇸 11 - US - VLESS/WS/TLS/UTLS - 443
 
-vless://14c44521-e28f-4561-a12c-337d8cc44d87@188.114.97.6:443?security=tls&type=xhttp&path=/TiMbErSaW&host=amphetamine.yhbj.store&alpn=h3,h2,http/1.1&sni=amphetamine.yhbj.store&fp=chrome&mode=auto&extra={"xPaddingBytes":"100-1000"}&encryption=none#🇺🇸 12 - US - VLESS/XHTTP/TLS/UTLS - 443
+vless://073d1d50-8478-47bf-a828-7a1b381931d5@betty.ns.cloudflare.com:443?security=tls&type=ws&path=/odiyfws&host=octopusss.net&sni=octopusss.net&fp=chrome&encryption=none#🇺🇸 12 - US - VLESS/WS/TLS/UTLS - 443
 
-vless://1c3927cb-6141-4473-a17d-4b290f7c6980@www.speedtest.net:443?security=tls&type=xhttp&path=/xn--q9jyb4c&host=fi.dns.xn--q9jyb4c&sni=fi.dns.xn--q9jyb4c&fp=firefox&mode=packet-up&extra={"xPaddingBytes":"100-1000"}&encryption=none#🇺🇸 13 - US - VLESS/XHTTP/TLS/UTLS - 443
+vless://073d1d50-8478-47bf-a828-7a1b381931d5@www.speedtest.net:443?security=tls&type=ws&path=/odiyfws&host=octopusss.net&sni=octopusss.net&fp=chrome&encryption=none#🇺🇸 13 - US - VLESS/WS/TLS/UTLS - 443
 
-vless://2330f424-ef1f-47ad-a42a-815e5c576820@chatgpt.com:2087?security=tls&type=xhttp&path=/&alpn=h2,http/1.1&sni=r1.firefly-service.com&fp=chrome&mode=stream-up&encryption=none#🇺🇸 14 - US - VLESS/XHTTP/TLS/UTLS - 2087
+vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@104.17.121.98:443?security=tls&type=ws&path=/ca-cl&host=unnes.ac.id.yxls.eu.cc&sni=unnes.ac.id.yxls.eu.cc&fp=chrome&encryption=none#🇺🇸 14 - US - VLESS/WS/TLS/UTLS - 443
 
-vless://2390502c-ceb9-420b-a4f4-a37aa4c1867d@nodejs.org:8443?security=tls&type=ws&path=/eyJqdW5rIjoiTWhyY2V4ZEc1MUIiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed=2560&host=v2ngfast.naderyakoza.workers.dev&alpn=http/1.1&sni=v2nGFast.nadERYaKoZA.Workers.dev&fp=chrome&encryption=none#🇺🇸 15 - US - VLESS/WS/TLS/UTLS - 8443
+vless://0dbad6ba-be87-46e1-ab90-30c53ef1878d@188.114.98.0:443?security=tls&type=xhttp&path=/sreztjsterw4j&alpn=h2&sni=drive.speegy.club&fp=chrome&mode=auto&encryption=none#🇺🇸 15 - US - VLESS/XHTTP/TLS/UTLS - 443
 
-vless://2b30b19f-3345-493c-bfd9-cd56a1890fb8@188.114.97.6:443?security=tls&type=ws&path=/?ed=2048&host=t03.tzteam.online&sni=t03.tzteam.online&fp=firefox&encryption=none#🇺🇸 16 - US - VLESS/WS/TLS/UTLS - 443
+vless://10a6b923-e349-4594-92bb-d81a6245aaec@104.26.0.7:443?type=ws&encryption=none&path=/download.php&host=sertraline.adaspoloandco.com&security=tls&fp=chrome&alpn=http/1.1,h2&sni=sertraline.adaspoloandco.com#🇺🇸 16 - US - VLESS/WS/TLS/UTLS - 443
 
-vless://2b30b19f-3345-493c-bfd9-cd56a1890fb8@188.114.97.6:443?security=tls&type=ws&path=/?ed=2048&host=t06.tzteam.online&sni=t06.tzteam.online&fp=firefox&encryption=none#🇺🇸 17 - US - VLESS/WS/TLS/UTLS - 443
+vless://10a6b923-e349-4594-92bb-d81a6245aaec@104.27.66.214:443?type=ws&encryption=none&path=/download.php&host=sertraline.adaspoloandco.com&security=tls&fp=chrome&alpn=http/1.1,h2&sni=sertraline.adaspoloandco.com#🇺🇸 17 - US - VLESS/WS/TLS/UTLS - 443
 
-vless://2b30b19f-3345-493c-bfd9-cd56a1890fb8@188.114.97.6:443?security=tls&type=ws&path=/?ed=2048&host=t10.tzteam.online&sni=t10.tzteam.online&fp=firefox&encryption=none#🇺🇸 18 - US - VLESS/WS/TLS/UTLS - 443
+vless://10a6b923-e349-4594-92bb-d81a6245aaec@198.202.211.1:443?type=ws&encryption=none&path=/download.php&host=sertraline.adaspoloandco.com&security=tls&fp=chrome&alpn=http/1.1,h2&sni=sertraline.adaspoloandco.com#🇺🇸 18 - US - VLESS/WS/TLS/UTLS - 443
 
-vless://4bf9601f-87e8-4250-a4e4-250bf54c5db4@104.16.75.224:8443?security=tls&type=ws&path=/api/v1&host=splash.ariyuz.org&sni=splash.ariyuz.org&fp=chrome&encryption=none#🇺🇸 19 - US - VLESS/WS/TLS/UTLS - 8443
+vless://10a6b923-e349-4594-92bb-d81a6245aaec@198.41.208.99:443?type=ws&encryption=none&path=/download.php&host=sertraline.adaspoloandco.com&security=tls&fp=chrome&alpn=http/1.1,h2&sni=sertraline.adaspoloandco.com#🇺🇸 19 - US - VLESS/WS/TLS/UTLS - 443
 
-vless://4f013568-a58b-4b04-b5dd-4d52bf1c33a4@betty.ns.cloudflare.com:443?security=tls&type=ws&path=/poiuyws&host=amoosamiii.net&sni=amoosamiii.net&fp=chrome&encryption=none#🇺🇸 20 - US - VLESS/WS/TLS/UTLS - 443
+vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@betty.ns.cloudflare.com:443?security=tls&type=ws&path=/rdfgtws&host=vangoghhh.info&sni=vangoghhh.info&fp=chrome&encryption=none#🇺🇸 20 - US - VLESS/WS/TLS/UTLS - 443
 
-vless://577699f7-468d-4b63-ae21-cdcdfd8d11c2@104.26.0.7:443?type=ws&encryption=none&path=/GoorBah&host=baguette.adaspoloandco.com&security=tls&fp=chrome&alpn=h2,http/1.1&sni=baguette.adaspoloandco.com#🇺🇸 21 - US - VLESS/WS/TLS/UTLS - 443
+vless://14f91e81-4608-6284-413d-ec1f547758d5@104.18.29.234:443?security=tls&type=ws&path=/sync&host=node-8733566702-8972ff.shnxcajhsol564.workers.dev&sni=node-8733566702-8972ff.shnxcajhsol564.workers.dev&fp=chrome&encryption=none#🇺🇸 21 - US - VLESS/WS/TLS/UTLS - 443
 
-vless://577699f7-468d-4b63-ae21-cdcdfd8d11c2@104.26.14.85:443?security=tls&type=ws&path=/GoorBah&host=baguette.adaspoloandco.com&alpn=h2,http/1.1&sni=baguette.adaspoloandco.com&fp=chrome&encryption=none#🇺🇸 22 - US - VLESS/WS/TLS/UTLS - 443
+vless://1c0abb34-4313-4acb-993d-62bf52eace71@fbi.gov:443?security=tls&type=ws&path=/&host=c.downloadphysics.ir&alpn=http/1.1&sni=c.downloadphysics.ir&fp=chrome&encryption=none#🇺🇸 22 - US - VLESS/WS/TLS/UTLS - 443
 
-vless://577699f7-468d-4b63-ae21-cdcdfd8d11c2@104.26.14.85:443?type=ws&encryption=none&path=/GoorBah&host=baguette.adaspoloandco.com&security=tls&fp=chrome&alpn=h2,http/1.1&sni=baguette.adaspoloandco.com#🇺🇸 23 - US - VLESS/WS/TLS/UTLS - 443
+vless://1c3927cb-6141-4473-a17d-4b290f7c6980@188.114.97.6:443?security=tls&type=xhttp&path=/xn--q9jyb4c&host=fi.dns.xn--q9jyb4c&sni=fi.dns.xn--q9jyb4c&fp=chrome&mode=packet-up&extra={"xPaddingBytes":"100-1000"}&encryption=none#🇺🇸 23 - US - VLESS/XHTTP/TLS/UTLS - 443
 
-vless://577699f7-468d-4b63-ae21-cdcdfd8d11c2@172.67.74.10:443?type=ws&encryption=none&path=/GoorBah&host=baguette.adaspoloandco.com&security=tls&fp=chrome&alpn=h2,http/1.1&sni=baguette.adaspoloandco.com#🇺🇸 24 - US - VLESS/WS/TLS/UTLS - 443
+vless://2330f424-ef1f-47ad-a42a-815e5c576820@chatgpt.com:2087?security=tls&type=xhttp&path=/&alpn=h2,http/1.1&sni=r1.firefly-service.com&fp=chrome&mode=stream-up&encryption=none#🇺🇸 24 - US - VLESS/XHTTP/TLS/UTLS - 2087
 
-vless://577699f7-468d-4b63-ae21-cdcdfd8d11c2@173.245.59.191:443?type=ws&encryption=none&path=/GoorBah&host=baguette.adaspoloandco.com&security=tls&fp=chrome&alpn=h2,http/1.1&sni=baguette.adaspoloandco.com#🇺🇸 25 - US - VLESS/WS/TLS/UTLS - 443
+vless://31fc82da-1136-4a84-a596-7fbba8026c1d@another-cf.dnsyes.kawaii520.icu:443?security=tls&type=ws&path=/&host=tupdfsfrgsdgd57345v8de.kawaii520.icu&sni=tupdfsfrgsdgd57345v8de.kawaii520.icu&fp=chrome#🇺🇸 25 - US - VLESS/WS/TLS/UTLS - 443
 
-vless://577699f7-468d-4b63-ae21-cdcdfd8d11c2@188.114.97.4:443?type=ws&encryption=none&path=/GoorBah&host=baguette.adaspoloandco.com&security=tls&fp=chrome&alpn=h2,http/1.1&sni=baguette.adaspoloandco.com#🇺🇸 26 - US - VLESS/WS/TLS/UTLS - 443
+vless://4bf9601f-87e8-4250-a4e4-250bf54c5db4@104.16.75.224:8443?security=tls&type=ws&path=/api/v1&host=splash.ariyuz.org&sni=splash.ariyuz.org&fp=chrome&encryption=none#🇺🇸 26 - US - VLESS/WS/TLS/UTLS - 8443
 
-vless://577699f7-468d-4b63-ae21-cdcdfd8d11c2@188.114.99.160:443?type=ws&encryption=none&path=/GoorBah&host=baguette.adaspoloandco.com&security=tls&fp=chrome&alpn=h2,http/1.1&sni=baguette.adaspoloandco.com#🇺🇸 27 - US - VLESS/WS/TLS/UTLS - 443
+vless://577699f7-468d-4b63-ae21-cdcdfd8d11c2@104.26.0.7:443?type=ws&encryption=none&path=/GoorBah&host=baguette.adaspoloandco.com&security=tls&fp=chrome&alpn=h2,http/1.1&sni=baguette.adaspoloandco.com#🇺🇸 27 - US - VLESS/WS/TLS/UTLS - 443
 
-vless://577699f7-468d-4b63-ae21-cdcdfd8d11c2@198.202.211.1:443?type=ws&encryption=none&path=/GoorBah&host=baguette.adaspoloandco.com&security=tls&fp=chrome&alpn=h2,http/1.1&sni=baguette.adaspoloandco.com#🇺🇸 28 - US - VLESS/WS/TLS/UTLS - 443
+vless://577699f7-468d-4b63-ae21-cdcdfd8d11c2@104.26.14.85:443?type=ws&encryption=none&path=/GoorBah&host=baguette.adaspoloandco.com&security=tls&fp=chrome&alpn=h2,http/1.1&sni=baguette.adaspoloandco.com#🇺🇸 28 - US - VLESS/WS/TLS/UTLS - 443
 
-vless://5b9503aa-119b-4288-aa4f-0bbee2b4d5af@188.114.97.6:443?security=tls&type=ws&path=/?ed=2048&host=t06.tzteam.online&sni=t06.tzteam.online&fp=firefox&encryption=none#🇺🇸 29 - US - VLESS/WS/TLS/UTLS - 443
+vless://577699f7-468d-4b63-ae21-cdcdfd8d11c2@172.67.74.10:443?type=ws&encryption=none&path=/GoorBah&host=baguette.adaspoloandco.com&security=tls&fp=chrome&alpn=h2,http/1.1&sni=baguette.adaspoloandco.com#🇺🇸 29 - US - VLESS/WS/TLS/UTLS - 443
 
-vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@104.26.14.137:443?security=tls&type=ws&path=/rsedgws&host=shegeftihaaa.net&sni=shegeftihaaa.net&fp=chrome&encryption=none#🇺🇸 30 - US - VLESS/WS/TLS/UTLS - 443
+vless://577699f7-468d-4b63-ae21-cdcdfd8d11c2@173.245.59.191:443?type=ws&encryption=none&path=/GoorBah&host=baguette.adaspoloandco.com&security=tls&fp=chrome&alpn=h2,http/1.1&sni=baguette.adaspoloandco.com#🇺🇸 30 - US - VLESS/WS/TLS/UTLS - 443
 
-vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@108.162.192.75:443?security=tls&type=ws&path=/rsedgws&host=shegeftihaaa.net&sni=shegeftihaaa.net&fp=chrome&encryption=none#🇺🇸 31 - US - VLESS/WS/TLS/UTLS - 443
+vless://577699f7-468d-4b63-ae21-cdcdfd8d11c2@188.114.97.4:443?type=ws&encryption=none&path=/GoorBah&host=baguette.adaspoloandco.com&security=tls&fp=chrome&alpn=h2,http/1.1&sni=baguette.adaspoloandco.com#🇺🇸 31 - US - VLESS/WS/TLS/UTLS - 443
 
-vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@172.64.32.75:443?security=tls&type=ws&path=/rsedgws&host=shegeftihaaa.net&sni=shegeftihaaa.net&fp=chrome&encryption=none#🇺🇸 32 - US - VLESS/WS/TLS/UTLS - 443
+vless://577699f7-468d-4b63-ae21-cdcdfd8d11c2@188.114.99.160:443?security=tls&type=ws&path=/GoorBah&host=baguette.adaspoloandco.com&alpn=h2,http/1.1&sni=baguette.adaspoloandco.com&fp=chrome&encryption=none#🇺🇸 32 - US - VLESS/WS/TLS/UTLS - 443
 
-vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@172.67.74.2:443?security=tls&type=ws&path=/rsedgws&host=shegeftihaaa.net&sni=shegeftihaaa.net&fp=chrome&encryption=none#🇺🇸 33 - US - VLESS/WS/TLS/UTLS - 443
+vless://577699f7-468d-4b63-ae21-cdcdfd8d11c2@188.114.99.160:443?type=ws&encryption=none&path=/GoorBah&host=baguette.adaspoloandco.com&security=tls&fp=chrome&alpn=h2,http/1.1&sni=baguette.adaspoloandco.com#🇺🇸 33 - US - VLESS/WS/TLS/UTLS - 443
 
-vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@betty.ns.cloudflare.com:443?security=tls&type=ws&path=/rsedgws&host=shegeftihaaa.net&sni=shegeftihaaa.net&fp=chrome&encryption=none#🇺🇸 34 - US - VLESS/WS/TLS/UTLS - 443
+vless://577699f7-468d-4b63-ae21-cdcdfd8d11c2@198.202.211.1:443?type=ws&encryption=none&path=/GoorBah&host=baguette.adaspoloandco.com&security=tls&fp=chrome&alpn=h2,http/1.1&sni=baguette.adaspoloandco.com#🇺🇸 34 - US - VLESS/WS/TLS/UTLS - 443
 
-vless://97ea73b6-2043-4238-903c-a1e3d4a43c96@104.26.0.7:2087?type=ws&encryption=none&path=/download.php&host=amphetamine.adaspoloandco.com&security=tls&fp=firefox&alpn=h2,http/1.1&sni=amphetamine.adaspoloandco.com#🇺🇸 35 - US - VLESS/WS/TLS/UTLS - 2087
+vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@betty.ns.cloudflare.com:443?security=tls&type=ws&path=/jdhfyws&host=amooaliii.net&sni=amooaliii.net&fp=chrome&encryption=none#🇺🇸 35 - US - VLESS/WS/TLS/UTLS - 443
 
-vless://97ea73b6-2043-4238-903c-a1e3d4a43c96@104.26.14.85:2087?type=ws&encryption=none&path=/download.php&host=amphetamine.adaspoloandco.com&security=tls&fp=firefox&alpn=h2,http/1.1&sni=amphetamine.adaspoloandco.com#🇺🇸 36 - US - VLESS/WS/TLS/UTLS - 2087
+vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@betty.ns.cloudflare.com:443?security=tls&type=ws&path=/rsedgws&host=shegeftihaaa.net&sni=shegeftihaaa.net&fp=chrome&encryption=none#🇺🇸 36 - US - VLESS/WS/TLS/UTLS - 443
 
-vless://97ea73b6-2043-4238-903c-a1e3d4a43c96@104.27.66.214:2087?type=ws&encryption=none&path=/download.php&host=amphetamine.adaspoloandco.com&security=tls&fp=firefox&alpn=h2,http/1.1&sni=amphetamine.adaspoloandco.com#🇺🇸 37 - US - VLESS/WS/TLS/UTLS - 2087
+vless://890cb407-0d00-4337-9e5d-b4df06a1635c@cf.008500.xyz:443?security=tls&type=ws&path=/?ed=2560&host=auv.vavava.kdns.fr&sni=auv.vavava.kdns.fr&fp=random&encryption=none#🇺🇸 37 - US - VLESS/WS/TLS/UTLS - 443
 
-vless://97ea73b6-2043-4238-903c-a1e3d4a43c96@172.67.74.10:2087?type=ws&encryption=none&path=/download.php&host=amphetamine.adaspoloandco.com&security=tls&fp=firefox&alpn=h2,http/1.1&sni=amphetamine.adaspoloandco.com#🇺🇸 38 - US - VLESS/WS/TLS/UTLS - 2087
+vless://890cb407-0d00-4337-9e5d-b4df06a1635c@cf.130519.xyz:443?security=tls&type=ws&path=/?ed=2560&host=auv.vavava.kdns.fr&sni=auv.vavava.kdns.fr&fp=random&encryption=none#🇺🇸 38 - US - VLESS/WS/TLS/UTLS - 443
 
-vless://97ea73b6-2043-4238-903c-a1e3d4a43c96@188.114.97.4:2087?type=ws&encryption=none&path=/download.php&host=amphetamine.adaspoloandco.com&security=tls&fp=firefox&alpn=h2,http/1.1&sni=amphetamine.adaspoloandco.com#🇺🇸 39 - US - VLESS/WS/TLS/UTLS - 2087
+vless://890cb407-0d00-4337-9e5d-b4df06a1635c@cf.877774.xyz:443?security=tls&type=ws&path=/?ed=2560&host=auv.vavava.kdns.fr&sni=auv.vavava.kdns.fr&fp=random&encryption=none#🇺🇸 39 - US - VLESS/WS/TLS/UTLS - 443
 
-vless://97ea73b6-2043-4238-903c-a1e3d4a43c96@188.114.97.6:2087?type=ws&encryption=none&path=/download.php&host=amphetamine.adaspoloandco.com&security=tls&fp=firefox&alpn=h2,http/1.1&sni=amphetamine.adaspoloandco.com#🇺🇸 40 - US - VLESS/WS/TLS/UTLS - 2087
+vless://890cb407-0d00-4337-9e5d-b4df06a1635c@cloudflare-ip.mofashi.ltd:443?security=tls&type=ws&path=/?ed=2560&host=auv.vavava.kdns.fr&sni=auv.vavava.kdns.fr&fp=random&encryption=none#🇺🇸 40 - US - VLESS/WS/TLS/UTLS - 443
 
-vless://97ea73b6-2043-4238-903c-a1e3d4a43c96@198.202.211.1:2087?type=ws&encryption=none&path=/download.php&host=amphetamine.adaspoloandco.com&security=tls&fp=firefox&alpn=h2,http/1.1&sni=amphetamine.adaspoloandco.com#🇺🇸 41 - US - VLESS/WS/TLS/UTLS - 2087
+vless://890cb407-0d00-4337-9e5d-b4df06a1635c@cloudflare.czkcdn.cn:443?security=tls&type=ws&path=/?ed=2560&host=auv.vavava.kdns.fr&sni=auv.vavava.kdns.fr&fp=random&encryption=none#🇺🇸 41 - US - VLESS/WS/TLS/UTLS - 443
 
-vless://97ea73b6-2043-4238-903c-a1e3d4a43c96@198.41.208.99:2087?type=ws&encryption=none&path=/download.php&host=amphetamine.adaspoloandco.com&security=tls&fp=firefox&alpn=h2,http/1.1&sni=amphetamine.adaspoloandco.com#🇺🇸 42 - US - VLESS/WS/TLS/UTLS - 2087
+vless://890cb407-0d00-4337-9e5d-b4df06a1635c@da.mfa.gov.ua:443?security=tls&type=ws&path=/?ed=2560&host=auv.vavava.kdns.fr&sni=auv.vavava.kdns.fr&fp=random&encryption=none#🇺🇸 42 - US - VLESS/WS/TLS/UTLS - 443
 
-vless://9b920fa3-edd1-44c9-8f5d-3c595126684f@example.com:8443?security=tls&type=xhttp&path=/api&host=turkey.anten.dpdns.org&alpn=h2,http/1.1&sni=cdn.anten.dpdns.org&fp=chrome&mode=auto&extra={"xPaddingBytes":"100-1000"}&encryption=none#🇺🇸 43 - US - VLESS/XHTTP/TLS/UTLS - 8443
+vless://890cb407-0d00-4337-9e5d-b4df06a1635c@sub.danfeng.eu.org:443?security=tls&type=ws&path=/?ed=2560&host=auv.vavava.kdns.fr&sni=auv.vavava.kdns.fr&fp=random&encryption=none#🇺🇸 43 - US - VLESS/WS/TLS/UTLS - 443
 
-vless://Migambiaargovpn@188.114.97.6:8443?security=tls&type=ws&path=/&host=argoovpn.imanaghapour.ir&alpn=http/1.1&sni=argoovpn.imanaghapour.ir&fp=chrome&encryption=none#🇺🇸 44 - US - VLESS/WS/TLS/UTLS - 8443
+vless://890cb407-0d00-4337-9e5d-b4df06a1635c@www.ntu.edu.sg:443?security=tls&type=ws&path=/?ed=2560&host=auv.vavava.kdns.fr&sni=auv.vavava.kdns.fr&fp=random&encryption=none#🇺🇸 44 - US - VLESS/WS/TLS/UTLS - 443
 
-vless://adeefaa4-3734-4a6d-8e45-3f6c33c8e98c@104.19.64.105:8443?type=ws&encryption=none&path=/RoBeRt&host=interim.adaspoloandco.com&security=tls&fp=chrome&alpn=h2,http/1.1&sni=interim.adaspoloandco.com#🇺🇸 45 - US - VLESS/WS/TLS/UTLS - 8443
+vless://8a38623a-3e7f-5598-bdc9-894cbad4c5b6@172.65.111.43:22?security=none&type=tcp&headerType=http&path=/@monacoVPN@monacoVPN@monacoVPN@monacoVPN&encryption=none#🇺🇸 45 - US - VLESS - 22
 
-vless://adeefaa4-3734-4a6d-8e45-3f6c33c8e98c@104.19.64.105:8443?type=ws&encryption=none&path=/RoBeRt&host=interim.adaspoloandco.com&security=tls&fp=chrome&alpn=h2,http/1.1&sni=interim.adaspoloandco.com#🇺🇸 46 - US - VLESS/WS/TLS/UTLS - 8443
+vless://9239922e-2919-44c4-b31a-ff019f29a7bf@nodejs.org:2087?security=tls&type=ws&path=/eyJqdW5rIjoiQktjVGhXWTdjM1FxMiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=?ed=2560&host=v2ngfast.nimayoushig.workers.dev&alpn=http/1.1&sni=v2NGFAst.NiMAyOusHIG.wORKers.DEv&fp=chrome&encryption=none#🇺🇸 46 - US - VLESS/WS/TLS/UTLS - 2087
 
-vless://adeefaa4-3734-4a6d-8e45-3f6c33c8e98c@104.26.14.85:8443?type=ws&encryption=none&path=/RoBeRt&host=interim.adaspoloandco.com&security=tls&fp=chrome&alpn=h2,http/1.1&sni=interim.adaspoloandco.com#🇺🇸 47 - US - VLESS/WS/TLS/UTLS - 8443
+vless://97ea73b6-2043-4238-903c-a1e3d4a43c96@104.26.0.7:2087?type=ws&encryption=none&path=/download.php&host=amphetamine.adaspoloandco.com&security=tls&fp=firefox&alpn=h2,http/1.1&sni=amphetamine.adaspoloandco.com#🇺🇸 47 - US - VLESS/WS/TLS/UTLS - 2087
 
-vless://adeefaa4-3734-4a6d-8e45-3f6c33c8e98c@104.26.6.159:8443?type=ws&encryption=none&path=/RoBeRt&host=interim.adaspoloandco.com&security=tls&fp=chrome&alpn=h2,http/1.1&sni=interim.adaspoloandco.com#🇺🇸 48 - US - VLESS/WS/TLS/UTLS - 8443
+vless://97ea73b6-2043-4238-903c-a1e3d4a43c96@104.26.14.85:2087?type=ws&encryption=none&path=/download.php&host=amphetamine.adaspoloandco.com&security=tls&fp=firefox&alpn=h2,http/1.1&sni=amphetamine.adaspoloandco.com#🇺🇸 48 - US - VLESS/WS/TLS/UTLS - 2087
 
-vless://adeefaa4-3734-4a6d-8e45-3f6c33c8e98c@188.114.97.4:8443?type=ws&encryption=none&path=/RoBeRt&host=interim.adaspoloandco.com&security=tls&fp=chrome&alpn=h2,http/1.1&sni=interim.adaspoloandco.com#🇺🇸 49 - US - VLESS/WS/TLS/UTLS - 8443
+vless://97ea73b6-2043-4238-903c-a1e3d4a43c96@104.27.66.214:2087?type=ws&encryption=none&path=/download.php&host=amphetamine.adaspoloandco.com&security=tls&fp=firefox&alpn=h2,http/1.1&sni=amphetamine.adaspoloandco.com#🇺🇸 49 - US - VLESS/WS/TLS/UTLS - 2087
 
-vless://b0922ea8-257b-4cef-9514-90697c0df1c4@www.hcaptcha.com:443?security=tls&type=ws&path=/eyJqdW5rIjoiRkRQZGVnRE1Pcjl3NSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=?ed=2560&host=v2ngfast.ashkanbj00.workers.dev&alpn=http/1.1&sni=v2NGfAsT.AShKAnBj00.WorkErs.dEv&fp=chrome&encryption=none#🇺🇸 50 - US - VLESS/WS/TLS/UTLS - 443
+vless://97ea73b6-2043-4238-903c-a1e3d4a43c96@172.67.74.10:2087?type=ws&encryption=none&path=/download.php&host=amphetamine.adaspoloandco.com&security=tls&fp=firefox&alpn=h2,http/1.1&sni=amphetamine.adaspoloandco.com#🇺🇸 50 - US - VLESS/WS/TLS/UTLS - 2087
 
-vless://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@173.245.58.75:443?security=tls&type=ws&path=/hdgrbws&host=terazhediii.info&sni=terazhediii.info&fp=chrome&encryption=none#🇺🇸 51 - US - VLESS/WS/TLS/UTLS - 443
+vless://97ea73b6-2043-4238-903c-a1e3d4a43c96@188.114.97.4:2087?type=ws&encryption=none&path=/download.php&host=amphetamine.adaspoloandco.com&security=tls&fp=firefox&alpn=h2,http/1.1&sni=amphetamine.adaspoloandco.com#🇺🇸 51 - US - VLESS/WS/TLS/UTLS - 2087
 
-vless://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@betty.ns.cloudflare.com:443?security=tls&type=ws&path=/hdgrbws&host=terazhediii.info&sni=terazhediii.info&fp=chrome&encryption=none#🇺🇸 52 - US - VLESS/WS/TLS/UTLS - 443
+vless://97ea73b6-2043-4238-903c-a1e3d4a43c96@188.114.97.6:2087?type=ws&encryption=none&path=/download.php&host=amphetamine.adaspoloandco.com&security=tls&fp=firefox&alpn=h2,http/1.1&sni=amphetamine.adaspoloandco.com#🇺🇸 52 - US - VLESS/WS/TLS/UTLS - 2087
 
-vless://bbab81f3-87a0-4e63-8b3b-010c645d8da7@188.114.97.6:443?security=tls&type=xhttp&path=/meti&host=HeTZ4-1Y751ohl.LnewAPDOMINFastLOGIn2.orG&sni=HeTZ4-1Y751ohl.LnewAPDOMINFastLOGIn2.orG&fp=chrome&mode=stream-one&extra={"xPaddingBytes":"100-1000"}&encryption=none#🇺🇸 53 - US - VLESS/XHTTP/TLS/UTLS - 443
+vless://97ea73b6-2043-4238-903c-a1e3d4a43c96@198.202.211.1:2087?type=ws&encryption=none&path=/download.php&host=amphetamine.adaspoloandco.com&security=tls&fp=firefox&alpn=h2,http/1.1&sni=amphetamine.adaspoloandco.com#🇺🇸 53 - US - VLESS/WS/TLS/UTLS - 2087
 
-vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@104.26.12.222:443?security=tls&type=ws&path=/udfyfws&host=octopusss5.info&sni=octopusss5.info&fp=chrome&encryption=none#🇺🇸 54 - US - VLESS/WS/TLS/UTLS - 443
+vless://97ea73b6-2043-4238-903c-a1e3d4a43c96@198.41.208.99:2087?type=ws&encryption=none&path=/download.php&host=amphetamine.adaspoloandco.com&security=tls&fp=firefox&alpn=h2,http/1.1&sni=amphetamine.adaspoloandco.com#🇺🇸 54 - US - VLESS/WS/TLS/UTLS - 2087
 
-vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@104.26.13.222:443?security=tls&type=ws&path=/udfyfws&host=octopusss5.info&sni=octopusss5.info&fp=chrome&encryption=none#🇺🇸 55 - US - VLESS/WS/TLS/UTLS - 443
+vless://adeefaa4-3734-4a6d-8e45-3f6c33c8e98c@104.19.208.184:8443?security=tls&type=ws&path=/RoBeRt&host=interim.adaspoloandco.com&alpn=h2,http/1.1&sni=interim.adaspoloandco.com&fp=chrome&encryption=none#🇺🇸 55 - US - VLESS/WS/TLS/UTLS - 8443
 
-vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@108.162.193.162:443?security=tls&type=ws&path=/udfyfws&host=octopusss5.info&sni=octopusss5.info&fp=chrome&encryption=none#🇺🇸 56 - US - VLESS/WS/TLS/UTLS - 443
+vless://adeefaa4-3734-4a6d-8e45-3f6c33c8e98c@104.19.64.105:8443?type=ws&encryption=none&path=/RoBeRt&host=interim.adaspoloandco.com&security=tls&fp=chrome&alpn=h2,http/1.1&sni=interim.adaspoloandco.com#🇺🇸 56 - US - VLESS/WS/TLS/UTLS - 8443
 
-vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@172.64.147.236:443?security=tls&type=ws&path=/udfyfws&host=octopusss5.info&sni=octopusss5.info&fp=chrome&encryption=none#🇺🇸 57 - US - VLESS/WS/TLS/UTLS - 443
+vless://adeefaa4-3734-4a6d-8e45-3f6c33c8e98c@104.19.64.105:8443?type=ws&encryption=none&path=/RoBeRt&host=interim.adaspoloandco.com&security=tls&fp=chrome&alpn=h2,http/1.1&sni=interim.adaspoloandco.com#🇺🇸 57 - US - VLESS/WS/TLS/UTLS - 8443
 
-vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@172.64.33.162:443?security=tls&type=ws&path=/udfyfws&host=octopusss5.info&sni=octopusss5.info&fp=chrome&encryption=none#🇺🇸 58 - US - VLESS/WS/TLS/UTLS - 443
+vless://adeefaa4-3734-4a6d-8e45-3f6c33c8e98c@104.26.14.85:8443?type=ws&encryption=none&path=/RoBeRt&host=interim.adaspoloandco.com&security=tls&fp=chrome&alpn=h2,http/1.1&sni=interim.adaspoloandco.com#🇺🇸 58 - US - VLESS/WS/TLS/UTLS - 8443
 
-vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@172.67.71.247:443?security=tls&type=ws&path=/udfyfws&host=octopusss5.info&sni=octopusss5.info&fp=chrome&encryption=none#🇺🇸 59 - US - VLESS/WS/TLS/UTLS - 443
+vless://adeefaa4-3734-4a6d-8e45-3f6c33c8e98c@104.26.6.159:8443?type=ws&encryption=none&path=/RoBeRt&host=interim.adaspoloandco.com&security=tls&fp=chrome&alpn=h2,http/1.1&sni=interim.adaspoloandco.com#🇺🇸 59 - US - VLESS/WS/TLS/UTLS - 8443
 
-vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@173.245.59.162:443?security=tls&type=ws&path=/udfyfws&host=octopusss5.info&sni=octopusss5.info&fp=chrome&encryption=none#🇺🇸 60 - US - VLESS/WS/TLS/UTLS - 443
+vless://adeefaa4-3734-4a6d-8e45-3f6c33c8e98c@188.114.97.4:8443?type=ws&encryption=none&path=/RoBeRt&host=interim.adaspoloandco.com&security=tls&fp=chrome&alpn=h2,http/1.1&sni=interim.adaspoloandco.com#🇺🇸 60 - US - VLESS/WS/TLS/UTLS - 8443
 
-vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@188.114.97.6:443?security=tls&type=ws&path=/udfyfws&host=octopusss5.info&sni=octopusss5.info&fp=chrome#🇺🇸 61 - US - VLESS/WS/TLS/UTLS - 443
+vless://b1f93fc1-b69f-44cd-a952-ed80de1a05c2@162.159.140.245:443?security=tls&type=xhttp&path=/uuid/get&host=fzserver.art&alpn=h2,http/1.1&sni=fzserver.art&fp=chrome&mode=packet-up&encryption=none#🇺🇸 61 - US - VLESS/XHTTP/TLS/UTLS - 443
 
-vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@octopusss5.info:443?security=tls&type=ws&path=/udfyfws&host=octopusss5.info&sni=octopusss5.info&fp=chrome#🇺🇸 62 - US - VLESS/WS/TLS/UTLS - 443
+vless://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@173.245.58.75:443?security=tls&type=ws&path=/hdgrbws&host=terazhediii.info&sni=terazhediii.info&fp=chrome&encryption=none#🇺🇸 62 - US - VLESS/WS/TLS/UTLS - 443
 
-vless://c5657bbd-6ee6-4417-91af-b7a8cd7e599f@104.26.2.228:2096?security=tls&type=ws&path=/&host=caci.lezzatflow.ir&alpn=h2&sni=caci.lezzatflow.ir&fp=chrome&encryption=none#🇺🇸 63 - US - VLESS/WS/TLS/UTLS - 2096
+vless://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@188.114.97.6:443?security=tls&type=ws&path=/hdgrbws#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&host=terazhediii.info&sni=terazhediii.info&fp=chrome&encryption=none#🇺🇸 63 - US - VLESS/WS/TLS/UTLS - 443
 
-vless://c7ccd788-1172-46f2-a749-c1a743da2ef2@104.17.121.71:443?security=tls&type=xhttp&path=/Telegram-Zedmodeon&host=faboo.tll-far.ir&alpn=h2,http/1.1&sni=faboo.tll-far.ir&fp=chrome&mode=auto&encryption=none#🇺🇸 64 - US - VLESS/XHTTP/TLS/UTLS - 443
+vless://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@betty.ns.cloudflare.com:443?security=tls&type=ws&path=/hdgrbws&host=terazhediii.info&sni=terazhediii.info&fp=chrome&encryption=none#🇺🇸 64 - US - VLESS/WS/TLS/UTLS - 443
 
-vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@104.19.64.105:443?type=ws&encryption=none&path=/GOrbEh&host=rubifen.adaspoloandco.com&security=tls&fp=chrome&alpn=h2,http/1.1,h3&sni=rubifen.adaspoloandco.com#🇺🇸 65 - US - VLESS/WS/TLS/UTLS - 443
+vless://b991b390-dd0f-4061-9150-bee0cb467bce@us2-108.466688.xyz:443?security=tls&type=ws&path=/?ed=2560&https://t.me/daily_free_vpn&host=opu-ao6.pages.dev&sni=opu-ao6.pages.dev&fp=chrome&encryption=none#🇺🇸 65 - US - VLESS/WS/TLS/UTLS - 443
 
-vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@104.26.14.85:443?type=ws&encryption=none&path=/GOrbEh&host=rubifen.adaspoloandco.com&security=tls&fp=chrome&alpn=h2,http/1.1,h3&sni=rubifen.adaspoloandco.com#🇺🇸 66 - US - VLESS/WS/TLS/UTLS - 443
+vless://b991b390-dd0f-4061-9150-bee0cb467bce@us2-111.466688.xyz:443?security=tls&type=ws&path=/?ed=2560&https://t.me/daily_free_vpn&host=opu-ao6.pages.dev&sni=opu-ao6.pages.dev&fp=chrome&encryption=none#🇺🇸 66 - US - VLESS/WS/TLS/UTLS - 443
 
-vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@188.114.97.4:443?type=ws&encryption=none&path=/GOrbEh&host=rubifen.adaspoloandco.com&security=tls&fp=chrome&alpn=h2,http/1.1,h3&sni=rubifen.adaspoloandco.com#🇺🇸 67 - US - VLESS/WS/TLS/UTLS - 443
+vless://b991b390-dd0f-4061-9150-bee0cb467bce@us2-123.466688.xyz:443?security=tls&type=ws&path=/?ed=2560&https://t.me/daily_free_vpn&host=opu-ao6.pages.dev&sni=opu-ao6.pages.dev&fp=chrome&encryption=none#🇺🇸 67 - US - VLESS/WS/TLS/UTLS - 443
 
-vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@188.114.97.6:443?type=ws&encryption=none&path=/GOrbEh&host=rubifen.adaspoloandco.com&security=tls&fp=chrome&alpn=h2,http/1.1,h3&sni=rubifen.adaspoloandco.com#🇺🇸 68 - US - VLESS/WS/TLS/UTLS - 443
+vless://b991b390-dd0f-4061-9150-bee0cb467bce@us2-133.466688.xyz:443?security=tls&type=ws&path=/?ed=2560&https://t.me/daily_free_vpn&host=opu-ao6.pages.dev&sni=opu-ao6.pages.dev&fp=chrome&encryption=none#🇺🇸 68 - US - VLESS/WS/TLS/UTLS - 443
 
-vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@198.202.211.1:443?type=ws&encryption=none&path=/GOrbEh&host=rubifen.adaspoloandco.com&security=tls&fp=chrome&alpn=h2,http/1.1,h3&sni=rubifen.adaspoloandco.com#🇺🇸 69 - US - VLESS/WS/TLS/UTLS - 443
+vless://b991b390-dd0f-4061-9150-bee0cb467bce@us2-137.466688.xyz:443?security=tls&type=ws&path=/?ed=2560&https://t.me/daily_free_vpn&host=opu-ao6.pages.dev&sni=opu-ao6.pages.dev&fp=chrome&encryption=none#🇺🇸 69 - US - VLESS/WS/TLS/UTLS - 443
 
-vless://db3f09ae-23f2-42b8-abee-7b89fb392c5e@104.26.14.85:8443?type=ws&encryption=none&path=/uploader.php&host=maple.adaspoloandco.com&security=tls&fp=chrome&alpn=h2,http/1.1&sni=maple.adaspoloandco.com#🇺🇸 70 - US - VLESS/WS/TLS/UTLS - 8443
+vless://b991b390-dd0f-4061-9150-bee0cb467bce@us2-58.466688.xyz:443?security=tls&type=ws&path=/?ed=2560&https://t.me/daily_free_vpn&host=opu-ao6.pages.dev&sni=opu-ao6.pages.dev&fp=chrome&encryption=none#🇺🇸 70 - US - VLESS/WS/TLS/UTLS - 443
 
-vless://db3f09ae-23f2-42b8-abee-7b89fb392c5e@162.159.253.41:8443?type=ws&encryption=none&path=/uploader.php&host=maple.adaspoloandco.com&security=tls&fp=chrome&alpn=h2,http/1.1&sni=maple.adaspoloandco.com#🇺🇸 71 - US - VLESS/WS/TLS/UTLS - 8443
+vless://b991b390-dd0f-4061-9150-bee0cb467bce@us2-59.466688.xyz:443?security=tls&type=ws&path=/?ed=2560&https://t.me/daily_free_vpn&host=opu-ao6.pages.dev&sni=opu-ao6.pages.dev&fp=chrome&encryption=none#🇺🇸 71 - US - VLESS/WS/TLS/UTLS - 443
 
-vless://db3f09ae-23f2-42b8-abee-7b89fb392c5e@172.64.155.209:8443?type=ws&encryption=none&path=/uploader.php&host=maple.adaspoloandco.com&security=tls&fp=chrome&alpn=h2,http/1.1&sni=maple.adaspoloandco.com#🇺🇸 72 - US - VLESS/WS/TLS/UTLS - 8443
+vless://b991b390-dd0f-4061-9150-bee0cb467bce@us2-60.466688.xyz:443?security=tls&type=ws&path=/?ed=2560&https://t.me/daily_free_vpn&host=opu-ao6.pages.dev&sni=opu-ao6.pages.dev&fp=chrome&encryption=none#🇺🇸 72 - US - VLESS/WS/TLS/UTLS - 443
 
-vless://db3f09ae-23f2-42b8-abee-7b89fb392c5e@173.245.59.191:8443?type=ws&encryption=none&path=/uploader.php&host=maple.adaspoloandco.com&security=tls&fp=chrome&alpn=h2,http/1.1&sni=maple.adaspoloandco.com#🇺🇸 73 - US - VLESS/WS/TLS/UTLS - 8443
+vless://b991b390-dd0f-4061-9150-bee0cb467bce@us2-63.466688.xyz:443?security=tls&type=ws&path=/?ed=2560&https://t.me/daily_free_vpn&host=opu-ao6.pages.dev&sni=opu-ao6.pages.dev&fp=chrome&encryption=none#🇺🇸 73 - US - VLESS/WS/TLS/UTLS - 443
 
-vless://db3f09ae-23f2-42b8-abee-7b89fb392c5e@188.114.97.4:8443?type=ws&encryption=none&path=/uploader.php&host=maple.adaspoloandco.com&security=tls&fp=chrome&alpn=h2,http/1.1&sni=maple.adaspoloandco.com#🇺🇸 74 - US - VLESS/WS/TLS/UTLS - 8443
+vless://b991b390-dd0f-4061-9150-bee0cb467bce@us2-65.466688.xyz:443?security=tls&type=ws&path=/?ed=2560&https://t.me/daily_free_vpn&host=opu-ao6.pages.dev&sni=opu-ao6.pages.dev&fp=chrome&encryption=none#🇺🇸 74 - US - VLESS/WS/TLS/UTLS - 443
 
-vless://db3f09ae-23f2-42b8-abee-7b89fb392c5e@188.114.97.6:8443?type=ws&encryption=none&path=/uploader.php&host=maple.adaspoloandco.com&security=tls&fp=chrome&alpn=h2,http/1.1&sni=maple.adaspoloandco.com#🇺🇸 75 - US - VLESS/WS/TLS/UTLS - 8443
+vless://b991b390-dd0f-4061-9150-bee0cb467bce@us2-68.466688.xyz:443?security=tls&type=ws&path=/?ed=2560&https://t.me/daily_free_vpn&host=opu-ao6.pages.dev&sni=opu-ao6.pages.dev&fp=chrome&encryption=none#🇺🇸 75 - US - VLESS/WS/TLS/UTLS - 443
 
-vless://db3f09ae-23f2-42b8-abee-7b89fb392c5e@188.114.99.160:8443?type=ws&encryption=none&path=/uploader.php&host=maple.adaspoloandco.com&security=tls&fp=chrome&alpn=h2,http/1.1&sni=maple.adaspoloandco.com#🇺🇸 76 - US - VLESS/WS/TLS/UTLS - 8443
+vless://b991b390-dd0f-4061-9150-bee0cb467bce@us2-70.466688.xyz:443?security=tls&type=ws&path=/?ed=2560&https://t.me/daily_free_vpn&host=opu-ao6.pages.dev&sni=opu-ao6.pages.dev&fp=chrome&encryption=none#🇺🇸 76 - US - VLESS/WS/TLS/UTLS - 443
 
-vless://db3f09ae-23f2-42b8-abee-7b89fb392c5e@198.202.211.1:8443?type=ws&encryption=none&path=/uploader.php&host=maple.adaspoloandco.com&security=tls&fp=chrome&alpn=h2,http/1.1&sni=maple.adaspoloandco.com#🇺🇸 77 - US - VLESS/WS/TLS/UTLS - 8443
+vless://b991b390-dd0f-4061-9150-bee0cb467bce@us2-74.466688.xyz:443?security=tls&type=ws&path=/?ed=2560&https://t.me/daily_free_vpn&host=opu-ao6.pages.dev&sni=opu-ao6.pages.dev&fp=chrome&encryption=none#🇺🇸 77 - US - VLESS/WS/TLS/UTLS - 443
 
-vless://e72543e6-1c53-439f-8fb7-d18fb978aea9@188.114.97.7:443?security=tls&type=ws&path=/eyJqdW5rIjoicXlwdzh1ckI5UiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=?ed=2560&host=ezaccess-project-045e64.ez-1cf1ee.workers.dev&alpn=http/1.1&sni=ezAcCEss-pRoject-045E64.eZ-1cF1eE.WoRKerS.deV&fp=chrome&encryption=none#🇺🇸 78 - US - VLESS/WS/TLS/UTLS - 443
+vless://b991b390-dd0f-4061-9150-bee0cb467bce@us2-75.466688.xyz:443?security=tls&type=ws&path=/?ed=2560&https://t.me/daily_free_vpn&host=opu-ao6.pages.dev&sni=opu-ao6.pages.dev&fp=chrome&encryption=none#🇺🇸 78 - US - VLESS/WS/TLS/UTLS - 443
 
-vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@po.fastbrokencompony.com:2053?security=tls&type=ws&path=/&host=po.fastbrokencompony.com&alpn=h3,h2&sni=po.fastbrokencompony.com&fp=chrome&encryption=none#🇺🇸 79 - US - VLESS/WS/TLS/UTLS - 2053
+vless://b991b390-dd0f-4061-9150-bee0cb467bce@us2-76.466688.xyz:443?security=tls&type=ws&path=/?ed=2560&https://t.me/daily_free_vpn&host=opu-ao6.pages.dev&sni=opu-ao6.pages.dev&fp=chrome&encryption=none#🇺🇸 79 - US - VLESS/WS/TLS/UTLS - 443
 
-vless://ed67de09-2283-4ce0-8da8-382d828e8508@188.114.96.3:443?security=tls&type=ws&path=/eyJqdW5rIjoiZWF3djRCd0dud1lTSCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=?ed=2560&host=lwa4jxf1sx58nnl51k0ugg8u3xbsubxl.pages.dev&alpn=http/1.1&sni=LWa4Jxf1sx58NnL51K0Ugg8U3xBSubxl.PAGes.Dev&fp=chrome&encryption=none#🇺🇸 80 - US - VLESS/WS/TLS/UTLS - 443
+vless://b991b390-dd0f-4061-9150-bee0cb467bce@us2-78.466688.xyz:443?security=tls&type=ws&path=/?ed=2560&https://t.me/daily_free_vpn&host=opu-ao6.pages.dev&sni=opu-ao6.pages.dev&fp=chrome&encryption=none#🇺🇸 80 - US - VLESS/WS/TLS/UTLS - 443
 
-vless://ef66f257-2187-48a0-ae46-fbd0519d24ab@104.19.64.105:8443?type=ws&encryption=none&path=/RizZrAcK&host=focalin.adaspoloandco.com&security=tls&fp=chrome&alpn=h2,http/1.1&sni=focalin.adaspoloandco.com#🇺🇸 81 - US - VLESS/WS/TLS/UTLS - 8443
+vless://b991b390-dd0f-4061-9150-bee0cb467bce@us2-80.466688.xyz:443?security=tls&type=ws&path=/?ed=2560&https://t.me/daily_free_vpn&host=opu-ao6.pages.dev&sni=opu-ao6.pages.dev&fp=chrome&encryption=none#🇺🇸 81 - US - VLESS/WS/TLS/UTLS - 443
 
-vless://ef66f257-2187-48a0-ae46-fbd0519d24ab@104.26.14.85:8443?type=ws&encryption=none&path=/RizZrAcK&host=focalin.adaspoloandco.com&security=tls&fp=chrome&alpn=h2,http/1.1&sni=focalin.adaspoloandco.com#🇺🇸 82 - US - VLESS/WS/TLS/UTLS - 8443
+vless://b991b390-dd0f-4061-9150-bee0cb467bce@us2-81.466688.xyz:443?security=tls&type=ws&path=/?ed=2560&https://t.me/daily_free_vpn&host=opu-ao6.pages.dev&sni=opu-ao6.pages.dev&fp=chrome&encryption=none#🇺🇸 82 - US - VLESS/WS/TLS/UTLS - 443
 
-vless://ef66f257-2187-48a0-ae46-fbd0519d24ab@162.159.253.41:8443?type=ws&encryption=none&path=/RizZrAcK&host=focalin.adaspoloandco.com&security=tls&fp=chrome&alpn=h2,http/1.1&sni=focalin.adaspoloandco.com#🇺🇸 83 - US - VLESS/WS/TLS/UTLS - 8443
+vless://b991b390-dd0f-4061-9150-bee0cb467bce@us2-82.466688.xyz:443?security=tls&type=ws&path=/?ed=2560&https://t.me/daily_free_vpn&host=opu-ao6.pages.dev&sni=opu-ao6.pages.dev&fp=chrome&encryption=none#🇺🇸 83 - US - VLESS/WS/TLS/UTLS - 443
 
-vless://ef66f257-2187-48a0-ae46-fbd0519d24ab@188.114.97.4:8443?type=ws&encryption=none&path=/RizZrAcK&host=focalin.adaspoloandco.com&security=tls&fp=chrome&alpn=h2,http/1.1&sni=focalin.adaspoloandco.com#🇺🇸 84 - US - VLESS/WS/TLS/UTLS - 8443
+vless://b991b390-dd0f-4061-9150-bee0cb467bce@us2-83.466688.xyz:443?security=tls&type=ws&path=/?ed=2560&https://t.me/daily_free_vpn&host=opu-ao6.pages.dev&sni=opu-ao6.pages.dev&fp=chrome&encryption=none#🇺🇸 84 - US - VLESS/WS/TLS/UTLS - 443
 
-vless://ef66f257-2187-48a0-ae46-fbd0519d24ab@198.202.211.1:8443?type=ws&encryption=none&path=/RizZrAcK&host=focalin.adaspoloandco.com&security=tls&fp=chrome&alpn=h2,http/1.1&sni=focalin.adaspoloandco.com#🇺🇸 85 - US - VLESS/WS/TLS/UTLS - 8443
+vless://b991b390-dd0f-4061-9150-bee0cb467bce@us2-84.466688.xyz:443?security=tls&type=ws&path=/?ed=2560&https://t.me/daily_free_vpn&host=opu-ao6.pages.dev&sni=opu-ao6.pages.dev&fp=chrome&encryption=none#🇺🇸 85 - US - VLESS/WS/TLS/UTLS - 443
 
-vless://ef66f257-2187-48a0-ae46-fbd0519d24ab@aletrah.ir:8443?type=ws&encryption=none&path=/RizZrAcK&host=focalin.adaspoloandco.com&security=tls&fp=chrome&alpn=h2,http/1.1&sni=focalin.adaspoloandco.com#🇺🇸 86 - US - VLESS/WS/TLS/UTLS - 8443
+vless://b991b390-dd0f-4061-9150-bee0cb467bce@us2-85.466688.xyz:443?security=tls&type=ws&path=/?ed=2560&https://t.me/daily_free_vpn&host=opu-ao6.pages.dev&sni=opu-ao6.pages.dev&fp=chrome&encryption=none#🇺🇸 86 - US - VLESS/WS/TLS/UTLS - 443
 
-vless://ef66f257-2187-48a0-ae46-fbd0519d24ab@b2n.ir:8443?security=tls&type=ws&path=/RizZrAcK&host=focalin.adaspoloandco.com&alpn=h2,http/1.1&sni=focalin.adaspoloandco.com&fp=chrome&encryption=none#🇺🇸 87 - US - VLESS/WS/TLS/UTLS - 8443
+vless://b991b390-dd0f-4061-9150-bee0cb467bce@us2-89.466688.xyz:443?security=tls&type=ws&path=/?ed=2560&https://t.me/daily_free_vpn&host=opu-ao6.pages.dev&sni=opu-ao6.pages.dev&fp=chrome&encryption=none#🇺🇸 87 - US - VLESS/WS/TLS/UTLS - 443
 
-vless://ef66f257-2187-48a0-ae46-fbd0519d24ab@b2n.ir:8443?type=ws&encryption=none&path=/RizZrAcK&host=focalin.adaspoloandco.com&security=tls&fp=chrome&alpn=h2,http/1.1&sni=focalin.adaspoloandco.com#🇺🇸 88 - US - VLESS/WS/TLS/UTLS - 8443
+vless://b991b390-dd0f-4061-9150-bee0cb467bce@us2-90.466688.xyz:443?security=tls&type=ws&path=/?ed=2560&https://t.me/daily_free_vpn&host=opu-ao6.pages.dev&sni=opu-ao6.pages.dev&fp=chrome&encryption=none#🇺🇸 88 - US - VLESS/WS/TLS/UTLS - 443
 
-vless://f798a2c4-c51b-409d-b349-ca8455b36796@104.19.64.105:8443?security=tls&type=ws&path=/download.php&host=chopin.adaspoloandco.com&alpn=h2,http/1.1&sni=chopin.adaspoloandco.com&fp=chrome&encryption=none#🇺🇸 89 - US - VLESS/WS/TLS/UTLS - 8443
+vless://b991b390-dd0f-4061-9150-bee0cb467bce@us2-92.466688.xyz:443?security=tls&type=ws&path=/?ed=2560&https://t.me/daily_free_vpn&host=opu-ao6.pages.dev&sni=opu-ao6.pages.dev&fp=chrome&encryption=none#🇺🇸 89 - US - VLESS/WS/TLS/UTLS - 443
 
-vless://f798a2c4-c51b-409d-b349-ca8455b36796@104.27.66.214:8443?security=tls&type=ws&path=/download.php&host=chopin.adaspoloandco.com&alpn=h2,http/1.1&sni=chopin.adaspoloandco.com&fp=chrome&encryption=none#🇺🇸 90 - US - VLESS/WS/TLS/UTLS - 8443
+vless://b991b390-dd0f-4061-9150-bee0cb467bce@us2-95.466688.xyz:443?security=tls&type=ws&path=/?ed=2560&https://t.me/daily_free_vpn&host=opu-ao6.pages.dev&sni=opu-ao6.pages.dev&fp=chrome&encryption=none#🇺🇸 90 - US - VLESS/WS/TLS/UTLS - 443
 
-vless://f798a2c4-c51b-409d-b349-ca8455b36796@104.27.66.214:8443?type=ws&encryption=none&path=/download.php&host=chopin.adaspoloandco.com&security=tls&fp=chrome&alpn=h2,http/1.1&sni=chopin.adaspoloandco.com#🇺🇸 91 - US - VLESS/WS/TLS/UTLS - 8443
+vless://b991b390-dd0f-4061-9150-bee0cb467bce@us2-96.466688.xyz:443?security=tls&type=ws&path=/?ed=2560&https://t.me/daily_free_vpn&host=opu-ao6.pages.dev&sni=opu-ao6.pages.dev&fp=chrome&encryption=none#🇺🇸 91 - US - VLESS/WS/TLS/UTLS - 443
 
-vless://f798a2c4-c51b-409d-b349-ca8455b36796@141.101.115.71:8443?type=ws&encryption=none&path=/download.php&host=chopin.adaspoloandco.com&security=tls&fp=chrome&alpn=h2,http/1.1&sni=chopin.adaspoloandco.com#🇺🇸 92 - US - VLESS/WS/TLS/UTLS - 8443
+vless://bbab81f3-87a0-4e63-8b3b-010c645d8da7@www.speedtest.net:443?security=tls&type=xhttp&path=/meti&host=MajID-ApP-3kNus0R6.LneWAPDOMinFasTLogIn2.org&sni=MajID-ApP-3kNus0R6.LneWAPDOMinFasTLogIn2.org&fp=chrome&mode=stream-one&extra={"xPaddingBytes":"100-1000"}&encryption=none#🇺🇸 92 - US - VLESS/XHTTP/TLS/UTLS - 443
 
-vless://f798a2c4-c51b-409d-b349-ca8455b36796@162.159.253.41:8443?security=tls&type=ws&path=/download.php&host=chopin.adaspoloandco.com&alpn=h2,http/1.1&sni=chopin.adaspoloandco.com&fp=chrome&encryption=none#🇺🇸 93 - US - VLESS/WS/TLS/UTLS - 8443
+vless://c00ae81e-68dc-4951-aeea-c495f32f91a5@another-cf.dnsyes.kawaii520.icu:443?security=tls&type=ws&path=/&host=4gf45fdg45fd542g2in.kawaii520.icu&sni=4gf45fdg45fd542g2in.kawaii520.icu&fp=firefox&encryption=none#🇺🇸 93 - US - VLESS/WS/TLS/UTLS - 443
 
-vless://f798a2c4-c51b-409d-b349-ca8455b36796@162.159.253.41:8443?type=ws&encryption=none&path=/download.php&host=chopin.adaspoloandco.com&security=tls&fp=chrome&alpn=h2,http/1.1&sni=chopin.adaspoloandco.com#🇺🇸 94 - US - VLESS/WS/TLS/UTLS - 8443
+vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@104.26.12.222:443?security=tls&type=ws&path=/udfyfws&host=octopusss5.info&sni=octopusss5.info&fp=chrome&encryption=none#🇺🇸 94 - US - VLESS/WS/TLS/UTLS - 443
 
-vless://f798a2c4-c51b-409d-b349-ca8455b36796@198.202.211.1:8443?type=ws&encryption=none&path=/download.php&host=chopin.adaspoloandco.com&security=tls&fp=chrome&alpn=h2,http/1.1&sni=chopin.adaspoloandco.com#🇺🇸 95 - US - VLESS/WS/TLS/UTLS - 8443
+vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@104.26.13.222:443?security=tls&type=ws&path=/udfyfws&host=octopusss5.info&sni=octopusss5.info&fp=chrome&encryption=none#🇺🇸 95 - US - VLESS/WS/TLS/UTLS - 443
 
-vless://f9cfb3db-3625-4971-81d5-5eb373e05e14@104.19.229.21:2087?security=tls&type=xhttp&path=/&alpn=h2,http/1.1&sni=srv.jadgal.shop&fp=chrome&mode=auto&encryption=none#🇺🇸 96 - US - VLESS/XHTTP/TLS/UTLS - 2087
+vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@172.64.147.236:443?security=tls&type=ws&path=/udfyfws&host=octopusss5.info&sni=octopusss5.info&fp=chrome&encryption=none#🇺🇸 96 - US - VLESS/WS/TLS/UTLS - 443
 
-vless://fec70375-29cf-46cf-b314-536c74feee94@104.19.208.184:8443?security=tls&type=ws&path=/admin.php&host=ratatouille.adaspoloandco.com&alpn=h2,http/1.1&sni=ratatouille.adaspoloandco.com&fp=chrome&encryption=none#🇺🇸 97 - US - VLESS/WS/TLS/UTLS - 8443
+vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@172.64.33.162:443?security=tls&type=ws&path=/udfyfws&host=octopusss5.info&sni=octopusss5.info&fp=chrome&encryption=none#🇺🇸 97 - US - VLESS/WS/TLS/UTLS - 443
 
-vless://fec70375-29cf-46cf-b314-536c74feee94@104.19.208.184:8443?type=ws&encryption=none&path=/admin.php&host=ratatouille.adaspoloandco.com&security=tls&fp=chrome&alpn=h2,http/1.1&sni=ratatouille.adaspoloandco.com#🇺🇸 98 - US - VLESS/WS/TLS/UTLS - 8443
+vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@172.67.71.247:443?security=tls&type=ws&path=/udfyfws&host=octopusss5.info&sni=octopusss5.info&fp=chrome&encryption=none#🇺🇸 98 - US - VLESS/WS/TLS/UTLS - 443
 
-vless://fec70375-29cf-46cf-b314-536c74feee94@104.19.64.105:8443?security=tls&type=ws&path=/admin.php&host=ratatouille.adaspoloandco.com&alpn=h2,http/1.1&sni=ratatouille.adaspoloandco.com&fp=chrome&encryption=none#🇺🇸 99 - US - VLESS/WS/TLS/UTLS - 8443
+vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@173.245.59.162:443?security=tls&type=ws&path=/udfyfws&host=octopusss5.info&sni=octopusss5.info&fp=chrome&encryption=none#🇺🇸 99 - US - VLESS/WS/TLS/UTLS - 443
 
-vless://fec70375-29cf-46cf-b314-536c74feee94@104.26.14.85:8443?security=tls&type=ws&path=/admin.php&host=ratatouille.adaspoloandco.com&alpn=h2,http/1.1&sni=ratatouille.adaspoloandco.com&fp=chrome&encryption=none#🇺🇸 100 - US - VLESS/WS/TLS/UTLS - 8443
+vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@188.114.97.6:443?security=tls&type=ws&path=/udfyfws&host=octopusss5.info&sni=octopusss5.info&fp=chrome#🇺🇸 100 - US - VLESS/WS/TLS/UTLS - 443
 
-vless://fec70375-29cf-46cf-b314-536c74feee94@104.27.66.214:8443?type=ws&encryption=none&path=/admin.php&host=ratatouille.adaspoloandco.com&security=tls&fp=chrome&alpn=h2,http/1.1&sni=ratatouille.adaspoloandco.com#🇺🇸 101 - US - VLESS/WS/TLS/UTLS - 8443
+vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@octopusss5.info:443?security=tls&type=ws&path=/udfyfws&host=octopusss5.info&sni=octopusss5.info&fp=chrome&encryption=none#🇺🇸 101 - US - VLESS/WS/TLS/UTLS - 443
 
-vless://fec70375-29cf-46cf-b314-536c74feee94@162.159.253.41:8443?security=tls&type=ws&path=/admin.php&host=ratatouille.adaspoloandco.com&alpn=h2,http/1.1&sni=ratatouille.adaspoloandco.com&fp=chrome&encryption=none#🇺🇸 102 - US - VLESS/WS/TLS/UTLS - 8443
+vless://c7ccd788-1172-46f2-a749-c1a743da2ef2@104.17.121.71:443?security=tls&type=xhttp&path=/Telegram-Zedmodeon&host=faboo.tll-far.ir&alpn=h2,http/1.1&sni=faboo.tll-far.ir&fp=chrome&mode=auto&encryption=none#🇺🇸 102 - US - VLESS/XHTTP/TLS/UTLS - 443
 
-vless://fec70375-29cf-46cf-b314-536c74feee94@162.159.253.41:8443?type=ws&encryption=none&path=/admin.php&host=ratatouille.adaspoloandco.com&security=tls&fp=chrome&alpn=h2,http/1.1&sni=ratatouille.adaspoloandco.com#🇺🇸 103 - US - VLESS/WS/TLS/UTLS - 8443
+vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@104.19.64.105:443?type=ws&encryption=none&path=/GOrbEh&host=rubifen.adaspoloandco.com&security=tls&fp=chrome&alpn=h2,http/1.1,h3&sni=rubifen.adaspoloandco.com#🇺🇸 103 - US - VLESS/WS/TLS/UTLS - 443
 
-vless://fec70375-29cf-46cf-b314-536c74feee94@172.67.74.10:8443?type=ws&encryption=none&path=/admin.php&host=ratatouille.adaspoloandco.com&security=tls&fp=chrome&alpn=h2,http/1.1&sni=ratatouille.adaspoloandco.com#🇺🇸 104 - US - VLESS/WS/TLS/UTLS - 8443
+vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@104.26.14.85:443?type=ws&encryption=none&path=/GOrbEh&host=rubifen.adaspoloandco.com&security=tls&fp=chrome&alpn=h2,http/1.1,h3&sni=rubifen.adaspoloandco.com#🇺🇸 104 - US - VLESS/WS/TLS/UTLS - 443
 
-vless://fec70375-29cf-46cf-b314-536c74feee94@198.202.211.1:8443?type=ws&encryption=none&path=/admin.php&host=ratatouille.adaspoloandco.com&security=tls&fp=chrome&alpn=h2,http/1.1&sni=ratatouille.adaspoloandco.com#🇺🇸 105 - US - VLESS/WS/TLS/UTLS - 8443
+vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@108.162.196.86:443?security=tls&type=ws&path=/GOrbEh&host=rubifen.adaspoloandco.com&sni=rubifen.adaspoloandco.com&fp=chrome&encryption=none#🇺🇸 105 - US - VLESS/WS/TLS/UTLS - 443
 
-vless://monacoVPN@172.65.111.43:22?security=none&type=tcp&headerType=http&path=/@monacoVPN@monacoVPN@monacoVPN@monacoVPN&encryption=none#🇺🇸 106 - US - VLESS - 22
+vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@173.245.49.115:443?security=tls&type=ws&path=/GOrbEh&host=rubifen.adaspoloandco.com&sni=rubifen.adaspoloandco.com&fp=chrome&encryption=none#🇺🇸 106 - US - VLESS/WS/TLS/UTLS - 443
+
+vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@188.114.97.4:443?type=ws&encryption=none&path=/GOrbEh&host=rubifen.adaspoloandco.com&security=tls&fp=chrome&alpn=h2,http/1.1,h3&sni=rubifen.adaspoloandco.com#🇺🇸 107 - US - VLESS/WS/TLS/UTLS - 443
+
+vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@188.114.97.6:443?type=ws&encryption=none&path=/GOrbEh&host=rubifen.adaspoloandco.com&security=tls&fp=chrome&alpn=h2,http/1.1,h3&sni=rubifen.adaspoloandco.com#🇺🇸 108 - US - VLESS/WS/TLS/UTLS - 443
+
+vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@198.202.211.1:443?type=ws&encryption=none&path=/GOrbEh&host=rubifen.adaspoloandco.com&security=tls&fp=chrome&alpn=h2,http/1.1,h3&sni=rubifen.adaspoloandco.com#🇺🇸 109 - US - VLESS/WS/TLS/UTLS - 443
+
+vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@198.41.207.99:443?security=tls&type=ws&path=/GOrbEh&host=rubifen.adaspoloandco.com&sni=rubifen.adaspoloandco.com&fp=chrome&encryption=none#🇺🇸 110 - US - VLESS/WS/TLS/UTLS - 443
+
+vless://d7f588f4-d14b-40df-823f-ac2be36e1393@sourceforge.net:2083?security=tls&type=ws&path=/eyJqdW5rIjoiNTFSdm11bUR4IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==?ed=2560&host=v2ngfast.meloneee.workers.dev&alpn=http/1.1&sni=V2ngFasT.meloneeE.WOrkErS.dev&fp=chrome&encryption=none#🇺🇸 111 - US - VLESS/WS/TLS/UTLS - 2083
+
+vless://db3f09ae-23f2-42b8-abee-7b89fb392c5e@104.26.14.85:8443?type=ws&encryption=none&path=/uploader.php&host=maple.adaspoloandco.com&security=tls&fp=chrome&alpn=h2,http/1.1&sni=maple.adaspoloandco.com#🇺🇸 112 - US - VLESS/WS/TLS/UTLS - 8443
+
+vless://db3f09ae-23f2-42b8-abee-7b89fb392c5e@162.159.253.41:8443?type=ws&encryption=none&path=/uploader.php&host=maple.adaspoloandco.com&security=tls&fp=chrome&alpn=h2,http/1.1&sni=maple.adaspoloandco.com#🇺🇸 113 - US - VLESS/WS/TLS/UTLS - 8443
+
+vless://db3f09ae-23f2-42b8-abee-7b89fb392c5e@172.64.155.209:8443?type=ws&encryption=none&path=/uploader.php&host=maple.adaspoloandco.com&security=tls&fp=chrome&alpn=h2,http/1.1&sni=maple.adaspoloandco.com#🇺🇸 114 - US - VLESS/WS/TLS/UTLS - 8443
+
+vless://db3f09ae-23f2-42b8-abee-7b89fb392c5e@173.245.59.191:8443?type=ws&encryption=none&path=/uploader.php&host=maple.adaspoloandco.com&security=tls&fp=chrome&alpn=h2,http/1.1&sni=maple.adaspoloandco.com#🇺🇸 115 - US - VLESS/WS/TLS/UTLS - 8443
+
+vless://db3f09ae-23f2-42b8-abee-7b89fb392c5e@188.114.97.4:8443?type=ws&encryption=none&path=/uploader.php&host=maple.adaspoloandco.com&security=tls&fp=chrome&alpn=h2,http/1.1&sni=maple.adaspoloandco.com#🇺🇸 116 - US - VLESS/WS/TLS/UTLS - 8443
+
+vless://db3f09ae-23f2-42b8-abee-7b89fb392c5e@188.114.97.6:8443?type=ws&encryption=none&path=/uploader.php&host=maple.adaspoloandco.com&security=tls&fp=chrome&alpn=h2,http/1.1&sni=maple.adaspoloandco.com#🇺🇸 117 - US - VLESS/WS/TLS/UTLS - 8443
+
+vless://db3f09ae-23f2-42b8-abee-7b89fb392c5e@188.114.99.160:8443?type=ws&encryption=none&path=/uploader.php&host=maple.adaspoloandco.com&security=tls&fp=chrome&alpn=h2,http/1.1&sni=maple.adaspoloandco.com#🇺🇸 118 - US - VLESS/WS/TLS/UTLS - 8443
+
+vless://db3f09ae-23f2-42b8-abee-7b89fb392c5e@198.202.211.1:8443?type=ws&encryption=none&path=/uploader.php&host=maple.adaspoloandco.com&security=tls&fp=chrome&alpn=h2,http/1.1&sni=maple.adaspoloandco.com#🇺🇸 119 - US - VLESS/WS/TLS/UTLS - 8443
+
+vless://ef66f257-2187-48a0-ae46-fbd0519d24ab@104.19.64.105:8443?type=ws&encryption=none&path=/RizZrAcK&host=focalin.adaspoloandco.com&security=tls&fp=chrome&alpn=h2,http/1.1&sni=focalin.adaspoloandco.com#🇺🇸 120 - US - VLESS/WS/TLS/UTLS - 8443
+
+vless://ef66f257-2187-48a0-ae46-fbd0519d24ab@104.26.14.85:8443?type=ws&encryption=none&path=/RizZrAcK&host=focalin.adaspoloandco.com&security=tls&fp=chrome&alpn=h2,http/1.1&sni=focalin.adaspoloandco.com#🇺🇸 121 - US - VLESS/WS/TLS/UTLS - 8443
+
+vless://ef66f257-2187-48a0-ae46-fbd0519d24ab@162.159.253.41:8443?security=tls&type=ws&path=/RizZrAcK&host=focalin.adaspoloandco.com&alpn=h2,http/1.1&sni=focalin.adaspoloandco.com&fp=chrome&encryption=none#🇺🇸 122 - US - VLESS/WS/TLS/UTLS - 8443
+
+vless://ef66f257-2187-48a0-ae46-fbd0519d24ab@162.159.253.41:8443?type=ws&encryption=none&path=/RizZrAcK&host=focalin.adaspoloandco.com&security=tls&fp=chrome&alpn=h2,http/1.1&sni=focalin.adaspoloandco.com#🇺🇸 123 - US - VLESS/WS/TLS/UTLS - 8443
+
+vless://ef66f257-2187-48a0-ae46-fbd0519d24ab@188.114.97.4:8443?type=ws&encryption=none&path=/RizZrAcK&host=focalin.adaspoloandco.com&security=tls&fp=chrome&alpn=h2,http/1.1&sni=focalin.adaspoloandco.com#🇺🇸 124 - US - VLESS/WS/TLS/UTLS - 8443
+
+vless://ef66f257-2187-48a0-ae46-fbd0519d24ab@198.202.211.1:8443?type=ws&encryption=none&path=/RizZrAcK&host=focalin.adaspoloandco.com&security=tls&fp=chrome&alpn=h2,http/1.1&sni=focalin.adaspoloandco.com#🇺🇸 125 - US - VLESS/WS/TLS/UTLS - 8443
+
+vless://ef66f257-2187-48a0-ae46-fbd0519d24ab@aletrah.ir:8443?type=ws&encryption=none&path=/RizZrAcK&host=focalin.adaspoloandco.com&security=tls&fp=chrome&alpn=h2,http/1.1&sni=focalin.adaspoloandco.com#🇺🇸 126 - US - VLESS/WS/TLS/UTLS - 8443
+
+vless://ef66f257-2187-48a0-ae46-fbd0519d24ab@b2n.ir:8443?type=ws&encryption=none&path=/RizZrAcK&host=focalin.adaspoloandco.com&security=tls&fp=chrome&alpn=h2,http/1.1&sni=focalin.adaspoloandco.com#🇺🇸 127 - US - VLESS/WS/TLS/UTLS - 8443
+
+vless://f3b8c2a1-9d4e-4b7f-a6c5-2e8d1f0b4a93@104.16.72.162:8443?security=tls&type=ws&path=/&host=srv37.hamiibar.com&sni=srv37.hamiibar.com&fp=chrome#🇺🇸 128 - US - VLESS/WS/TLS/UTLS - 8443
+
+vless://f798a2c4-c51b-409d-b349-ca8455b36796@104.26.14.85:8443?security=tls&type=ws&path=/download.php&host=chopin.adaspoloandco.com&alpn=h2,http/1.1&sni=chopin.adaspoloandco.com&fp=chrome&encryption=none#🇺🇸 129 - US - VLESS/WS/TLS/UTLS - 8443
+
+vless://f798a2c4-c51b-409d-b349-ca8455b36796@104.27.66.214:8443?security=tls&type=ws&path=/download.php&host=chopin.adaspoloandco.com&alpn=h2,http/1.1&sni=chopin.adaspoloandco.com&fp=chrome&encryption=none#🇺🇸 130 - US - VLESS/WS/TLS/UTLS - 8443
+
+vless://f798a2c4-c51b-409d-b349-ca8455b36796@104.27.66.214:8443?type=ws&encryption=none&path=/download.php&host=chopin.adaspoloandco.com&security=tls&fp=chrome&alpn=h2,http/1.1&sni=chopin.adaspoloandco.com#🇺🇸 131 - US - VLESS/WS/TLS/UTLS - 8443
+
+vless://f798a2c4-c51b-409d-b349-ca8455b36796@141.101.115.71:8443?type=ws&encryption=none&path=/download.php&host=chopin.adaspoloandco.com&security=tls&fp=chrome&alpn=h2,http/1.1&sni=chopin.adaspoloandco.com#🇺🇸 132 - US - VLESS/WS/TLS/UTLS - 8443
+
+vless://f798a2c4-c51b-409d-b349-ca8455b36796@162.159.253.41:8443?security=tls&type=ws&path=/download.php&host=chopin.adaspoloandco.com&alpn=h2,http/1.1&sni=chopin.adaspoloandco.com&fp=chrome&encryption=none#🇺🇸 133 - US - VLESS/WS/TLS/UTLS - 8443
+
+vless://f798a2c4-c51b-409d-b349-ca8455b36796@162.159.253.41:8443?type=ws&encryption=none&path=/download.php&host=chopin.adaspoloandco.com&security=tls&fp=chrome&alpn=h2,http/1.1&sni=chopin.adaspoloandco.com#🇺🇸 134 - US - VLESS/WS/TLS/UTLS - 8443
+
+vless://f798a2c4-c51b-409d-b349-ca8455b36796@188.114.97.4:8443?security=tls&type=ws&path=/download.php&host=chopin.adaspoloandco.com&alpn=h2,http/1.1&sni=chopin.adaspoloandco.com&fp=chrome&encryption=none#🇺🇸 135 - US - VLESS/WS/TLS/UTLS - 8443
+
+vless://f798a2c4-c51b-409d-b349-ca8455b36796@198.202.211.1:8443?type=ws&encryption=none&path=/download.php&host=chopin.adaspoloandco.com&security=tls&fp=chrome&alpn=h2,http/1.1&sni=chopin.adaspoloandco.com#🇺🇸 136 - US - VLESS/WS/TLS/UTLS - 8443
+
+vless://fa957c2e-2eef-42e6-804b-a2a16fab0781@188.114.97.6:443?security=tls&type=xhttp&path=/xn--q9jyb4c&host=us.dns.xn--q9jyb4c&sni=us.dns.xn--q9jyb4c&fp=chrome&mode=packet-up&encryption=none#🇺🇸 137 - US - VLESS/XHTTP/TLS/UTLS - 443
+
+vless://fec70375-29cf-46cf-b314-536c74feee94@104.19.208.184:8443?security=tls&type=ws&path=/admin.php&host=ratatouille.adaspoloandco.com&alpn=h2,http/1.1&sni=ratatouille.adaspoloandco.com&fp=chrome&encryption=none#🇺🇸 138 - US - VLESS/WS/TLS/UTLS - 8443
+
+vless://fec70375-29cf-46cf-b314-536c74feee94@104.19.208.184:8443?type=ws&encryption=none&path=/admin.php&host=ratatouille.adaspoloandco.com&security=tls&fp=chrome&alpn=h2,http/1.1&sni=ratatouille.adaspoloandco.com#🇺🇸 139 - US - VLESS/WS/TLS/UTLS - 8443
+
+vless://fec70375-29cf-46cf-b314-536c74feee94@104.27.66.214:8443?security=tls&type=ws&path=/admin.php&host=ratatouille.adaspoloandco.com&alpn=h2,http/1.1&sni=ratatouille.adaspoloandco.com&fp=chrome&encryption=none#🇺🇸 140 - US - VLESS/WS/TLS/UTLS - 8443
+
+vless://fec70375-29cf-46cf-b314-536c74feee94@104.27.66.214:8443?type=ws&encryption=none&path=/admin.php&host=ratatouille.adaspoloandco.com&security=tls&fp=chrome&alpn=h2,http/1.1&sni=ratatouille.adaspoloandco.com#🇺🇸 141 - US - VLESS/WS/TLS/UTLS - 8443
+
+vless://fec70375-29cf-46cf-b314-536c74feee94@162.159.253.41:8443?security=tls&type=ws&path=/admin.php&host=ratatouille.adaspoloandco.com&alpn=h2,http/1.1&sni=ratatouille.adaspoloandco.com&fp=chrome&encryption=none#🇺🇸 142 - US - VLESS/WS/TLS/UTLS - 8443
+
+vless://fec70375-29cf-46cf-b314-536c74feee94@162.159.253.41:8443?type=ws&encryption=none&path=/admin.php&host=ratatouille.adaspoloandco.com&security=tls&fp=chrome&alpn=h2,http/1.1&sni=ratatouille.adaspoloandco.com#🇺🇸 143 - US - VLESS/WS/TLS/UTLS - 8443
+
+vless://fec70375-29cf-46cf-b314-536c74feee94@172.67.74.10:8443?type=ws&encryption=none&path=/admin.php&host=ratatouille.adaspoloandco.com&security=tls&fp=chrome&alpn=h2,http/1.1&sni=ratatouille.adaspoloandco.com#🇺🇸 144 - US - VLESS/WS/TLS/UTLS - 8443
+
+vless://fec70375-29cf-46cf-b314-536c74feee94@198.202.211.1:8443?type=ws&encryption=none&path=/admin.php&host=ratatouille.adaspoloandco.com&security=tls&fp=chrome&alpn=h2,http/1.1&sni=ratatouille.adaspoloandco.com#🇺🇸 145 - US - VLESS/WS/TLS/UTLS - 8443
+
+vless://monacoVPN@172.65.111.43:22?security=none&type=tcp&headerType=http&path=/@monacoVPN@monacoVPN@monacoVPN@monacoVPN&encryption=none#🇺🇸 146 - US - VLESS - 22
 
 trojan://Masir_Sefid@masir_sefid:443?security=reality&pbk=w0XepGv1Hk0gBh1Apiw-nvn8SfzjWcDuxdxN1mpaF3g&headerType=none&fp=chrome&spx=/zyKRb3NaP9Ee0j4&type=tcp&sni=store.steampowered.com&sid=6ced01fc4aa417#🏳️ 1 - XX - Trojan/TLS/UTLS - 443
 
@@ -225,199 +305,125 @@ trojan://Masir_Sefid@masir_sefid:443?security=reality&pbk=w0XepGv1Hk0gBh1Apiw-nv
 
 trojan://Masir_Sefid@masir_sefid:443?security=reality&pbk=w0XepGv1Hk0gBh1Apiw-nvn8SfzjWcDuxdxN1mpaF3g&headerType=none&fp=chrome&spx=/zyKRb3NaP9Ee0j4&type=tcp&sni=store.steampowered.com&sid=6ced01fc4aa417#🏳️ 4 - XX - Trojan/TLS/UTLS - 443
 
-trojan://MiTiVPN@104.21.93.245:443?sni=wwww.95r.ir&type=ws&path=/ed=mitivpn&alpn=http/1.1&fp=chrome#🇺🇸 5 - US - Trojan/WS/TLS/UTLS - 443
+trojan://humanity@104.16.174.101:443?sni=www.calmloud.com&type=ws&path=/assignment&alpn=http/1.1&fp=chrome#🇺🇸 5 - US - Trojan/WS/TLS/UTLS - 443
 
-trojan://MiTiVPN@172.67.216.227:443?sni=wwww.95r.ir&type=ws&path=/ed=mitivpn&alpn=http/1.1&fp=chrome#🇺🇸 6 - US - Trojan/WS/TLS/UTLS - 443
+trojan://humanity@104.16.174.109:443?sni=www.ignitelimit.com&type=ws&path=/assignment&fp=chrome#🇺🇸 6 - US - Trojan/WS/TLS/UTLS - 443
 
-trojan://humanity@104.16.117.43:443?sni=www.creationlong.org&type=ws&path=/assignment&fp=chrome#🇺🇸 7 - US - Trojan/WS/TLS/UTLS - 443
+trojan://humanity@104.16.174.121:443?sni=www.calmloud.com&type=ws&path=/assignment&alpn=http/1.1&fp=chrome#🇺🇸 7 - US - Trojan/WS/TLS/UTLS - 443
 
-trojan://humanity@104.16.174.109:443?sni=www.calmloud.com&type=ws&path=/assignment&alpn=http/1.1&fp=chrome#🇺🇸 8 - US - Trojan/WS/TLS/UTLS - 443
+trojan://humanity@104.16.174.148:443?sni=www.ignitelimit.com&type=ws&path=/assignment&fp=chrome#🇺🇸 8 - US - Trojan/WS/TLS/UTLS - 443
 
-trojan://humanity@104.16.174.109:443?sni=www.ignitelimit.com&type=ws&path=/assignment&fp=chrome#🇺🇸 9 - US - Trojan/WS/TLS/UTLS - 443
+trojan://humanity@104.16.174.14:443?sni=www.ignitelimit.com&type=ws&path=/assignment&fp=chrome#🇺🇸 9 - US - Trojan/WS/TLS/UTLS - 443
 
-trojan://humanity@104.16.174.121:443?sni=www.ignitelimit.com&type=ws&path=/assignment&fp=chrome#🇺🇸 10 - US - Trojan/WS/TLS/UTLS - 443
+trojan://humanity@104.16.174.33:443?sni=www.ignitelimit.com&type=ws&path=/assignment&fp=chrome#🇺🇸 10 - US - Trojan/WS/TLS/UTLS - 443
 
-trojan://humanity@104.16.174.148:443?sni=www.ignitelimit.com&type=ws&path=/assignment&fp=chrome#🇺🇸 11 - US - Trojan/WS/TLS/UTLS - 443
+trojan://humanity@104.16.174.34:443?sni=www.ignitelimit.com&type=ws&path=/assignment&fp=chrome#🇺🇸 11 - US - Trojan/WS/TLS/UTLS - 443
 
-trojan://humanity@104.16.174.14:443?sni=www.ignitelimit.com&type=ws&path=/assignment&fp=chrome#🇺🇸 12 - US - Trojan/WS/TLS/UTLS - 443
+trojan://humanity@104.16.174.36:443?sni=www.ignitelimit.com&type=ws&path=/assignment&fp=chrome#🇺🇸 12 - US - Trojan/WS/TLS/UTLS - 443
 
-trojan://humanity@104.16.174.44:443?sni=www.ignitelimit.com&type=ws&path=/assignment&fp=chrome#🇺🇸 13 - US - Trojan/WS/TLS/UTLS - 443
+trojan://humanity@104.16.174.37:443?sni=www.ignitelimit.com&type=ws&path=/assignment&fp=chrome#🇺🇸 13 - US - Trojan/WS/TLS/UTLS - 443
 
-trojan://humanity@104.16.174.72:443?sni=www.calmloud.com&type=ws&path=/assignment&alpn=http/1.1&fp=chrome#🇺🇸 14 - US - Trojan/WS/TLS/UTLS - 443
+trojan://humanity@104.16.174.72:443?sni=www.ignitelimit.com&type=ws&path=/assignment&fp=chrome#🇺🇸 14 - US - Trojan/WS/TLS/UTLS - 443
 
-trojan://humanity@104.16.250.22:443?sni=www.multiplydose.com&type=ws&path=/assignment&fp=chrome#🇺🇸 15 - US - Trojan/WS/TLS/UTLS - 443
+trojan://humanity@104.16.7.70:443?sni=www.calmloud.com&type=ws&path=/assignment&fp=chrome#🇺🇸 15 - US - Trojan/WS/TLS/UTLS - 443
 
-trojan://humanity@104.16.62.25:443?sni=www.creationlong.org&type=ws&path=/assignment&fp=chrome#🇺🇸 16 - US - Trojan/WS/TLS/UTLS - 443
+trojan://humanity@104.16.7.70:443?sni=www.ignitelimit.com&type=ws&path=/assignment&fp=chrome#🇺🇸 16 - US - Trojan/WS/TLS/UTLS - 443
 
-trojan://humanity@104.16.63.25:443?sni=www.creationlong.org&allowInsecure=1&type=ws&path=/assignment&fp=chrome#🇺🇸 17 - US - Trojan/WS/TLS/UTLS - 443
+trojan://humanity@104.17.121.71:443?sni=www.calmlunch.com&type=ws&path=/assignment&fp=chrome#🇺🇸 17 - US - Trojan/WS/TLS/UTLS - 443
 
-trojan://humanity@104.16.7.70:443?sni=www.calmloud.com&type=ws&path=/assignment&fp=chrome#🇺🇸 18 - US - Trojan/WS/TLS/UTLS - 443
+trojan://humanity@104.17.121.71:443?sni=www.multiplydose.com&type=ws&path=/assignment&fp=chrome#🇺🇸 18 - US - Trojan/WS/TLS/UTLS - 443
 
-trojan://humanity@104.16.7.70:443?sni=www.calmlunch.com&type=ws&path=/assignment&fp=chrome#🇺🇸 19 - US - Trojan/WS/TLS/UTLS - 443
+trojan://humanity@104.18.1.249:443?sni=www.ignitelimit.com&type=ws&path=/assignment&alpn=h2,http/1.1&fp=chrome#🇺🇸 19 - US - Trojan/WS/TLS/UTLS - 443
 
-trojan://humanity@104.16.7.70:443?sni=www.ignitelimit.com&type=ws&path=/assignment&fp=chrome#🇺🇸 20 - US - Trojan/WS/TLS/UTLS - 443
+trojan://humanity@104.18.12.149:443?sni=www.calmloud.com&type=ws&path=/assignment&alpn=http/1.1&fp=chrome#🇺🇸 20 - US - Trojan/WS/TLS/UTLS - 443
 
-trojan://humanity@104.16.71.213:443?sni=www.calmlunch.com&type=ws&path=/assignment&fp=chrome#🇺🇸 21 - US - Trojan/WS/TLS/UTLS - 443
+trojan://humanity@104.18.12.149:443?sni=www.ignitelimit.com&type=ws&path=/assignment&fp=chrome#🇺🇸 21 - US - Trojan/WS/TLS/UTLS - 443
 
-trojan://humanity@104.17.121.71:443?sni=www.calmloud.com&allowInsecure=1&type=ws&path=/assignment&alpn=http/1.1&fp=chrome#🇺🇸 22 - US - Trojan/WS/TLS/UTLS - 443
+trojan://humanity@104.18.15.230:443?sni=www.ignitelimit.com&type=ws&path=/assignment&alpn=h2,http/1.1&fp=chrome#🇺🇸 22 - US - Trojan/WS/TLS/UTLS - 443
 
-trojan://humanity@104.17.121.71:443?sni=www.calmlunch.com&type=ws&path=/assignment&fp=chrome#🇺🇸 23 - US - Trojan/WS/TLS/UTLS - 443
+trojan://humanity@104.18.152.108:443?sni=www.ignitelimit.com&type=ws&path=/assignment&fp=chrome#🇺🇸 23 - US - Trojan/WS/TLS/UTLS - 443
 
-trojan://humanity@104.17.121.71:443?sni=www.multiplydose.com&type=ws&path=/assignment&fp=chrome#🇺🇸 24 - US - Trojan/WS/TLS/UTLS - 443
+trojan://humanity@104.18.152.113:443?sni=www.ignitelimit.com&type=ws&path=/assignment&fp=chrome#🇺🇸 24 - US - Trojan/WS/TLS/UTLS - 443
 
-trojan://humanity@104.17.150.76:443?sni=www.calmloud.com&type=ws&path=/assignment&alpn=http/1.1&fp=chrome#🇺🇸 25 - US - Trojan/WS/TLS/UTLS - 443
+trojan://humanity@104.18.152.144:443?sni=www.calmloud.com&type=ws&path=/assignment&alpn=http/1.1&fp=chrome#🇺🇸 25 - US - Trojan/WS/TLS/UTLS - 443
 
-trojan://humanity@104.17.25.173:443?sni=www.multiplydose.com&type=ws&path=/assignment&fp=chrome#🇺🇸 26 - US - Trojan/WS/TLS/UTLS - 443
+trojan://humanity@104.18.152.155:443?sni=www.ignitelimit.com&type=ws&path=/assignment&fp=chrome#🇺🇸 26 - US - Trojan/WS/TLS/UTLS - 443
 
-trojan://humanity@104.17.72.206:443?sni=www.calmloud.com&type=ws&path=/assignment&fp=chrome#🇺🇸 27 - US - Trojan/WS/TLS/UTLS - 443
+trojan://humanity@104.18.152.159:443?sni=www.ignitelimit.com&type=ws&path=/assignment&fp=chrome#🇺🇸 27 - US - Trojan/WS/TLS/UTLS - 443
 
-trojan://humanity@104.18.1.55:443?sni=www.gossipglove.com&type=ws&path=/assignment&alpn=http/1.1&fp=chrome#🇺🇸 28 - US - Trojan/WS/TLS/UTLS - 443
+trojan://humanity@104.18.152.161:443?sni=www.ignitelimit.com&type=ws&path=/assignment&fp=chrome#🇺🇸 28 - US - Trojan/WS/TLS/UTLS - 443
 
-trojan://humanity@104.18.11.110:443?sni=www.multiplydose.com&allowInsecure=1&type=ws&path=/assignment&fp=chrome#🇺🇸 29 - US - Trojan/WS/TLS/UTLS - 443
+trojan://humanity@104.18.152.175:443?sni=www.ignitelimit.com&type=ws&path=/assignment&fp=chrome#🇺🇸 29 - US - Trojan/WS/TLS/UTLS - 443
 
-trojan://humanity@104.18.12.149:443?sni=www.calmlunch.com&type=ws&path=/assignment&fp=chrome#🇺🇸 30 - US - Trojan/WS/TLS/UTLS - 443
+trojan://humanity@104.18.152.208:443?sni=www.ignitelimit.com&type=ws&path=/assignment&fp=chrome#🇺🇸 30 - US - Trojan/WS/TLS/UTLS - 443
 
-trojan://humanity@104.18.12.149:443?sni=www.multiplydose.com&allowInsecure=1&type=ws&path=/assignment&fp=chrome#🇺🇸 31 - US - Trojan/WS/TLS/UTLS - 443
+trojan://humanity@104.18.152.210:443?sni=www.ignitelimit.com&type=ws&path=/assignment&fp=chrome#🇺🇸 31 - US - Trojan/WS/TLS/UTLS - 443
 
-trojan://humanity@104.18.152.103:443?sni=www.ignitelimit.com&type=ws&path=/assignment&fp=chrome#🇺🇸 32 - US - Trojan/WS/TLS/UTLS - 443
+trojan://humanity@104.18.152.225:443?sni=www.ignitelimit.com&type=ws&path=/assignment&fp=chrome#🇺🇸 32 - US - Trojan/WS/TLS/UTLS - 443
 
-trojan://humanity@104.18.152.140:443?sni=www.calmloud.com&type=ws&path=/assignment&alpn=http/1.1&fp=chrome#🇺🇸 33 - US - Trojan/WS/TLS/UTLS - 443
+trojan://humanity@104.18.152.233:443?sni=www.ignitelimit.com&type=ws&path=/assignment&fp=chrome#🇺🇸 33 - US - Trojan/WS/TLS/UTLS - 443
 
-trojan://humanity@104.18.152.144:443?sni=www.calmloud.com&type=ws&path=/assignment&alpn=http/1.1&fp=chrome#🇺🇸 34 - US - Trojan/WS/TLS/UTLS - 443
+trojan://humanity@104.18.152.73:443?sni=www.ignitelimit.com&type=ws&path=/assignment&fp=chrome#🇺🇸 34 - US - Trojan/WS/TLS/UTLS - 443
 
-trojan://humanity@104.18.152.149:443?sni=www.calmloud.com&type=ws&path=/assignment&alpn=http/1.1&fp=chrome#🇺🇸 35 - US - Trojan/WS/TLS/UTLS - 443
+trojan://humanity@104.18.152.77:443?sni=www.ignitelimit.com&type=ws&path=/assignment&fp=chrome#🇺🇸 35 - US - Trojan/WS/TLS/UTLS - 443
 
-trojan://humanity@104.18.152.152:443?sni=www.ignitelimit.com&type=ws&path=/assignment&fp=chrome#🇺🇸 36 - US - Trojan/WS/TLS/UTLS - 443
+trojan://humanity@104.18.185.26:443?sni=www.multiplydose.com&type=ws&path=/assignment&fp=chrome#🇺🇸 36 - US - Trojan/WS/TLS/UTLS - 443
 
-trojan://humanity@104.18.152.161:443?sni=www.ignitelimit.com&type=ws&path=/assignment&fp=chrome#🇺🇸 37 - US - Trojan/WS/TLS/UTLS - 443
+trojan://humanity@104.18.32.47:443?sni=www.calmlunch.com&type=ws&path=/assignment&fp=chrome#🇺🇸 37 - US - Trojan/WS/TLS/UTLS - 443
 
-trojan://humanity@104.18.152.179:443?sni=www.ignitelimit.com&type=ws&path=/assignment&fp=chrome#🇺🇸 38 - US - Trojan/WS/TLS/UTLS - 443
+trojan://humanity@104.19.2.175:443?sni=www.calmloud.com&type=ws&path=/assignment&alpn=http/1.1&fp=chrome#🇺🇸 38 - US - Trojan/WS/TLS/UTLS - 443
 
-trojan://humanity@104.18.152.187:443?sni=www.ignitelimit.com&type=ws&path=/assignment&fp=chrome#🇺🇸 39 - US - Trojan/WS/TLS/UTLS - 443
+trojan://humanity@104.19.229.21:443?sni=www.calmlunch.com&type=ws&path=/assignment&fp=chrome#🇺🇸 39 - US - Trojan/WS/TLS/UTLS - 443
 
-trojan://humanity@104.18.152.208:443?sni=www.ignitelimit.com&type=ws&path=/assignment&fp=chrome#🇺🇸 40 - US - Trojan/WS/TLS/UTLS - 443
+trojan://humanity@104.20.42.250:443?sni=www.calmloud.com&type=ws&path=/assignment&alpn=http/1.1&fp=ios#🇺🇸 40 - US - Trojan/WS/TLS/UTLS - 443
 
-trojan://humanity@104.18.152.210:443?sni=www.ignitelimit.com&type=ws&path=/assignment&fp=chrome#🇺🇸 41 - US - Trojan/WS/TLS/UTLS - 443
+trojan://humanity@104.20.6.134:443?sni=www.calmloud.com&type=ws&path=/%2Fassignment&fp=chrome#🇺🇸 41 - US - Trojan/WS/TLS/UTLS - 443
 
-trojan://humanity@104.18.152.229:443?sni=www.ignitelimit.com&type=ws&path=/assignment&fp=chrome#🇺🇸 42 - US - Trojan/WS/TLS/UTLS - 443
+trojan://humanity@104.20.6.134:443?sni=www.ignitelimit.com&type=ws&path=/assignment&alpn=h2,http/1.1&fp=chrome#🇺🇸 42 - US - Trojan/WS/TLS/UTLS - 443
 
-trojan://humanity@104.18.152.233:443?sni=www.calmloud.com&type=ws&path=/assignment&alpn=http/1.1&fp=chrome#🇺🇸 43 - US - Trojan/WS/TLS/UTLS - 443
+trojan://humanity@104.25.109.237:443?sni=www.calmlunch.com&type=ws&path=/assignment&alpn=h2,http/1.1&fp=chrome#🇺🇸 43 - US - Trojan/WS/TLS/UTLS - 443
 
-trojan://humanity@104.18.152.244:443?sni=www.ignitelimit.com&type=ws&path=/assignment&fp=chrome#🇺🇸 44 - US - Trojan/WS/TLS/UTLS - 443
+trojan://humanity@141.101.90.101:443?sni=www.ignitelimit.com&type=ws&path=/assignment&fp=chrome#🇺🇸 44 - US - Trojan/WS/TLS/UTLS - 443
 
-trojan://humanity@104.18.152.50:443?sni=www.ignitelimit.com&type=ws&path=/assignment&fp=chrome#🇺🇸 45 - US - Trojan/WS/TLS/UTLS - 443
+trojan://humanity@162.159.136.234:443?sni=www.ignitelimit.com&type=ws&path=/assignment&alpn=h2,http/1.1&fp=chrome#🇺🇸 45 - US - Trojan/WS/TLS/UTLS - 443
 
-trojan://humanity@104.18.152.54:443?sni=www.multiplydose.com&type=ws&path=/assignment&alpn=h3,h2&fp=android#🇺🇸 46 - US - Trojan/WS/TLS/UTLS - 443
+trojan://humanity@162.159.253.41:443?sni=www.calmlunch.com&type=ws&path=/assignment&fp=chrome#🇺🇸 46 - US - Trojan/WS/TLS/UTLS - 443
 
-trojan://humanity@104.18.152.73:443?sni=www.ignitelimit.com&type=ws&path=/assignment&fp=chrome#🇺🇸 47 - US - Trojan/WS/TLS/UTLS - 443
+trojan://humanity@162.159.36.20:443?sni=www.calmlunch.com&type=ws&path=/assignment&fp=chrome#🇺🇸 47 - US - Trojan/WS/TLS/UTLS - 443
 
-trojan://humanity@104.18.185.26:443?sni=www.gossipglove.com&type=ws&path=/assignment&fp=chrome#🇺🇸 48 - US - Trojan/WS/TLS/UTLS - 443
+trojan://humanity@162.159.91.211:443?sni=www.calmlunch.com&type=ws&path=/assignment&fp=chrome#🇺🇸 48 - US - Trojan/WS/TLS/UTLS - 443
 
-trojan://humanity@104.18.185.26:443?sni=www.multiplydose.com&type=ws&path=/assignment&fp=chrome#🇺🇸 49 - US - Trojan/WS/TLS/UTLS - 443
+trojan://humanity@172.64.146.127:443?sni=www.multiplydose.com&type=ws&path=/assignment&fp=chrome#🇺🇸 49 - US - Trojan/WS/TLS/UTLS - 443
 
-trojan://humanity@104.18.32.47:443?sni=www.calmloud.com&type=ws&path=/assignment&fp=chrome#🇺🇸 50 - US - Trojan/WS/TLS/UTLS - 443
+trojan://humanity@172.64.146.211:443?sni=www.gossipglove.com&allowInsecure=1&type=ws&path=/assignment&fp=chrome#🇺🇸 50 - US - Trojan/WS/TLS/UTLS - 443
 
-trojan://humanity@104.18.32.47:443?sni=www.calmlunch.com&type=ws&path=/assignment&fp=chrome#🇺🇸 51 - US - Trojan/WS/TLS/UTLS - 443
+trojan://humanity@172.64.146.37:443?sni=www.gossipglove.com&allowInsecure=1&type=ws&path=/assignment&fp=chrome#🇺🇸 51 - US - Trojan/WS/TLS/UTLS - 443
 
-trojan://humanity@104.18.32.47:443?sni=www.creationlong.org&type=ws&path=/assignment&alpn=h3,h2,http/1.1&fp=chrome#🇺🇸 52 - US - Trojan/WS/TLS/UTLS - 443
+trojan://humanity@172.64.147.210:443?sni=www.multiplydose.com&type=ws&path=/assignment&fp=chrome#🇺🇸 52 - US - Trojan/WS/TLS/UTLS - 443
 
-trojan://humanity@104.18.37.228:443?sni=www.calmlunch.com&type=ws&path=/assignment&alpn=h2,http/1.1&fp=chrome#🇺🇸 53 - US - Trojan/WS/TLS/UTLS - 443
+trojan://humanity@172.64.147.24:443?sni=www.gossipglove.com&allowInsecure=1&type=ws&path=/assignment&fp=chrome#🇺🇸 53 - US - Trojan/WS/TLS/UTLS - 443
 
-trojan://humanity@104.18.6.147:443?sni=www.creationlong.org&type=ws&path=/assignment&alpn=h2,http/1.1&fp=chrome#🇺🇸 54 - US - Trojan/WS/TLS/UTLS - 443
+trojan://humanity@172.64.147.24:443?sni=www.multiplydose.com&type=ws&path=/assignment&fp=chrome#🇺🇸 54 - US - Trojan/WS/TLS/UTLS - 443
 
-trojan://humanity@104.18.8.83:443?sni=www.calmlunch.com&type=ws&path=/assignment&fp=chrome#🇺🇸 55 - US - Trojan/WS/TLS/UTLS - 443
+trojan://humanity@172.64.147.52:443?sni=www.gossipglove.com&allowInsecure=1&type=ws&path=/assignment&fp=chrome#🇺🇸 55 - US - Trojan/WS/TLS/UTLS - 443
 
-trojan://humanity@104.18.9.83:443?sni=www.calmlunch.com&type=ws&path=/assignment&fp=chrome#🇺🇸 56 - US - Trojan/WS/TLS/UTLS - 443
+trojan://humanity@172.64.229.75:443?sni=www.calmloud.com&type=ws&path=/assignment&alpn=http/1.1&fp=chrome#🇺🇸 56 - US - Trojan/WS/TLS/UTLS - 443
 
-trojan://humanity@104.18.90.162:443?sni=www.gossipglove.com&type=ws&path=/assignment&alpn=http/1.1&fp=chrome#🇺🇸 57 - US - Trojan/WS/TLS/UTLS - 443
+trojan://humanity@172.66.44.211:443?sni=www.gossipglove.com&type=ws&path=/assignment&fp=chrome#🇺🇸 57 - US - Trojan/WS/TLS/UTLS - 443
 
-trojan://humanity@104.19.229.21:443?sni=www.ignitelimit.com&type=ws&path=/assignment&fp=chrome#🇺🇸 58 - US - Trojan/WS/TLS/UTLS - 443
+trojan://humanity@172.66.47.45:443?sni=www.multiplydose.com&type=ws&path=/assignment&fp=chrome#🇺🇸 58 - US - Trojan/WS/TLS/UTLS - 443
 
-trojan://humanity@104.19.64.105:443?sni=www.calmlunch.com&type=ws&path=/assignment&fp=chrome#🇺🇸 59 - US - Trojan/WS/TLS/UTLS - 443
+trojan://humanity@172.67.200.219:443?sni=www.calmlunch.com&type=ws&path=/assignment&fp=chrome#🇺🇸 59 - US - Trojan/WS/TLS/UTLS - 443
 
-trojan://humanity@104.20.6.134:443?sni=www.multiplydose.com&type=ws&path=/%2Fassignment&fp=chrome#🇺🇸 60 - US - Trojan/WS/TLS/UTLS - 443
+trojan://humanity@188.114.96.3:443?sni=www.calmlunch.com&type=ws&path=/assignment&fp=chrome#🇺🇸 60 - US - Trojan/WS/TLS/UTLS - 443
 
-trojan://humanity@104.21.103.254:443?sni=www.calmlunch.com&allowInsecure=1&type=ws&path=/assignment&alpn=http/1.1&fp=chrome#🇺🇸 61 - US - Trojan/WS/TLS/UTLS - 443
+trojan://humanity@188.114.97.194:443?sni=www.calmloud.com&allowInsecure=1&type=ws&path=/assignment&alpn=http/1.1&fp=chrome#🇺🇸 61 - US - Trojan/WS/TLS/UTLS - 443
 
-trojan://humanity@162.159.17.189:443?sni=www.multiplydose.com&type=ws&path=/assignment&fp=chrome#🇺🇸 62 - US - Trojan/WS/TLS/UTLS - 443
+trojan://humanity@188.114.97.57:443?sni=www.calmloud.com&type=ws&path=/assignment&fp=chrome#🇺🇸 62 - US - Trojan/WS/TLS/UTLS - 443
 
-trojan://humanity@162.159.253.41:443?sni=www.calmlunch.com&type=ws&path=/assignment&fp=chrome#🇺🇸 63 - US - Trojan/WS/TLS/UTLS - 443
+trojan://humanity@188.114.97.6:443?sni=www.creationlong.org&type=ws&path=/assignment&fp=chrome#🇺🇸 63 - US - Trojan/WS/TLS/UTLS - 443
 
-trojan://humanity@162.159.36.20:443?sni=www.calmlunch.com&type=ws&path=/assignment&fp=chrome#🇺🇸 64 - US - Trojan/WS/TLS/UTLS - 443
+trojan://humanity@www.calmlunch.com:443?sni=www.calmlunch.com&type=ws&path=/assignment&fp=chrome#🇺🇸 64 - US - Trojan/WS/TLS/UTLS - 443
 
-trojan://humanity@162.159.91.211:443?sni=www.calmlunch.com&type=ws&path=/assignment&fp=chrome#🇺🇸 65 - US - Trojan/WS/TLS/UTLS - 443
-
-trojan://humanity@172.64.146.143:443?sni=www.multiplydose.com&type=ws&path=/assignment&fp=chrome#🇺🇸 66 - US - Trojan/WS/TLS/UTLS - 443
-
-trojan://humanity@172.64.146.21:443?sni=www.multiplydose.com&type=ws&path=/assignment&fp=chrome#🇺🇸 67 - US - Trojan/WS/TLS/UTLS - 443
-
-trojan://humanity@172.64.146.237:443?sni=www.gossipglove.com&type=ws&path=/assignment&fp=chrome#🇺🇸 68 - US - Trojan/WS/TLS/UTLS - 443
-
-trojan://humanity@172.64.147.131:443?sni=www.gossipglove.com&allowInsecure=1&type=ws&path=/assignment&fp=chrome#🇺🇸 69 - US - Trojan/WS/TLS/UTLS - 443
-
-trojan://humanity@172.64.147.133:443?sni=www.gossipglove.com&allowInsecure=1&type=ws&path=/assignment&fp=chrome#🇺🇸 70 - US - Trojan/WS/TLS/UTLS - 443
-
-trojan://humanity@172.64.147.166:443?sni=www.gossipglove.com&allowInsecure=1&type=ws&path=/assignment&fp=chrome#🇺🇸 71 - US - Trojan/WS/TLS/UTLS - 443
-
-trojan://humanity@172.64.147.223:443?sni=www.multiplydose.com&type=ws&path=/assignment&fp=chrome#🇺🇸 72 - US - Trojan/WS/TLS/UTLS - 443
-
-trojan://humanity@172.64.147.255:443?sni=www.gossipglove.com&allowInsecure=1&type=ws&path=/assignment&fp=chrome#🇺🇸 73 - US - Trojan/WS/TLS/UTLS - 443
-
-trojan://humanity@172.64.147.79:443?sni=www.gossipglove.com&allowInsecure=1&type=ws&path=/assignment&fp=chrome#🇺🇸 74 - US - Trojan/WS/TLS/UTLS - 443
-
-trojan://humanity@172.64.152.23:443?sni=www.calmlunch.com&type=ws&path=/assignment&fp=chrome#🇺🇸 75 - US - Trojan/WS/TLS/UTLS - 443
-
-trojan://humanity@172.64.152.23:443?sni=www.multiplydose.com&type=ws&path=/assignment&fp=chrome#🇺🇸 76 - US - Trojan/WS/TLS/UTLS - 443
-
-trojan://humanity@172.64.152.38:443?sni=www.multiplydose.com&type=ws&path=/assignment&fp=chrome#🇺🇸 77 - US - Trojan/WS/TLS/UTLS - 443
-
-trojan://humanity@172.64.155.209:443?sni=www.gossipglove.com&type=ws&path=/assignment&fp=chrome#🇺🇸 78 - US - Trojan/WS/TLS/UTLS - 443
-
-trojan://humanity@172.66.47.45:443?sni=www.creationlong.org&allowInsecure=1&type=ws&path=/assignment&fp=chrome#🇺🇸 79 - US - Trojan/WS/TLS/UTLS - 443
-
-trojan://humanity@172.66.47.45:443?sni=www.multiplydose.com&type=ws&path=/assignment&fp=chrome#🇺🇸 80 - US - Trojan/WS/TLS/UTLS - 443
-
-trojan://humanity@172.66.47.69:443?sni=www.multiplydose.com&type=ws&path=/assignment&fp=chrome#🇺🇸 81 - US - Trojan/WS/TLS/UTLS - 443
-
-trojan://humanity@172.67.180.92:443?sni=www.multiplydose.com&type=ws&path=/assignment&fp=chrome#🇺🇸 82 - US - Trojan/WS/TLS/UTLS - 443
-
-trojan://humanity@172.67.200.219:443?sni=www.calmlunch.com&type=ws&path=/assignment&fp=chrome#🇺🇸 83 - US - Trojan/WS/TLS/UTLS - 443
-
-trojan://humanity@188.114.96.3:443?sni=www.calmlunch.com&type=ws&path=/assignment&fp=chrome#🇺🇸 84 - US - Trojan/WS/TLS/UTLS - 443
-
-trojan://humanity@188.114.96.3:443?sni=www.creationlong.org&type=ws&path=/assignment&alpn=h2,http/1.1&fp=chrome#🇺🇸 85 - US - Trojan/WS/TLS/UTLS - 443
-
-trojan://humanity@188.114.96.3:443?sni=www.multiplydose.com&type=ws&path=/assignment&fp=chrome#🇺🇸 86 - US - Trojan/WS/TLS/UTLS - 443
-
-trojan://humanity@188.114.97.3:443?sni=www.calmloud.com&type=ws&path=/assignment&fp=chrome#🇺🇸 87 - US - Trojan/WS/TLS/UTLS - 443
-
-trojan://humanity@188.114.97.6:443?sni=www.calmloud.com&type=ws&path=/assignment&fp=chrome#🇺🇸 88 - US - Trojan/WS/TLS/UTLS - 443
-
-trojan://humanity@188.114.97.6:443?sni=www.calmlunch.com&type=ws&path=/assignment&fp=chrome#🇺🇸 89 - US - Trojan/WS/TLS/UTLS - 443
-
-trojan://humanity@188.114.97.6:443?sni=www.gossipglove.com&type=ws&path=/assignment&alpn=http/1.1&fp=chrome#🇺🇸 90 - US - Trojan/WS/TLS/UTLS - 443
-
-trojan://humanity@188.114.97.7:443?sni=www.ignitelimit.com&type=ws&path=/assignment&fp=chrome#🇺🇸 91 - US - Trojan/WS/TLS/UTLS - 443
-
-trojan://humanity@188.114.98.0:443?sni=www.calmlunch.com&type=ws&path=/assignment&fp=chrome#🇺🇸 92 - US - Trojan/WS/TLS/UTLS - 443
-
-trojan://humanity@188.114.98.0:443?sni=www.multiplydose.com&type=ws&path=/assignment&fp=chrome#🇺🇸 93 - US - Trojan/WS/TLS/UTLS - 443
-
-trojan://humanity@ip.myip2.qzz.io:443?sni=www.ignitelimit.com&type=ws&path=/assignment&fp=chrome#🇺🇸 94 - US - Trojan/WS/TLS/UTLS - 443
-
-trojan://humanity@vip3.kaixincloud.top:443?sni=www.multiplydose.com&type=ws&path=/assignment&fp=chrome#🇺🇸 95 - US - Trojan/WS/TLS/UTLS - 443
-
-trojan://humanity@www.calmloud.com:443?sni=www.calmloud.com&type=ws&path=/assignment&alpn=http/1.1&fp=chrome#🇺🇸 96 - US - Trojan/WS/TLS/UTLS - 443
-
-trojan://humanity@www.calmlunch.com:443?sni=www.calmlunch.com&type=ws&path=/assignment&fp=chrome#🇺🇸 97 - US - Trojan/WS/TLS/UTLS - 443
-
-trojan://humanity@www.calmlunch.com:443?sni=www.calmlunch.com&type=ws&path=/assignment&fp=chrome#🇺🇸 98 - US - Trojan/WS/TLS/UTLS - 443
-
-trojan://humanity@www.ignitelimit.com:443?sni=www.ignitelimit.com&type=ws&path=/assignment&alpn=http/1.1&fp=chrome#🇺🇸 99 - US - Trojan/WS/TLS/UTLS - 443
-
-trojan://humanity@www.multiplydose.com:443?sni=www.multiplydose.com&type=ws&path=/assignment&fp=chrome#🇺🇸 100 - US - Trojan/WS/TLS/UTLS - 443
-
-trojan://humanity@www.speedtest.org:443?sni=www.ignitelimit.com&type=ws&path=/assignment&fp=chrome#🇺🇸 101 - US - Trojan/WS/TLS/UTLS - 443
-
-trojan://iW3T_,2o&eJrL(|Q@104.21.83.223:2053?sni=wIld-sUnSET-03a1.deHgHaNPooYa42.WOrkeRS.dev&type=ws&path=/eyJqdW5rIjoiOVJSd0xQWnd0RTBDWHpNaSIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJlZml4IiwicGFuZWxJUHMiOltdfQ==?ed=2560&alpn=http/1.1&fp=chrome#🇺🇸 102 - US - Trojan/WS/TLS/UTLS - 2053
+trojan://humanity@www.speedtest.net:443?sni=www.creationlong.org&type=ws&path=/assignment&alpn=h2,http/1.1&fp=chrome#🇺🇸 65 - US - Trojan/WS/TLS/UTLS - 443
 

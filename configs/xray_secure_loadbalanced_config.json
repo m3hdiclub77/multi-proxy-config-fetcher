@@ -60,11 +60,11 @@
       "settings": {
         "vnext": [
           {
-            "address": "188.114.97.6",
-            "port": 8443,
+            "address": "fbi.gov",
+            "port": 443,
             "users": [
               {
-                "id": "Migambiaargovpn",
+                "id": "1c0abb34-4313-4acb-993d-62bf52eace71",
                 "flow": "",
                 "encryption": "none",
                 "level": 8
@@ -79,78 +79,16 @@
         "wsSettings": {
           "path": "/",
           "headers": {
-            "Host": "argoovpn.imanaghapour.ir"
+            "Host": "c.downloadphysics.ir"
           }
         },
         "tlsSettings": {
-          "serverName": "argoovpn.imanaghapour.ir",
+          "serverName": "c.downloadphysics.ir",
           "allowInsecure": false,
           "alpn": [
             "http/1.1"
           ],
           "fingerprint": "chrome"
-        }
-      }
-    },
-    {
-      "tag": "proxy-2",
-      "protocol": "trojan",
-      "settings": {
-        "servers": [
-          {
-            "address": "www.calmloud.com",
-            "port": 443,
-            "password": "humanity",
-            "level": 8
-          }
-        ]
-      },
-      "streamSettings": {
-        "network": "ws",
-        "security": "tls",
-        "wsSettings": {
-          "path": "/assignment",
-          "headers": {
-            "Host": "www.calmloud.com"
-          }
-        },
-        "tlsSettings": {
-          "serverName": "www.calmloud.com",
-          "allowInsecure": false,
-          "alpn": [
-            "http/1.1"
-          ]
-        }
-      }
-    },
-    {
-      "tag": "proxy-3",
-      "protocol": "trojan",
-      "settings": {
-        "servers": [
-          {
-            "address": "www.ignitelimit.com",
-            "port": 443,
-            "password": "humanity",
-            "level": 8
-          }
-        ]
-      },
-      "streamSettings": {
-        "network": "ws",
-        "security": "tls",
-        "wsSettings": {
-          "path": "/assignment",
-          "headers": {
-            "Host": "www.ignitelimit.com"
-          }
-        },
-        "tlsSettings": {
-          "serverName": "www.ignitelimit.com",
-          "allowInsecure": false,
-          "alpn": [
-            "http/1.1"
-          ]
         }
       }
     },
